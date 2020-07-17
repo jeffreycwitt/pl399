@@ -1,0 +1,97 @@
+---
+layout: default
+---
+<div>
+  <span class="reading-time">Estimated Reading Time: </span>
+  | <span class="watch-time">Estimated Watch Time: {{page.watchtime}} mins</span>
+  | <span class="numQuestions"></span>
+  | <span class="numDiscussions"></span>
+</div>
+<h1>{{page.title}}</h1>
+
+{{content}}
+
+
+<style>
+
+  body {
+    counter-reset: blockquote;
+  }
+  blockquote p::before {
+  counter-increment: blockquote;
+  content: counter(blockquote) ": ";
+  }
+
+  .discussion{
+    border-left: 2px solid red;
+    padding-left: 5px
+  }
+
+  .discussion::before{
+    content: "Discussion: ";
+    display: block;
+    font-weight: bold;
+  }
+
+  .question{
+    border-left: 2px solid blue;
+    padding-left: 5px
+  }
+  
+  .question::before{
+    content: "Question: ";
+    display: block;
+    font-weight: bold;
+  }
+  .question::after{
+    content: "click for answer";
+    display: block;
+    font-size: 12px;
+  }
+  
+  .answer{
+    display: none;
+    border-left: 2px solid blue;
+    padding-left: 5px
+  }
+  .answer::before{
+    content: "Possible Answer: ";
+    display: block;
+    font-weight: bold;
+  }
+  </style>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  
+  <script type="text/javascript">
+  
+  $(document).ready(function(){
+    
+
+    
+    $(".question").click(function(){
+      $(this).next(".answer").toggle();
+    });
+    getReadingTime();
+    
+  });
+  
+  const getReadingTime = () => {
+    const txt = $(".page-content")[0].textContent;
+    const wordCount = txt.replace( /[^\w ]/g, "" ).split( /\s+/ ).length;
+    const numQuestions = $(".question").length;
+    const numDiscussions = $(".discussion").length;
+    const readingTimeInMinutes = Math.floor(wordCount / 228) + 1;
+    const readingTimeAsString = "Estimated Reading Time: " + readingTimeInMinutes + " mins";
+    $('.reading-time').html(readingTimeAsString);
+    if (numQuestions > 0){
+      $('.numQuestions').html("Number of Questions: " + numQuestions);
+    }
+    if (numDiscussions > 0){
+      $('.numDiscussions').html("Number of Discussions: " + numDiscussions);
+    }
+  }
+
+ 
+  
+  </script>
+  
