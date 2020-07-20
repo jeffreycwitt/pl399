@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "22: Shapiro / Barlow - Internet as Savior of Deliberative Democracy"
-nav_order: 22
+title: "24: Shapiro / Barlow - Internet as Savior of Deliberative Democracy"
+nav_order: 24
 ---
 
 1. TOC 

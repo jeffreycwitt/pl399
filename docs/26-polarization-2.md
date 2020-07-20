@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "24: Freedom of speech: Polarization 2; Hardin"
-nav_order: 24
+title: "26: Freedom of speech: Polarization 2; Hardin"
+nav_order: 26
 ---
 
 1. TOC 

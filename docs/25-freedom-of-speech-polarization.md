@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "23: Freedom of speech: Polarization 1"
-nav_order: 23
+title: "25: Freedom of speech: Polarization 1"
+nav_order: 25
 ---
 
 1. TOC 

@@ -6,43 +6,62 @@ nav_order: 14
 1. TOC 
 {:toc}
 
-# II. Nicholas Carr Articles
+# Review
+
+# Nicholas Carr, the Shallows c. 6
 
 In chapter 6 Carr turns his attention to the growing popularity of E-Readers and quotes a few people who are self-identified book lovers and notes their attraction and enthusiasm for the kindle. 
 
+{:.question}
 Question: For example, why does L. Gordon Crovitz like the Kindle and why does Carr think he his enthusiasm is ill-founded?
 
-p. 102:  "Crovitz has fallen victim to blindness that McLuhan warned against; the inability to see how a change in a medium's form is also a change in its content."
+{:.answer}
+> "Crovitz has fallen victim to blindness that McLuhan warned against; the inability to see how a change in a medium's form is also a change in its content." (p. 102)
 
 But is this really the case? In the comparison to the kind of hypertext editions and potential for new hierarchies that we've been discussing, the switch to an e-reader still seems fairly "bookish" to me, it still seems fully embedded in the print-paradigm. 
 
-Question: How does Carr see the shift to an e-reader subtly affecting consciousness?
+{:.question}
+How does Carr see the shift to an e-reader subtly affecting consciousness?
 
+{:.answer}
 p. 102-103: the problem seems to lie in its connectivity, its ability to connect everything else and the immediate accessibility of everything else. 
 
-p. 104: What does Carr/Updike mean when he says the digital book (even just in e-reader form) loses its "edges". Why are these edges important?
+{:.question}
+What does Carr/Updike mean when he says the digital book (even just in e-reader form) loses its "edges" (p. 104: ). Why are these edges important?
 
-Answer: they keep us focused. p. 104 "the LINEARITY of the printed book is shattered" 
+{:.answer}
+they keep us focused. p. 104 "the LINEARITY of the printed book is shattered" 
 
+<div class="discussion">
 How does this compare to the concerns with imposed "linearity" by the likes of Bush, Nelson, and Roland Barthes?
 
 How are we supposed to weigh the pros and cons here? Or is there no way to speak of better and worse, but only the ability to recognize that every gain comes with loss??
+</div>
 
+{:.question}
 Objection: Why can't we just say, don't follow the link. Stay where you are?
 
-Answer: I think we say that, but then we're having a discussion about theory and not about practice. If we believe Carr, then empirical studies seem to show that on the whole we can't stop ourselves from following these links. And therefore, though it may not be NECESSARY, it nevertheless remains true that the dominant use of media shift is changing us.
+{:.answer}
+I think we say that, but then we're having a discussion about theory and not about practice. If we believe Carr, then empirical studies seem to show that on the whole we can't stop ourselves from following these links. And therefore, though it may not be NECESSARY, it nevertheless remains true that the dominant use of media shift is changing us.
 
-Question: p. 105: How might distracted reading lead to changes in writing, bring the effects of a media shift into a reinforcing circle. 
+{:.question}
+p. 105: How might distracted reading lead to changes in writing, bring the effects of a media shift into a reinforcing circle. 
 
+{:.answer}
 p. 106: Judith Curr, Simon and Schuster: "You can't just be linear anymore with your text" (other examples, embedding videos into books, etc. )
 
-Question: p. 107: What does Carr say about the "finality" and "permanence" of the printed book? How does he think this compares to digital medium? Why is this important?
+{:.question}
+p. 107: What does Carr say about the "finality" and "permanence" of the printed book? How does he think this compares to digital medium? Why is this important?
 
-Again, I'd like to note here a tension between the dominant use of a medium and the possibilities of medium. 
+{:.answer}
+Carr seems to the content on the internet as constantly moving and changing. The dynamism praised by someone like Nelson seems, in Carr's mind, to threaten the possibility of a fixed reference: "a fixed reference which he seems to regard a necessary for deep thinking
+
+
+**NOTE:** I'd like to note here a tension between the dominant use of a medium and the possibilities of medium. 
 
 One the one hand is absolutely false (and uninformed) to say that we cannot create "immutable" digital objects. 
 
-On the other hand, it is true that the web at the present functions primarily through look ups on "mutable objects" (via location-based lookups)
+On the other hand, it is true that the web at the present functions primarily through look ups on "mutable objects" (via location-based lookups) (link to IPFS) (connection here to lessig and the way the "code" makes something artificial and contingent feel natural and necessary.)
 
 But this doesn't mean we won't see in the future new developments that promote lookups of "immutable objects (via content-based lookups)
 
@@ -52,7 +71,7 @@ Nevertheless, the dominant social practice (at present) tends in the direction o
 
 My question, for myself, (as a scholar and builder) is to what extent this means we need to be wary of the shift to the digital medium, or to what extent we need to be wary of social inertial and market forces that determining how we use that medium. And instead of rejecting the shift, maybe my scholarly responsibility lies in contributing to social uses of that medium that are driven scientific demands rather than market forces.
 
-[transition to chapter 7] 
+# Carr, Chapter 7
 
 This tension between "forcing/necessitating" and "tending/rewarding" [write on board] seems to be acknowledged by Carr in chapter 7.
 
@@ -64,10 +83,13 @@ Even here I want to be a bit cautious. Is it the technology that "encourages" th
 
 To be sure, the digital technology opens up the possibility for new kinds of user-interfaces that have clearly been attractive to commercial interest. 
 
+<div class="discussion">
 Discussion: But does it seem possible that we could design interfaces that encourage deeper think/reading? Or am I too optimistic here?
 
 Examples: Are there examples of an encountering electronic texts in interfaces that promote concentrated reading/writing?
+</div>
 
+<div class="discussion">
 Question: Does the design of an interface place a responsibility on the author or information creator that wasn't present before? 
 
 I mean: if the printed book had natural limits, then I, as an author, could assume that the text I write would appear (or be presented) within the confines of limited range of presentation possibilities. No matter what publisher I give it to, I know that it will be presented on paper, in a static form, adhering to a standard visual encoding that all literary people can decipher. 
@@ -75,22 +97,28 @@ I mean: if the printed book had natural limits, then I, as an author, could assu
 But it is less clear that this is the case today. 
 
 Do we therefore as scholars/researchers/content creators need to take a deeper interest in the construction of our interfaces. To design suitable interfaces, or at least recommend interfaces where the author thinks this information is best read. (If I focus on just creating data, should the author/editor be concerned with the design of presentations or is that someone else's job). 
+</div>
 
 And perhaps it doesn't change Carr's point. We can offer multiple interfaces, but if social gravity tends toward multi-tasking interface, then the social effects he describes are still taking place, even if they are not strictly speaking necessary.
 
+{:.question}
 p. 116-117, Question: Why does Carr say that, if we set out to design a machine to re-wire the brain quickly and efficiently, we would have invented something like the Internet. What is it about the dominant environment of the web that makes this so?
 
-p.117: "the net also provides a high-speed system for delivering responses and rewards -- "positive reinforcements," in psychological terms -- which encourage the repetition of both physical and mental actions...."
+<div class="answer">
+> p.117: "the net also provides a high-speed system for delivering responses and rewards -- "positive reinforcements," in psychological terms -- which encourage the repetition of both physical and mental actions...."
+> p. 117 "it also turns us into lab rats constantly pressing levers to get tiny pellets of social or intellectual nourishment"
+</div>
 
-p. 117 "it also turns us into lab rats constantly pressing levers to get tiny pellets of social or intellectual nourishment"
+<div class="discussion">
 
-Question: does the messiness of an elaborate printed critical editions escape this critique? Is Carr's critique valid only to certain kinds of texts (novels, monographs etc.)
+Does the messiness of an elaborate printed critical editions escape this critique? Is Carr's critique valid only to certain kinds of texts (novels, monographs etc.)
 
 Is it possible to think that the critical edition, the scholarly reference book, has always been overloaded with multiple kinds of information all vying for the reader's attention?
 
 Or is the "reference work" online somehow still more distracting than the "reference work" in print. 
 
 p. 118: "The Net seizes our attention only to scatter it"
+</div>
 
 
 Discussion: I think we also need to step back from Carr's critique and think once more about the categories of evaluation. 
@@ -105,7 +133,7 @@ But of course, the digital medium is also engendering new kinds of brain activit
 
 Carr certainly acknowledges that a "trading of skills" takes place: 
 
-p. 121: "We gain new skills and perspectives, but lose old ones"
+> p. 121: "We gain new skills and perspectives, but lose old ones"
 
 But I'm less convinced that he's given me a rock-solid foundation to justify the valuing of one set of skills over another.
 
@@ -113,7 +141,7 @@ But I'm less convinced that he's given me a rock-solid foundation to justify the
 
 See article by Sam Anderson "In Defense of Distraction" 2009, New York Magazine, cited by Carr on p. 140: article points to some of the new mental advantages created by use of the Internet
 
-p. 141: quote from Patricia Greenfield: "every medium develops some cognitive skills at the expense of others"
+> p. 141: quote from Patricia Greenfield: "every medium develops some cognitive skills at the expense of others"
 
 In response to the above quotations Carr writes:
 
@@ -123,18 +151,23 @@ But isn't Carr equally criticizing this new intelligence on by defining intellig
 
 Or is he appealing to a universal standard of intelligence that belongs to the essence of what it means to be a human being and human flourishing??
 
-Question: p. 121-122: what different sets of skills, according to brain research, are being promoted by linear book reading and internet-surfing?
+**Another concern**
 
-	Answer: language, memory, visual processing vs. decision making and problem solving.
+{:.question}
+p. 121-122: what different sets of skills, according to brain research, are being promoted by linear book reading and internet-surfing?
 
-Why decision making? 
+{:.answer}
+Answer: language, memory, visual processing vs. decision making and problem solving.
+
+The emphasis of decision-making here seems noteworthy.
 
 I find this interesting: This suggests to me that even if I try to remain focused on reading an electronic page (that is to refuse to follow hyper-links, but instead remain focused on the linear links) but where I know hyper-links are available, that I'm already necessarily involved in decision making tasks (decisions to not follow a link) that are competing with my sentence or paragraph interpretation skills. 
 
 (See also p. 125, the two most dominant sources of cognitive over-load are "extraneous problem-solving and divided attention")
 
-p. 126-127: Hyperlinks as a direct example of contributing to cognitive overload. Studies show less retention when reading a document with hyperlinks. 
+> p. 126-127: Hyperlinks as a direct example of contributing to cognitive overload. Studies show less retention when reading a document with hyperlinks. 
 
+**A possible response**
 I might agree and but once more I would make a distinction. 
 
 Hyperlinks, as discussed here, are a presentation and user experience decision. 
@@ -147,9 +180,10 @@ In other words, I don't think Carr's critique yet full appreciate this critical 
 
 [Example from lombardpress decisions to minimize hyperlinks][hidden paragraph menu]
 
+<div class="discussion">
 Discussion: p. 130 critique of multimedia presentations, such as text with video. 
-
 How does this strike you? True or false? Over stated, overgeneralized? 
+</div>
 
 On the one hand it makes sense to me.
 
@@ -160,8 +194,6 @@ Part of this seems to me to have to do with the subject matter at hand. And I th
 Is a critical apparatus really the best way to experience or understanding information about variants? Isn't an image a better vehicle here? 
 
 I've taken a lot of coding class online. Most of these involve an instructor speaking and showing via a video. This is infinitely more informative to me that an article. An article is typically useful to me after I already have high level of understanding and need to clarify a particular point. 
-
-Question: Are there examples or experiences that are relevant here?
 
 p. 131: perhaps Carr acknowledge this on p. 131 but notes, "the internet, however, wasn't built by educators to optimize learning. It presents information not in a carefully balanced way but as a concentration-fragmenting mishmash"
 

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "26: Regulation Proposals"
-nav_order: 26
+title: "27: Regulation Proposals"
+nav_order: 27
 ---
 <!-- Sunstein chapter 9 -->
 

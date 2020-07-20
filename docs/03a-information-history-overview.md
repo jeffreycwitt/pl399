@@ -1,18 +1,46 @@
 ---
-layout: default
-title: "3a: Glieck, Introduction and Goals"
-nav_order: 3
+layout: lecture
+title: "3.1: Reading Information History: Overview and Goals"
+nav_order: 3.1
 ---
 
-# Introduction
+# Unit Overview
 
-(Some notes on introducing our reading of Glieck)
+I don't want to say much more at this point. My point here to gesture at what we want to learn about. What exactly "information", how it was discovered, and how it enables this new kind of communication is precisely what we want to learn and discuss over the next 2 or 3 weeks.
 
-Our goal is to use this book to historically introduce ourself to the ways "the medium" affects the message and/or consciousness. 
+The subtitle of Glieck's text is a helpful guide to the trajectory we are going to try to trace over the next two to three weeks. 
+
+His subtitle reads: 
+
+> "A history, a theory, and a flood"
+
+The subtitle to trajectory oriented around a central point. 
+
+There is a history leading up to a moment, the birth of a specific theory, and following this birth is a flood of consequences. 
+
+This is the trajectory we want to follow. 
+
+1) First we want to follow a history; namely the dialectic between communication and the development of new medium to carry those messages. 
+
+In line with the McLuhan thesis: This history of technological shifts affects consciousness eventually leading us to a new idea, the idea of "information". 
+
+This is the "theory" that Glieck points as the turning point, and today this is sometimes called the "Informational Turn" that would have dramatic impacts on communication in the late 20th and early 21st centuries, what Glieck calls the "Flood". 
+
+In this lesson and the next, we are going to try to follow this early history. Our goal will simply be to watch as new media emerge, and to reflect on our two large course questions: 1) how are these media shifts affecting the message; and 2) what are the pros and cons of these shifts; what new gains are made for human kind; what losses are suffered?
+
+2) Following this, we will turn to the new "theory of information"
+
+3) And third we will look generally at the application of this new theory
+
+# Introduction: A quick glimpse forward.
+
+Before jumping to the history, I think it will be helpful to pause on consider the larger problem that this history will lead to and the general nature of the solution that will be offered. Having a little sense of the destination will bring some clarity and purpose to our observation of history.
+
+So, as stated many times our goal is to use this book to historically introduce ourself to the ways "the medium" affects the message and/or consciousness. 
 
 We also want to see that this influence, in a kind of circular, way affects our understanding of just what the "medium" is. 
 
-In fact that evolving understanding of the medium (is a voice, sound, ink, paper) lies at the heart of the what we today call "information theory" and philosophers sometime refer to is as the "informationl turn". 
+In fact that evolving understanding of the medium (is a voice, sound, ink, paper) lies at the heart of the what we today call "information theory" and philosophers sometime refer to is as the "informational turn". 
 
 In fact Dretske in 1981 said the following: 
 
@@ -35,11 +63,14 @@ But the suggestion here is that "the informational turn" is tied to the discover
 Strange as it may be the story to be told is that the discovery or invention of the information as a "medium" at a higher level of abstraction has proved incredibly powerful, making scientific breakthrough possible in a variety of fields as well as making possible the scale and speed of communication that we wrestle with today.
 
 ## Example 1 (maybe this example should come up organically during the course of reading)
+[maybe this could be a little video]
 
 Let's consider the text on th is page / or the blackboard; "Add 3 cups of sugar and then stir"
 
+{:.question}
 What is the message? 
 
+{:.answer}
 Well, of course, we can't express it to each other without using the medium of sound and words. 
 
 But it is something like: "directions for backing something" whose message can be inferred from someone following those directions.
@@ -90,7 +121,7 @@ Shannon, in his landmark paper, suggest the need for a concept of "information" 
 (See PofI, 2013, p. 18)
 
 
-# Example 2
+## Example 2
 
 (I'm not sure if this example is helpful. It could be cut.)
 
@@ -111,11 +142,6 @@ The question is how can it recognize an identify between "a" in light waves and 
 The information turn answer is that it is the "information of a" that can be recognized in light and sound with requiring the semantic recognition that light pattern means "a" which is conventionally with this sound pattern "a".
 
 And rather then providing us with answer, it again points us to the question we are looking for what is the "information of a" that allows the "message of a" to be continuously transmitted across both light and sound waves.
-
-
-# Transition
-I don't want to say much more at this point. My point here to gesture at what we want to learn about. What exactly "information", how it was discovered, and how it enables this new kind of communication is precisely what we want to learn and discuss over the next 2 or 3 weeks.
-
 
 
 

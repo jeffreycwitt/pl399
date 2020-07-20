@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "21: Habermas Neo-Feudalism / Louw Death of the Public Sphere"
-nav_order: 21
+title: "23
+: Habermas Neo-Feudalism / Louw Death of the Public Sphere"
+nav_order: 23
 ---
 
 1. TOC 

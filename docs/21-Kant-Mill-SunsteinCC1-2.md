@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "19: Foundations of Deliberative Democracy"
-nav_order: 19
+nav_order: 21
 ---
 
 1. TOC 

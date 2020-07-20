@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "12: Moretti and Distant Reading"
+title: "12: Moretti and Distant Reading; Machine Writing"
 nav_order: 12
 ---
 
@@ -62,4 +62,16 @@ Form analysis
 
 2 or three articles here
 
+# Machine Writing: Good or Bad
 
+GPT-3 examples of writing
+see https://medium.com/jasonwu0731/the-ginormous-language-model-and-its-api-gpt-3-b669928600e0
+see https://transformer.huggingface.co/
+see https://en.wikipedia.org/wiki/Computational_journalism
+
+https://inferkit.com/ (paid service)
+
+
+{:.discussion}
+
+Is this a Latent Ambiguity? Why might it be a "latent ambiguity"? Why would have never previously had to ask if writing to a communicate is a good or bad thing? If a machine can write legal briefs and sports, entertainment reports, is that a good thing or a bad thing? Are there distinction to be made here? Is it good if humans no longer have to do certain kinds of writing, but bad if all human generated writing stops? What are the distinguishing characteristics?

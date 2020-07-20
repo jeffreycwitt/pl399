@@ -1,11 +1,49 @@
 ---
 layout: default
-title: "5: Glieck cc. 6-7"
+title: "5: Gleick cc. 6-7"
 nav_order: 5
 ---
 
 1. TOC 
 {:toc}
+
+# Letters and raw statistical frequency
+
+"signal rate" how many differences can be sent per second with these difference bleeding into each other.
+
+"channel capacity" determined by
+1. symbol rate, number of clearly distinguishable signals per second, "baud", = n = n symbol transfers per second. 
+2. How many differences per symbol (s) (symbol space.)
+
+Message space = S to power of N 
+
+3 symbols ^ (2 (2 symbols per second)) = 9 messages possible messages over the 2 seconds. 
+
+# Shanon and Markov Chains
+
+The problem is that the probability of a letter in a message in not a zero sum game. 
+
+The probability is not 1/26 for each letter.
+
+A letter is word, a word in a message is a "dependent variable". It's probability is affected by the previous outcome. 
+
+But this is what Markov chains attempted to describe. 
+
+Claude Shannon is credited with seeing the application of Markove chains to human language and thus to ultimately to the quantification of message to be communicated independent of the number of letters. 
+
+[explain markov chain] [video]
+
+explain Shannon's use of a markov chain [video]
+
+# In Sum: Information as Entropy
+
+
+
+----
+
+NOtes
+
+
 
 # I. Information as Entropy
 

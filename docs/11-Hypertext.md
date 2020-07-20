@@ -12,7 +12,7 @@ In general we tried to look at ways that the medium was limiting or constraining
 
 Speaking generally, we focused on three main features
 
-* access immediacy (Bush, What is a Text (OHCO))
+* access immediacy, selection, and curation (Bush, What is a Text (OHCO))
 * interconnectivity (Bush Nelson)
 * non linearity (Neslon) / Dynamic Presentation
 
