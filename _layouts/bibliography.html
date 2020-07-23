@@ -22,9 +22,9 @@ layout: default
   $(document).ready(function(){
     const url = $("#bibliography").attr("data-bib-url");
     $("#bibliography").load(url + "?format=bib", function(){
-      // finds link in string and wraps whole entry in anchor tag
-      // only works when there is one link embedded in bibl
-      // TODO: if this ends up being slow when there are 50 or 60 entries, then just disable this each loop
+      /*finds link in string and wraps whole entry in anchor tag
+      only works when there is one link embedded in bibl
+      TODO: if this ends up being slow when there are 50 or 60 entries, then just disable this each loop*/
       $(".csl-entry").each(function(){
         const newText  = addLink($(this).text());
         $(this).html(newText);
