@@ -89,20 +89,16 @@ Oratory, adjusts to its patient:
 	
 <p>We have grown up in a literary culture. We have grown up in a world where the written word has dominated the oral?</p>
 
-<p>Do we think Socrates is correct?</p>
-<p>Is there some defect to our reliance on the world of books?</p>
-<p>Is there something Socrates is missing?</p>
-<p>Do we agree with Socrates goals or do we think there are purposes for books that he has not recognized?</p>
+<p><span class="respond"/> Do we think Socrates is correct?</p>
+<p><span class="respond"/> Is there some defect to our reliance on the world of books?</p>
+<p><span class="respond"/> Is there something Socrates is missing?</p>
+<p><span class="respond"/> Do we agree with Socrates goals or do we think there are purposes for books that he has not recognized?</p>
 
-<p>
-Contribute to the
-<a href="https://moodle.loyola.edu/mod/forum/discuss.php?d=159638" target="_blank">discussion of the above questions</a> before moving on
-</p>
 </div>
 
 *Here are some of my thoughts to the above questions*
 
-1) deep vs. shallow [write on board]
+1) deep vs. shallow.
 
 Certainly, I think there are some losses by the shift. People in oral cultures used to be able to remember "a lot". 
 
@@ -360,13 +356,12 @@ Carr quote, c. 4, p. 61:
 
 <div class="discussion" markdown="1">
 
-Question: What do we think of this? Does this align with your experience? Are there books and layouts that make it possible(impossible) for you to "think in different ways"?
-
-What are some examples?
+<span class="respond"/> What do we think of this? Does this align with your experience? Are there books and layouts that make it possible(impossible) for you to "think in different ways"? What are some examples?
 
 Bibliographers refer to the subtle clues of a book layout as the "Bibliographic Codes" and we need to be attentive to how this code is "encoded" visually.
 
 Here might think of something like a parallel, to the contextual information in oral culture that makes possible the successful transmission of a message. The vast amount of visual clues within a book layout are part of enormous collection of "informational redundancies" that humans use to correctly parse and categorize the communicated message.
+
 </div>
 
 # Social and Political World of the Print Medium (25/120)

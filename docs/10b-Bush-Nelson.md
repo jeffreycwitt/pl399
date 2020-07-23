@@ -17,7 +17,7 @@ With today's reading we want to consider two thinkers that help pioneer the idea
 # As We May Think
 
 primary focus, starting around p. 8?? 
-	(p. 8 voder, vocoder, example of encoding voice sound in more efficient and adaptabl ways, making it possible to move, save, and transport voice)
+	(p. 8 voder, vocoder, example of encoding voice sound in more efficient and adaptable ways, making it possible to move, save, and transport voice)
 
 {:.question}
 In general, what concerns does Bush raise about current research environements?
@@ -120,6 +120,8 @@ Let us turn now to now the pioneering thought of Ted Nelson. Nelson fascinated w
 
 [youtube video]
 
+[discussion should follow video ]
+
 {:.question}
 Question: From reading these texts, what do you see as they most fundamental frustration with the existing state of information and the communication of information?
 
@@ -174,13 +176,12 @@ The question, how can we encode this with enough precision (less entropy) to mak
 ## Concern 2:  single sequences are not always appropriate for everyone.
 
 <div class="discussion" markdown="1">
-What kinds of content often get forced into a linear sequence via "publication" through a printed medium?
+<span class="respond"/> What kinds of content often get forced into a linear sequence via "publication" through a printed medium?
 
-How does this single sequence distort or affect or reception of the message?
+<span class="respond"/> How does this single sequence distort or affect or reception of the message?
 
-What would it mean to be able to travel this content via multiple or varied perspectives? How might this give us new perspectives on the message?
+<span class="respond"/> What would it mean to be able to travel this content via multiple or varied perspectives? How might this give us new perspectives on the message?
 
-(discussion board)
 </div>
 
 # Nelson v Allen 1979 Interview
@@ -191,33 +192,62 @@ Listen to the following interview and then consider the following questions
 
 <!-- could end around minute 11:33 when conversation switches to IBM -->
 <!-- could break video up into time sequences to match discussion questions -->
-<div class="discussion">
+<div class="discussion" markdown="1">
 
-What do you make of the interviewers skepticism about the usefulness or desirability of the personal computer?
+<span class="respond"/> What do you make of the interviewers skepticism about the usefulness or desirability of the personal computer?
 
-What possibilities and use cases does he imagine? Are these uses cases determined by the dominant medium with which he is familiar?
+<span class="respond"/> What possibilities and use cases does he imagine? Are these uses cases determined by the dominant medium with which he is familiar?
 
-What makes it possible for Nelson to see outside this dominant paradigm?
+<span class="respond"/> What makes it possible for Nelson to see outside this dominant paradigm?
 
 Specific questions: 
 
-Why does the interviewer see the computer as a specific kind of machine useful for only one purpose, numbers and having nothing to do with texts or literature. Is this a familiar to understand the "universality" of information as a transmitting medium? How so? 
+<span class="respond"/> Why does the interviewer see the computer as a specific kind of machine useful for only one purpose, numbers and having nothing to do with texts or literature. Is this a familiar to understand the "universality" of information as a transmitting medium? How so? 
 
-Does Nelson seem to understand this better how so?
+<span class="respond"/> Does Nelson seem to understand this better how so?
 
-Around minute 4, Nelson talks about encounter a book in a library and being deprived on important information? What information is lacking? How does this relate to his first concern the print medium destroying the "unity and structure of interconnection"
+Around minute 4, Nelson talks about encounter a book in a library and being deprived on important information? 
+
+<span class="respond"/> What information is lacking? How does this relate to his first concern the print medium destroying the "unity and structure of interconnection"
 
 Around minute 8, the interviewer appeals the satisfactory nature of "file folders"? 
 
-Why does he treat this technology as sufficient while the computer technology ans "insufficient"? 
+<span class="respond"/> Why does he treat this technology as sufficient while the computer technology ans "insufficient"? 
 
-Why does Nelson see file folders as limiting and an example of a confining "linear" or 1-dimensional sequence?
+<span class="respond"/> Why does Nelson see file folders as limiting and an example of a confining "linear" or 1-dimensional sequence?
+
+</div>
+
+# A Concern: Limiting Metaphors 
+
+One concern that many theorist have is not merely about the limitations that come through the print medium, but about the extent to which these limitations will needless be carried forward into the new medium. Their concern is that, without serious critical reflection, certain types of social inertia will destine us to reproduce these limitations within new the medium. Where once these limitations (such as "lack of interconnectivity" and "static linear sequence" were enforced by the logic of the medium, they are now no longer enforced by the medium but by our unwillingness to think beyond our comfort level.)
+
+This critique is made most powerful by Ted Nelson
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1yLNGUeHapA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+He also made this crtique is discussion of the pioneers of the Graphical User Interface (GUI) at Xerox PARC
+
+>"The usual story about Xerox PARC, that they were trying to make the computer understandable to the average man, was a crock. They imitated paper and familiar office machines because that was what the Xerox executives could understand. Xerox was a paper-walloping company, and all other concepts had to be ironed onto paper, like toner, to be even visible in their paper paradigm."
+> .. Today’s arbitrarily constructed computer world is also based on paper simulation, or WYSIWYG. That’s where we’re stuck in the current model, where most software seems to be mapped to paper. (‘WYSIWYG’ generally means ‘What You See is What You Get’ — meaning what you get *when you print it OUT*). In other words, paper is the flat heart of most of today’s software concepts. (Nelson 1999) [TODO: find source]
+
+Joris Van Zundert (Barely beyond the book) gives us a helpful vocabulary for voicing this complaint. 
+
+He calls it "paradigmatic regression".
+
+{:#test}
+> I have previously argued that social shaping of technology can lead to ‘paradigmatic regression’.8 These are acts of shaping that translate an expression of the paradigm of the new technology into an expression of a paradigm that is already known to the user. Resistance to new technologies, where the use or sophistication of the new technology is denied, can of course be a motivator of paradigmatic regression.9 Not all regressions are necessarily motivated by conservatism or resistance, however. But even when users do embrace a new technology, the act of its social shaping may create a paradigmatic regression effect. An example of this effect can often be found when a metaphor is used in a graphical user interface (GUI)." ([Zundert, p. 85]( {{ site.readings_base }}Zundert%20-%202016%20-%20Barely%20Beyond%20the%20Book.pdf))
 
 
+<div class="discussion" markdown="1">
 
-# Limiting Metaphors 
+<span class="respond"/>: Why are metaphors helpful when confronting new technology?
 
+<span class="respond"/>: How can these metaphors end up limiting our use of a new technology?
 
-Nelson 
-and Van Zundert (Barely beyond the book)
+Look again at the examples given by Van Zundert on p. 86. Consider again Nelson's complaint that in creating word processing applications, we "imitated paper".
+
+<span class="respond"/>: Where do you see examples of this? Where do see the metaphors of the page structuring your experience of the computer? Can you think of any ways this might limiting your imagination how you might encounter and experience this information?
+
+</div>
 

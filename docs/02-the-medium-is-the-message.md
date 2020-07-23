@@ -113,13 +113,13 @@ Question: What are the reasons/arguments/evidence that could support Sarnoff's p
 <div class="discussion">
 <p>Do I care whether a rug is made by or by a machine? Do I care whether a nail is hammered by a rock, a hammer, or a nail gun?</p>
 
-<p>Do I care whether I get a new report over the radio in a newspaper, over television, or in a newspaper?</p>
+<p><span class="respond"/> Do I care whether I get a new report over the radio in a newspaper, over television, or in a newspaper?</p>
 
-<p>Do I care if read a novel or listen to an audio book?</p>
+<p><span class="respond"/> Do I care if read a novel or listen to an audio book?</p>
 
-<p>If the message is the same, who cares?</p>
+<p><span class="respond"/> If the message is the same, who cares?</p>
 
-<p>Before going further, add your reaction to these questions via our discussion board (link or better i frame embed)</p>
+<p>Before going further, add your reaction to these questions using our class annotation tool</p>
 
 </div>
 
@@ -194,15 +194,14 @@ In this video, give close attention to how mundane physical structures are shapi
 
 <div class="discussion">
 
-<p>Question: imaging you yourself as "able bodied" were transported to a world where everyone had "three arms and three legs" would you still experience yourself as able bodied?</p>
+<p><span class="respond"/> Imagine you yourself as "able bodied" were transported to a world where everyone had "three arms and three legs" would you still experience yourself as able bodied?</p>
 
-<p>Question: If think you would begin to feel disabled, without your body every changing, how does this suggest that physical and social structures are affecting consciousness?</p>
+<p><span class="respond"/> If think you would begin to feel disabled, without your body every changing, how does this suggest that physical and social structures are affecting consciousness?</p>
 
-<p>Question: In the video, how was this captured in the distinction between "impairment" and "disability"</p>
+<p><span class="respond"/> In the video, how was this captured in the distinction between "impairment" and "disability"</p>
 
-<p>Question: According to the video, why does a physical change as simple as mundane as "curb cuts" make such a big difference? How does it affect the self-conception of "disabled" people? How does it affect societies larger attitude toward "disabled people"</p>
+<p><span class="respond"/> According to the video, why does a physical change as simple as mundane as "curb cuts" make such a big difference? How does it affect the self-conception of "disabled" people? How does it affect societies larger attitude toward "disabled people"</p>
 
-<p>Before going further, add your reaction to these questions via our discussion board (link or better i frame embed)</p>
 
 </div>
 

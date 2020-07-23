@@ -1,0 +1,55 @@
+---
+layout: default
+---
+
+<style>
+  .csl-entry{
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .biblink{
+    white-space: normal !important;
+  }
+</style>
+<h1>{{page.title}}</h1>
+
+{{content}}
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  
+  <script type="text/javascript">
+  
+  $(document).ready(function(){
+    const url = $("#bibliography").attr("data-bib-url");
+    $("#bibliography").load(url + "?format=bib", function(){
+      // finds link in string and wraps whole entry in anchor tag
+      // only works when there is one link embedded in bibl
+      // TODO: if this ends up being slow when there are 50 or 60 entries, then just disable this each loop
+      $(".csl-entry").each(function(){
+        const newText  = addLink($(this).text());
+        $(this).html(newText);
+      });
+    });
+  });
+  
+  function addLink(value){
+    console.log("test");
+    const link = value.match(/(\b(https?|ftp|file):\/\/[-A-Z0-9+&@#/%?=~_|!:,.;]*[-A-Z0-9+&@#/%=~_|])/ig);
+    let mainlink = '';
+    if (link){
+      const firstString = value.split(link[0])[0];
+      let strings = [firstString];
+      link.forEach((l, i) => {
+        mainlink = l;
+        const linkComponent = "";
+        strings.push(linkComponent);
+        const afterString = value.split(l)[1];
+        const prunedString = afterString.split(link[i+1])[0];
+        strings.push(prunedString);
+      });
+      const finalString = "<a class='biblink' href='" + mainlink + "'>" + strings.join(" ") + "</a>";
+      return finalString;
+    }
+  }
+  
+  </script>

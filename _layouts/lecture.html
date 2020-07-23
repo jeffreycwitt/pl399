@@ -22,6 +22,33 @@ layout: default
   content: counter(blockquote) ": ";
   }
 
+  .respond{
+    border-left: 2px solid green;
+    padding-left: 5px;
+  }
+  .respond::before{
+    content: "Respond: ";
+    font-style: italic;
+    font-weight: bold;
+  }
+  .respond::after{
+    content: "To respond generally to this discussion question, highlight the question prompt and then use the class annotation tool to leave your response. You can of course continue to highlight any part of the text and leave a comment specific to the selected text. You can also respond by directly annotating a comment already made by a classmate.";
+    display: none;
+    font-size: 12px;
+    position: absolute;
+    background-color: black;
+    color: white;
+    box-shadow: 0px 1px 5px gray;
+    padding: 10px;
+    z-index: 1;
+    width: 400px;
+    opacity: .8;
+    
+  }
+  .respond:hover::after{
+    display: block;
+  }
+  
   .discussion{
     border-left: 2px solid red;
     padding-left: 5px
@@ -43,12 +70,22 @@ layout: default
     display: block;
     font-weight: bold;
   }
+  
   .question::after{
-    content: "click for answer";
+    content: "click on question to toggle possible response";
     display: block;
+    /* position: absolute; */
+    /* background-color: black;
+    color: white;
+    box-shadow: 0px 1px 5px gray; */
+    /* padding: 5px; */
+    /* z-index: 1;
+    opacity: .8; */
     font-size: 12px;
   }
-  
+  /* .question:hover::after{
+    display: block;
+  } */
   .answer{
     display: none;
     border-left: 2px solid blue;
@@ -65,14 +102,12 @@ layout: default
   <script type="text/javascript">
   
   $(document).ready(function(){
-    
-
-    
+  
     $(".question").click(function(){
       $(this).next(".answer").toggle();
     });
     getReadingTime();
-    
+  
   });
   
   const getReadingTime = () => {

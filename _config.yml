@@ -41,3 +41,9 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# custom url bases
+moodle_base: "moodle.loyola.edu/pluginfile.php/2262383/mod_resource/content/"
+anno_base: "https://hyp.is"
+assets_url: "https://s3.amazonaws.com/lum-faculty-jcwitt-public/"
+readings_base: "https://s3.amazonaws.com/lum-faculty-jcwitt-public/PhilInfoAndMedia_Readings/"
