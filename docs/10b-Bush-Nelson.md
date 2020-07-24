@@ -235,8 +235,8 @@ Joris Van Zundert (Barely beyond the book) gives us a helpful vocabulary for voi
 
 He calls it "paradigmatic regression".
 
-{:#test}
-> I have previously argued that social shaping of technology can lead to ‘paradigmatic regression’.8 These are acts of shaping that translate an expression of the paradigm of the new technology into an expression of a paradigm that is already known to the user. Resistance to new technologies, where the use or sophistication of the new technology is denied, can of course be a motivator of paradigmatic regression.9 Not all regressions are necessarily motivated by conservatism or resistance, however. But even when users do embrace a new technology, the act of its social shaping may create a paradigmatic regression effect. An example of this effect can often be found when a metaphor is used in a graphical user interface (GUI)." ([Zundert, p. 85]( {{ site.readings_base }}Zundert%20-%202016%20-%20Barely%20Beyond%20the%20Book.pdf))
+{:#i-have-previously}
+> I have previously argued that social shaping of technology can lead to ‘paradigmatic regression’.8 These are acts of shaping that translate an expression of the paradigm of the new technology into an expression of a paradigm that is already known to the user. Resistance to new technologies, where the use or sophistication of the new technology is denied, can of course be a motivator of paradigmatic regression.9 Not all regressions are necessarily motivated by conservatism or resistance, however. But even when users do embrace a new technology, the act of its social shaping may create a paradigmatic regression effect. An example of this effect can often be found when a metaphor is used in a graphical user interface (GUI)." ([Zundert, p. 85]( {{ site.anno_base }}/vd6CDsznEeqgBD-VxUequg))
 
 
 <div class="discussion" markdown="1">
@@ -245,9 +245,9 @@ He calls it "paradigmatic regression".
 
 <span class="respond"/>: How can these metaphors end up limiting our use of a new technology?
 
-Look again at the examples given by Van Zundert on p. 86. Consider again Nelson's complaint that in creating word processing applications, we "imitated paper".
+Look again at the examples given by Van Zundert on p. 86. Consider again Nelson's complaint that in creating word processing applications, we "imitated paper"...
 
-<span class="respond"/>: Where do you see examples of this? Where do see the metaphors of the page structuring your experience of the computer? Can you think of any ways this might limiting your imagination how you might encounter and experience this information?
+<span class="respond"/>: ...where do you see examples of this in your own life? Where do see the metaphors of the page structuring your experience of the computer? Can you think of any ways this might limiting your imagination how you might encounter and experience this information?
 
 </div>
 
