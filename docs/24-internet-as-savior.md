@@ -1,6 +1,7 @@
 ---
-layout: default
-title: "24: Shapiro / Barlow - Internet as Savior of Deliberative Democracy"
+layout: lecture
+title: "24: Internet as Savior of Deliberative Democracy"
+reading: "Shapiro / Barlow"
 nav_order: 24
 ---
 

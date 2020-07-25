@@ -4,12 +4,13 @@ title: "18: Lessig, Code, cc. 6-8"
 nav_order: 19
 ---
 
+
 1. TOC 
 {:toc}
 
 # Review and Transition
 
-Thus far Lessig believe he has shown us that, while the Internet was originally conceived as an "unregulable" space, the growing interest of commerce is making it obvious that the Internet will increasingly become a place of control and regulation.
+Thus far Lessig believes he has shown us that, while the Internet was originally conceived as an "unregulable" space, the growing interest of commerce is making it obvious that the Internet will increasingly become a place of control and regulation.
 
 When regulation becomes inevitable it is important for the public to take an interest in that regulation because regulation is a form of imposing values. The Internet will be regulated whether the public takes an interest or not. Whether the government makes laws or not. 
 

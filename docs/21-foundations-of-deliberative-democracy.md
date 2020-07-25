@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: lecture
 title: "19: Foundations of Deliberative Democracy"
+reading: "Sunstein, cc. 1-2; Kant, What is Enlightenment; Mill, On Libert, cc. 1-2, Brandeis Opinion Whitney v. California, 274 US 357 (1927)"
 nav_order: 21
 ---
 
@@ -14,38 +15,44 @@ Readings Kant, What is Enlightenment, Mill, On Liberty, chapter 2, Sunstein Chap
 
 At this point, we've read a substantial amount from Lessig. 
 
-The overarching goal of this reading, thus far, is to see the many ways code (understood broadly, not just computer code, but physical architecture's etc) regulate. 
+The overarching goal of this reading, thus far, is to see the many ways code (understood broadly, not just computer code, but physical architectures, etc) regulate. 
 
-Certain behavior's are limited by the costs or difficulties imposed by the medium.
+Certain behaviors are limited by the costs or difficulties imposed by the medium.
 
-Thus no positive law has ever been needed to enforce a potential value. 
+Thus, no positive law has ever been needed to enforce a potential value. 
 
 But when the medium/code changes and those limits or costs are removed, new behavior occurs that may interfere with certain implicit values that were never made explicit. 
 
-With this in the background I want to turn, as Lessig to a specific "applied applications" or "test cases" of this idea. 
+With this in the background, I want to turn to another specific "applied applications" or "test cases" of this idea. 
 
 Lessig does precisely this by turning to ideas of copyright, privacy, and free speech.
 
-In each case, the goal is to show us changes in code force us to confront these issues in new ways, primarily because they create new possibilites and thus force us to make choices about values that, due to the architecture of past media, never had to be made before.
+In each case, the goal is to show us changes in code force us to confront these issues in new ways, primarily because they create new possibilities and thus force us to make choices about values that, due to the architecture of past media, never had to be made before.
 
-Instead of looking at all three of these issues, I want to do a more extended dive in the issue of "free speech" which as become acutely pressing in our current time. 
+We've already looked briefly at Lessig's treatment of intellectual property, now I want to do a more extended dive into the issue of "free speech" which as become acutely pressing in our current time. 
 
-And for this, we will get some help from another writer, Cass Sunstein, writing about precisely the problem of free speech and the possible legal justification of new speech regulation in a world of new communications medium. 
+And for this, we will get some help from another writer, Cass Sunstein, writing about the problem of free speech and the possible legal justification of new speech regulations in a world of new communications medium. 
 
-Sunstein's position is going to push to look closer at the fundamental philosophical ideas behind self government and the role of "speech" and "media" in the actualization of that self-government. Thus he invites us to look historically at this tradition. Thus as a class, as we turn to Sunstein (as well as Lessig's chapter on free speech) on want to weave in some of the historical philosophical documents they are relying.
+Sunstein's position is going to push us to look closer at the fundamental philosophical ideas behind self government and the role of "speech" and "media" in the actualization of that self-government. Thus he invites us to look historically at this tradition. 
 
-So today, I want to look at Sunstein's opening chapters and then begin look today and next at the founding documents of the idea of deliberative democracy, with Kant, Mill, and Habermas. 
+As we turn to Sunstein's (as well as Lessig's) thoughts on speech, I also want to weave in some of the historical philosophical documents on which they are relying.
 
-Then I want to consider some of the reason the nascent (seemingly) un-regulated internet was hailed as a champion of deliberative democracy. 
+So today (21), I want to look at Sunstein's opening chapters and then look at the founding documents of the idea of deliberative democracy, with Kant, Mill. 
 
-And then we come back to Sunstein and look at some of the reasons he think the ideals of deliberative democracy and ideals of free expression paradoxically demand and kind of restraint or regulation imposed on speach. 
+We will continue this in our next lesson (22) with Habermas and then (23) his idea about deliberative democracies and his concerns with its slow death in the 20th century. 
+
+Then (24) I want to consider some of the reasons the nascent (seemingly) un-regulated internet was hailed as a champion of deliberative democracy. 
+
+And then we come back to Sunstein (25) and look at some of the reasons he thinks the ideals of deliberative democracy and ideals of free expression paradoxically demand a kind of restraint or regulation imposed on speech. 
 
 
 # Sunstein's Daily Me and the ideal of Deliberative Democracy 
 
-**Question**: In chapter 1, what is Sunstein's concern with the emerging 21st century communications system
+{:question}
+In chapter 1, what is Sunstein's concern with the emerging 21st century communications system
 
-**Question**: In chapter 2, what are the two concepts of sovereignty that support freedom of speech/expression voiced by Homes and Brandeis respectively use to support the protection of free speech?
+{:question}
+In chapter 2, what are the two concepts of sovereignty that support freedom of speech/expression voiced by Homes and Brandeis respectively use to support the protection of free speech?
 
 **Question**: Which of these does Sunstein seem to see at the better or more accurate reason for promoting freedom of expression (Brandeis)
 
@@ -77,7 +84,7 @@ In other words, to goal was to find a form of association where everyone remains
 
 How this was to happen was through a special kind of agreement. Everyone would agree that whatever they choose for themselves would be permissible to everyone else. 
 
-Such an agreement removes the incentive for self-preferential treatment and results in everyone indepently choosing the same thing. 
+Such an agreement removes the incentive for self-preferential treatment and results in everyone independently choosing the same thing. 
 
 (Video / dividing the cake example)
 

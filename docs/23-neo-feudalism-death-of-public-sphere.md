@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "23
-: Habermas Neo-Feudalism / Louw Death of the Public Sphere"
+title: "23: Habermas Neo-Feudalism / Louw Death of the Public Sphere"
+reading: "Habermas, Louw"
 nav_order: 23
 ---
 
