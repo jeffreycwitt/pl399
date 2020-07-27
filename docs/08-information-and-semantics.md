@@ -1,11 +1,12 @@
 ---
 layout: lecture
 title: "8: Information and Semantics"
+reading: chapter 3, Philosophy of Information
 nav_order: 8
 ---
 
-Reading: chapter 3, Philosophy of Information
-
+## Table of contents
+{: .no_toc .text-delta } 
 1. TOC 
 {:toc}
 

@@ -1,11 +1,14 @@
 ---
-layout: default
+layout: lecture
 title: "18: internet and control"
-reading: Lessig, Code, cc. 3-5"
-reading-focus: "Lessig, c. 4"
-week: 
+reading: ["PIHI9TSZ=>cc. 3-5"]
 nav_order: 18
 ---
+
+## Table of contents
+{: .no_toc .text-delta } 
+1. TOC 
+{:toc}
 
 # Review and Transition
 

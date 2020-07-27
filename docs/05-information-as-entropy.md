@@ -1,9 +1,12 @@
 ---
-layout: default
-title: "5: Gleick cc. 6-7"
+layout: lecture
+title: "5: Information as Entropy"
+reading: ["SN4EQIZ5=>cc. 6-7"]
 nav_order: 5
 ---
 
+## Table of contents
+{: .no_toc .text-delta } 
 1. TOC 
 {:toc}
 

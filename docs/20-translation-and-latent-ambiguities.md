@@ -1,9 +1,11 @@
 ---
 layout: lecture
-title: "20: Lessig, Code, cc. 9-10"
+title: "20: Lessig, Code"
+reading: ["PIHI9TSZ=>cc. 9-10"]
 nav_order: 20
 ---
-
+## Table of contents
+{: .no_toc .text-delta } 
 1. TOC 
 {:toc}
 

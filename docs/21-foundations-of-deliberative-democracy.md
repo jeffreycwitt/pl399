@@ -1,15 +1,18 @@
 ---
 layout: lecture
-title: "19: Foundations of Deliberative Democracy"
-reading: "Sunstein, cc. 1-2; Kant, What is Enlightenment; Mill, On Libert, cc. 1-2, Brandeis Opinion Whitney v. California, 274 US 357 (1927)"
+title: "21: Foundations of Deliberative Democracy"
+reading: "Sunstein, cc. 1-2; Kant, What is Enlightenment; Mill, On Liberty, cc. 1-2, Brandeis Opinion Whitney v. California, 274 US 357 (1927)"
 nav_order: 21
 ---
 
-1. TOC 
+## Table of contents
+{: .no_toc .text-delta } 
+
+1. TOC
 {:toc}
 
 
-Readings Kant, What is Enlightenment, Mill, On Liberty, chapter 2, Sunstein Chapters 1 and 2
+<!-- Readings Kant, What is Enlightenment, Mill, On Liberty, chapter 2, Sunstein Chapters 1 and 2 -->
 
 # Review and Intro for Unit
 

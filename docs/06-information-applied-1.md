@@ -1,9 +1,14 @@
 ---
-layout: default
-title: "6: Gleick cc. 8-10"
+layout: lecture
+title: "6: information applied"
+reading: ["SN4EQIZ5=>cc. 8-11"]
 nav_order: 6
 ---
 
+## Table of contents
+{: .no_toc .text-delta } 
+1. TOC 
+{:toc}
 
 # Applications of Information Turn in Psychology (chapter 9)
 

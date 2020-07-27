@@ -1,8 +1,11 @@
 ---
-layout: default
-title: "12: Hypertext Assignment"
+layout: lecture
+title: "12: Hypertext 2"
 nav_order: 12
 ---
+
+## Table of contents
+{: .no_toc .text-delta } 
 
 # Hypertext Assignment
 

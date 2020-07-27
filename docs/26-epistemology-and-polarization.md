@@ -1,9 +1,11 @@
 ---
-layout: default
+layout: lecture
 title: "26: Freedom of speech: Polarization 2; Hardin"
 nav_order: 26
 ---
 
+## Table of contents
+{: .no_toc .text-delta } 
 1. TOC 
 {:toc}
 

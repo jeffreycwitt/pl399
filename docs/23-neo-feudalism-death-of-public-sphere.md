@@ -1,10 +1,13 @@
 ---
-layout: default
-title: "23: Habermas Neo-Feudalism / Louw Death of the Public Sphere"
-reading: "Habermas, Louw"
+layout: lecture
+title: "23: Neo-Feudalism and the Death of the Public Sphere"
+reading: ["RIY8VCD2", "59GKIFII=>c. 4: Commercialization and the ‘Death of the
+Public Sphere"]
 nav_order: 23
 ---
 
+## Table of contents
+{: .no_toc .text-delta } 
 1. TOC 
 {:toc}
 

@@ -1,8 +1,11 @@
 ---
-layout: default
-title: "14: N. Carr Critique"
+layout: lecture
+title: "14: Shallow Reading, Shallow Thinking"
+reading: ["W6VCM9XK=>c. 6", "W6VCM9XK=>c. 7"]
 nav_order: 14
 ---
+## Table of contents
+{: .no_toc .text-delta } 
 1. TOC 
 {:toc}
 
@@ -71,7 +74,7 @@ Nevertheless, the dominant social practice (at present) tends in the direction o
 
 My question, for myself, (as a scholar and builder) is to what extent this means we need to be wary of the shift to the digital medium, or to what extent we need to be wary of social inertial and market forces that determining how we use that medium. And instead of rejecting the shift, maybe my scholarly responsibility lies in contributing to social uses of that medium that are driven scientific demands rather than market forces.
 
-# Carr, Chapter 7
+# Nicholas Carr, the Shallows c. 7
 
 This tension between "forcing/necessitating" and "tending/rewarding" [write on board] seems to be acknowledged by Carr in chapter 7.
 

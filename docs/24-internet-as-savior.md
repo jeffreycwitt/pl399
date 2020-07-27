@@ -1,10 +1,12 @@
 ---
 layout: lecture
 title: "24: Internet as Savior of Deliberative Democracy"
-reading: "Shapiro / Barlow"
+reading: ["AVLEG7M6", "XY8IZ78B=>(Selections)"]
 nav_order: 24
 ---
 
+## Table of contents
+{: .no_toc .text-delta } 
 1. TOC 
 {:toc}
 

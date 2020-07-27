@@ -1,12 +1,15 @@
 ---
 layout: lecture
-title: "18: Lessig, Code, cc. 6-8"
+title: "19: modalities of regulation"
+reading: ["PIHI9TSZ=>cc. 6-8"]
 nav_order: 19
 ---
 
-
+## Table of contents
+{: .no_toc .text-delta } 
 1. TOC 
 {:toc}
+
 
 # Review and Transition
 

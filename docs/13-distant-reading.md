@@ -1,9 +1,11 @@
 ---
 layout: lecture
-title: "12: Moretti and Distant Reading; Machine Writing"
-nav_order: 12
+title: "13: Distant Reading and Distant Writing"
+reading: ["YCUSFWXI", Q6K5EM4E, BL386AX3]
+nav_order: 13
 ---
-
+## Table of contents
+{: .no_toc .text-delta } 
 1. TOC 
 {:toc}
 
@@ -119,7 +121,7 @@ I can speak about this phenomenon from my own field and experience. The degree t
 What is "distant reading"
 
 <div class="answer" markdown="1">
-Wikipedia gives us a pretty succint answer: 
+Wikipedia gives us a pretty succinct answer: 
 
 > "The term "distant reading" is generally attributed to Franco Moretti and his 2000 article, Conjectures on World Literature.[1] In the article, Moretti proposed a mode of reading which included works outside of established literary canons, which he variously termed "the great unread"[2] and, elsewhere, "the Slaughterhouse of Literature".[3] The innovation it proposed, as far as literary studies was concerned, was that the method employed samples, statistics, paratexts, and other features not often considered within the ambit of literary analysis. Moretti also established a direct opposition to the theory and methods of close reading: "One thing for sure: it cannot mean the very close reading of very few texts—secularized theology, really ('canon'!)—that has radiated from the cheerful town of New Haven over the whole field of literary studies".[4]" (https://en.wikipedia.org/wiki/Distant_reading)
 

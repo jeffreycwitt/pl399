@@ -1,8 +1,12 @@
 ---
-layout: default
-title: "7: Gleick cc. 8-10"
+layout: lecture
+title: "7: Information Applied"
+reading: ["SN4EQIZ5=>cc. 8-11"]
 nav_order: 7
 ---
+
+## Table of contents
+{: .no_toc .text-delta } 
 
 Student Presentations
 

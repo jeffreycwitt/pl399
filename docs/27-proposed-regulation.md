@@ -1,9 +1,14 @@
 ---
-layout: default
+layout: lecture
 title: "27: Regulation Proposals"
 nav_order: 27
 ---
 <!-- Sunstein chapter 9 -->
+
+## Table of contents
+{: .no_toc .text-delta } 
+1. TOC 
+{:toc}
 
 # Review 
 

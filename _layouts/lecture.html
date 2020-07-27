@@ -1,24 +1,41 @@
 ---
 layout: default
 ---
+{% include next_prev.html %}
 <h1>{{page.title}}</h1>
-<p>{{page.reading}}</h1>
-<div>
-  <span class="reading-time">Estimated Reading Time: </span>
-  | <span class="watch-time">Estimated Watch Time: {{page.watchtime}} mins</span>
-  | <span class="numQuestions"></span>
-  | <span class="numDiscussions"></span>
+<div class="overview">
+  <span class="reading-time"></span>
+  <span class="watch-time" data-watchtime="{{page.watchtime}}"></span>
+  <span class="numQuestions"></span>
+  <span class="numDiscussions"></span>
+</div>
+<div style="font-size: 12px">
+  <p>Preparatory Readings:</p>
+  <ul>
+  {%- for node in page.reading -%}
+    <li class="reading" data-reading="{{node}}"></p>
+  {%- endfor -%}
+  </ul>
 </div>
 
 
+
+
+
 {{content}}
+<br/>
+<br/>
+<br/>
+{% include next_prev.html %}
 
 
 <style>
-
+  
   body {
     counter-reset: blockquote;
   }
+
+  /* block quote and link */
   svg.block-link{
     height: 10px;
     fill: #7253ed;
@@ -34,6 +51,45 @@ layout: default
     display: inline;
   }
   
+  
+/* video discuss anchor */
+  .video {
+    border-left: 2px solid purple;
+    padding-left: 5px
+  }
+  .vda{
+    font-style: italic;
+    margin-top: 0px;
+    padding-top: 0px;
+  }
+  .vda::after{
+    content: "To discuss this video, highlight the 'discuss video anchor' text and annotate";
+    display: none;
+    font-size: 12px;
+    position: absolute;
+    background-color: black;
+    color: white;
+    box-shadow: 0px 1px 5px gray;
+    padding: 10px;
+    z-index: 1;
+    width: 400px;
+    opacity: .8;
+    
+  }
+  .vda:hover::after{
+    display: block;
+  }
+ /* discussion and respond */ 
+  .discussion{
+    border-left: 2px solid red;
+    padding-left: 5px
+  }
+
+  .discussion::before{
+    content: "Discussion: ";
+    display: block;
+    font-weight: bold;
+  }
   .respond{
     border-left: 2px solid green;
     padding-left: 5px;
@@ -60,18 +116,9 @@ layout: default
   .respond:hover::after{
     display: block;
   }
-  
-  .discussion{
-    border-left: 2px solid red;
-    padding-left: 5px
-  }
 
-  .discussion::before{
-    content: "Discussion: ";
-    display: block;
-    font-weight: bold;
-  }
 
+/* question */
   .question{
     border-left: 2px solid blue;
     padding-left: 5px
@@ -108,6 +155,10 @@ layout: default
     display: block;
     font-weight: bold;
   }
+  /* over view of reading time, etc */
+  .overview{
+    font-size: 12px;
+  }
   </style>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   
@@ -126,25 +177,43 @@ layout: default
       if (idval){
         $(this).prepend("<a href='#" + idval + "' class='quote-link'><svg class='block-link' viewBox='0 0 16 16'> <title>Link</title> <path fill-rule='evenodd' d='M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z'></path> </svg></a>");
       }
-    })
-  
+    });
+
+    $(".reading").each(function(i, v){
+      const _this = this;
+      const readingid_and_chapters = $(this).attr("data-reading");
+      const readingid = readingid_and_chapters.split("=>")[0];
+      const url = "https://api.zotero.org/groups/2536930/items/" + readingid;
+      $.get(url, function(d){
+        const authors = d.data.creators.filter((c) => c.creatorType === "author");
+        const author = authors.length > 1 ? authors[0].lastName + ", et al" : authors[0].lastName;
+        const title = d.data.title;
+        const url = d.data.url;
+        const chapters = readingid_and_chapters.split("=>")[1] ? ", " + readingid_and_chapters.split("=>")[1] : "";
+        const insert = url ? "<a href='" + url + "'>" + author + ", " + title + chapters + "</a>" : author + ", " + title + chapters;
+        $(_this).html(insert);
+      });
+    });
   });
   
   const getReadingTime = () => {
-    const txt = $(".page-content")[0].textContent;
+    const txt = $(".main-content")[0].textContent;
     const wordCount = txt.replace( /[^\w ]/g, "" ).split( /\s+/ ).length;
     const numQuestions = $(".question").length;
     const numDiscussions = $(".discussion").length;
     const readingTimeInMinutes = Math.floor(wordCount / 228) + 1;
-    const readingTimeAsString = "Estimated Reading Time: " + readingTimeInMinutes + " mins";
+    const readingTimeAsString = "Lesson Estimated Reading Time: " + readingTimeInMinutes + " mins";
+    const watchtime = $('.watch-time').attr('data-watchtime');
     $('.reading-time').html(readingTimeAsString);
+    if (watchtime){
+      $('.watch-time').html(" | Estimated Watch Time:: " + watchtime + " mins");
+    }
     if (numQuestions > 0){
-      $('.numQuestions').html("Number of Questions: " + numQuestions);
+      $('.numQuestions').html(" | Number of Questions: " + numQuestions);
     }
     if (numDiscussions > 0){
-      $('.numDiscussions').html("Number of Discussions: " + numDiscussions);
+      $('.numDiscussions').html(" | Number of Discussions: " + numDiscussions);
     }
   };
   
   </script>
-  

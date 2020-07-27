@@ -1,9 +1,11 @@
 ---
-layout: default
+layout: lecture
 title: "11: Hypertext"
 nav_order: 11
 ---
 
+## Table of contents
+{: .no_toc .text-delta } 
 # Review 
 
 Last class we focused on frustrations that digital pioneers were having with the print medium. 

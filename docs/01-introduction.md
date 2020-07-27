@@ -1,15 +1,20 @@
 ---
-layout: default
+layout: lecture
 title: "1: Introduction"
 nav_order: 1
 published: false
 ---
 
+## Table of contents
+{: .no_toc .text-delta } 
 1. TOC 
 {:toc}
 
 # Introduction
 
+[video of me and introduction]
+
+<!-- BEGIN video content 
 I put forward this course because, in addition to being timely and important, I wanted to challenge myself. 
 
 Sometimes I prefer to introduce myself as an "intellectual historian" rather than a philosopher, partly because the word "philosopher" today functions largely as an empty signifier and partly because this title captures my natural bent as a philosopher. Namely, my training in philosophy and my research is decidedly historical. My work is focused on observing the philosophical discussion of the past, observe how shift and shape, and ask question about the "causes" that direct these intellectual currents. 
@@ -28,7 +33,63 @@ The ability to quickly manipulate the presentation of data, pushes one in a phil
 
 So, as I said, with this course, I wanted to not only offer a course that might interest many students, I also wanted to challenge and push myself to begin thinking explicitly and philosophically about the questions I was already encountering a practical level. 
 
-Thus, this seminar is meant to be a reading group of collaborating researchers. You are the fellow researchers. To do well in this course, you need to become interested yourself in the questions at hand by finding a way these questions connect to other themes/issues you already care about. In finding that connection, your job is to pursue an articulation of the impact of media (and its transformations) on your other area of interest. (Our assignments will push in this direction. But success will mean finding your own inner drive.) 
+Thus, this seminar is meant to be a reading group of collaborating researchers. You are the fellow researchers. To do well in this course, you need to become interested yourself in the questions at hand by finding a way these questions connect to other themes/issues you already care about. In finding that connection, your job is to pursue an articulation of the impact of media (and its transformations) on your other area of interest. (Our assignments will push in this direction. But success will mean finding your own inner drive.) --->
+
+# Course Annotating and Discussion Participation. 
+
+This course is going to have a lot to say about how we think about texts, how we read and write, and how the various media we use to do these actions shape and determine the pathways we find. 
+
+Not only are we going to read about these different pathways, but we also we experiment and practice them. One way we're going to do this in this course is by using annotation tool called "hypothes.is". Hypothes.is is tool inspired by the possibilities of the web for inter-linked non-linear, multi sequence thinking. In fact in their promotional video, they refer to a paper by Vannevar Bush that we are going to read in [lesson 10](10-Bush-Nelson.html). Watch their video below. 
+
+<div class="video">
+<iframe width="720" height="405" src="https://www.youtube.com/embed/QCkm0lL-6lc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p class="vda">discuss video anchor</p>
+</div>
+
+So we're going to work with this tool, work to build networked discussions throughout our course, and then continuously reflect on how the tools we use are our affecting our reception of the message.
+
+But to do this we need to set up a few things ([as described by hypothes.is](https://web.hypothes.is/start/))
+
+1. Set up hypothesis account so your annotations can be saved.
+2. Add the chrome browser extension or (for use in other browsers) drag the "hypothesis bookmarklet" to your bookmark bar. 
+  * Using Chrome is recommended so that we can all have a consistent experience, and so that I can more easily help you.
+  * The hypothesis annotation script will also work for our class PDF readings, but this will mean you will want to open and read these PDFs in your chrome browser.
+3. Finally, I will distribute a link allowing you to join our "private" hypothesis group so that our annotations will be visible to each other, but will not be made public to the world. 
+
+We will have ample time to discuss how this tool is working throughout our course. But for now, I ask that you give it a try and "lean" into it, so that we allow it to help us create a vibrant connected discussion around common texts.
+
+# Annotating your Self Introduction
+
+You can highlight and comment on any text within our course packet. If I say something, that is unclear, you should highlight it, and note that it was unclear and why. If something seems interesting, you should highlight it and say why it is interesting. As your fellow class mates add annotations, feel free to respond directly to their annotations (create an annotation on their annotation!). 
+
+You should do the same for our class readings that are available as PDF. By reading these in the browser, you can use that annotation tool to annotate the text. Annotation shared with our group will be visible to the entire class for discussion.
+
+Additionally, throughout the course packet and I will have questions marked asking you to pause and think about the question before going on. You can highlight these questions and annotation your thoughts or response. 
+
+To these questions, I will have a suggested answer that you can click on. The main goal is force you to stop and think before reading further. There will be lots of these, ad you're not obliged to respond to all of them. 
+
+In additions to sections marked **Question**, some places in our course packet will be marked as **discussion**. These are targeted points that I am explicitly asking for you to join the discussion either by adding an annotation or responding to annotation made by someone else in the class. As you'll, this will help simulate the kind of discussion we might normally have in a synchronous classroom environment. 
+
+These discussion will become a focal point for further live discussion when we meet together in person. 
+
+So now that you've have the tool installed, let's try to use it, by highlighting the prompt question below and introducing yourself. 
+
+Here's a video of how I do it. 
+
+<div class="video">
+<iframe src="https://loyola.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=5c00fb53-7c8b-4f14-b205-ac040174f7f6&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" style="width: 720px; height: 405px; border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+<p class="vda">discuss video anchor</p>
+</div>
+
+<div class="discussion" markdown="1">
+
+So it's now its your turn. I want to hear about you and why you chose this course. Let's do this using some of the course tools we're going to use in this course. Using the hypothesis annotation tool, answer the following question.
+
+<span class="respond"/> This is an elective course, so presumably you "chose it" because it was of interest to you. So who are you and what was it about the title or description of the course that struck your interest? 
+
+</div>
+
+
 
 In preparing this course, I've focused on preparing a set of readings, exercise, and questions that can evoke a conversation that will be useful to your own exploration. But I will be a co-researcher/investigators with you. I do not have answers for you to ingest, in large because we haven't even yet found the right or pertinent questions for the topic at head.
 
@@ -36,7 +97,7 @@ We know that we are living through one of the greatest media shifts human histor
 
 We are living this transition first hand, thus we must turn to our own cognitive powers to organize and then assess what is happening. That is what I want to do with you.
 
-## Two guiding questions. 
+# Two guiding Course questions. 
 
 With that said, let me offer to very high level questions that shape the direction our exploration takes. 
 
@@ -83,7 +144,7 @@ In short, is this something we really value, or is something we've been trained 
 
 These are classic question for any marxist theorist, and we will attempt to find sources of guidance in this literature (we will peak in this direction in our next class.)
 
-### Course division.
+# Course division.
 
 With these broad questions in mind, I focused on our course into three units.
 
@@ -99,6 +160,14 @@ III. Finally, I want to look at the social impact by exploring the notion of pub
 
 Here we will want to explore what the public sphere is and the impact of 21st century media on it. Some of heralded the Internet as true medium of democracy while others worry about the Internet's impact of the diminishment of a genuine "public sphere". Here again, we will want to evaluate if and why a "public sphere" ought to be valued, and the degree to which 21st medium can benefit or harm the public sphere. And if both, what are the distinguishing features of digital medium prove beneficial in contrast to those that prove harmful?
 
+# Syllabus, Assignments, and Expectations. 
+
+
+
+
+
+<!-- 
+--- Cut Notes  --- 
 ## Philosophical Method
 
 discussion and assignment
@@ -164,3 +233,4 @@ quote from McLuhan from Gutenberg Galaxy might helpful as part of introduction
 
 
 
+-->

@@ -1,10 +1,12 @@
 ---
 layout: lecture
-title: "20: Rawls / Habermas Deliberative Democracy"
-nav_order: 20
+title: "22: Rawls / Habermas Deliberative Democracy"
+nav_order: 22
 ---
 
 
+## Table of contents
+{: .no_toc .text-delta } 
 1. TOC 
 {:toc}
 
