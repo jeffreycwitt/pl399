@@ -1,6 +1,6 @@
 ---
 layout: lecture
-title: "6: information applied"
+title: "6: Information Applied"
 reading: ["SN4EQIZ5=>cc. 8-11"]
 nav_order: 6
 ---

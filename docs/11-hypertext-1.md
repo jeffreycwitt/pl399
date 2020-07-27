@@ -1,6 +1,6 @@
 ---
 layout: lecture
-title: "11: Hypertext"
+title: "11: Hypertext 1"
 nav_order: 11
 ---
 
