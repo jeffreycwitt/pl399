@@ -1,7 +1,7 @@
 ---
 layout: lecture
 title: "7: Information Applied"
-reading: ["SN4EQIZ5=>cc. 8-11"]
+reading: ["SN4EQIZ5=>cc. 8-10"]
 nav_order: 7
 ---
 

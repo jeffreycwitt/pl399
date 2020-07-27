@@ -1,9 +1,11 @@
 ---
 layout: lecture
 title: "3: From Orality to Literacy"
-reading: ["SN4EQIZ5=>cc. 1-3"]
+reading: ["78FP4M3A=>selections", "U25N8RU8", "MKVLEEA6", "SN4EQIZ5=>cc. 1-3"]
 nav_order: 3
 ---
+<!-- phaedrus: 78FP4M3A; ong c. 1; ong, c. 4; Glieck 1-3 -->>
+
 ## Table of contents
 {: .no_toc .text-delta } 
 1. TOC 
@@ -265,7 +267,7 @@ I want to mark this and compare it to Ong's description of the "advantages" of t
 
 But the re-appearance of the dynamism of the presented information will again be described by some as an advantage of the new digital medium (wednesday and thursday) and will by others be the substance of its critique (Carr on Friday)
 
-# The Rise of Literacy and its Effect on Consciousness (30/35) (Readings from Ong and Carr)
+# The Rise of Literacy and its Effect on Consciousness
 
 ## Ong's Thesis (core of reading p. 78-96, 101-103)
 
@@ -556,7 +558,7 @@ Our persistent with the old model seems to me the product of a particular form o
 
 Others have note this as well: 
 
-> [17] Although articles were sometimes peerreviewed, only well after the second world war was peer review introduced as a routine process for virtually all articles submitted to journals. This served various purposes, not least to limit the amount that was published, as printing and distributing journals was expensive and a judgement had to be made as to what was truly worthwhile spending scarce money on, which led to many journals selecting on criteria of perceived quality and relevance to their intended readership. The time the process took between initial submission and publication was usually quite long, sometimes very long.
+> [17] Although articles were sometimes peer-reviewed, only well after the second world war was peer review introduced as a routine process for virtually all articles submitted to journals. This served various purposes, not least to limit the amount that was published, as printing and distributing journals was expensive and a judgement had to be made as to what was truly worthwhile spending scarce money on, which led to many journals selecting on criteria of perceived quality and relevance to their intended readership. The time the process took between initial submission and publication was usually quite long, sometimes very long.
 With the advent of the internet, the need for print and physical distribution, and the costs associated with that, disappeared. This could have meant a complete re-think of the way science was communicated, but traditions stuck, and most of scientific communication still takes place on the old print paradigms, devised in the print era.
 (https://blog.scielo.org/en/2018/05/25/communication-and-peer-review-should-be-universally-separated/#.W-FGsnr7TOR)
 

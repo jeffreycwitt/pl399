@@ -1,11 +1,10 @@
 ---
 layout: lecture
 title: "23: Neo-Feudalism and the Death of the Public Sphere"
-reading: ["RIY8VCD2", "59GKIFII=>c. 4: Commercialization and the ‘Death of the
-Public Sphere"]
+reading: ["RIY8VCD2", "6L3H3YVN"]
 nav_order: 23
 ---
-
+<!-- habermas "RIY8VCD2", louw "6L3H3YVN" -->
 ## Table of contents
 {: .no_toc .text-delta } 
 1. TOC 

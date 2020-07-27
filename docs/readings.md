@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Readings"
-published: false
+published: true
 ---
 
 # Readings by Lesson 
@@ -25,17 +25,35 @@ published: false
 <script type="text/javascript">
 $(".reading").each(function(i, v){
       const _this = this;
-      const readingid_and_chapters = $(this).attr("data-reading");
-      const readingid = readingid_and_chapters.split("=>")[0];
+      const readingid_and_trailing = $(this).attr("data-reading");
+      const readingid = readingid_and_trailing.split("=>")[0];
       const url = "https://api.zotero.org/groups/2536930/items/" + readingid;
       $.get(url, function(d){
         const authors = d.data.creators.filter((c) => c.creatorType === "author");
-        const author = authors.length > 1 ? authors[0].lastName + ", et al" : authors[0].lastName;
+        let author = "";
+        if (authors.length > 1){
+          author = authors[0].lastName + ", et al"
+        }
+        else if (authors.length > 0){
+          author = authors[0].lastName;
+        }
+        else if (d.data.creators[0]){
+          author = d.data.creators[0].lastName;
+        }
         const title = d.data.title;
         const url = d.data.url;
-        const chapters = readingid_and_chapters.split("=>")[1] ? ", " + readingid_and_chapters.split("=>")[1] : "";
-        const insert = url ? "<a href='" + url + "'>" + author + ", " + title + chapters + "</a>" : author + ", " + title + chapters;
-        $(_this).html(insert);
+        const pages = d.data.pages ? ", pp. " + d.data.pages : "";
+        const trailing = readingid_and_trailing.split("=>")[1] ? ", " + readingid_and_trailing.split("=>")[1] : "";
+        /* conditional so that i can raw html and easily based into moodle */
+        const raw = false;
+        if (raw){
+          const insert = url ? "<li><a href='" + url + "' target='_blank'>" + author + ", " + title + pages + trailing + "</a></li>" : "<li>" + author + ", " + title + pages + trailing + "</li>";
+          $(_this).text(insert);
+        }
+        else{
+          const insert = url ? "<a href='" + url + "' target='_blank'>" + author + ", " + title + pages + trailing + "</a>" : author + ", " + title + pages + trailing;
+          $(_this).html(insert);
+        }
       });
     });
 </script>

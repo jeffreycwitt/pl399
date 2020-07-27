@@ -1,9 +1,10 @@
 ---
 layout: lecture
 title: "8: Information and Semantics"
-reading: chapter 3, Philosophy of Information
+reading: ["F578UMXR", "3JMTBWNW"]
 nav_order: 8
 ---
+<!-- reading: phil of info, c. 2; phil of info, c. 3 -->
 
 ## Table of contents
 {: .no_toc .text-delta } 

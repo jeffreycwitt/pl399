@@ -2,6 +2,7 @@
 layout: lecture
 title: "2: The Medium is the Message"
 nav_order: 2
+reading: ["ZIS73PZV"]
 watchtime: 20
 ---
 
@@ -65,11 +66,13 @@ Sarnoff aims to critique technological pessimists who blame technological advanc
 
 Consider what Sarnoff's words quoted by McLuhan:
 
-> "The products of modern science are not good or bad: it is the way they are used that determines their value."
+{:#the-products-of}
+> "The products of modern science are not good or bad: it is the way they are used that determines their value." <span class="citation" data-reading="ZIS73PZV=>p. 11" data-annotation="https://hyp.is/4cX9nNAQEeqQm5uYq8W8JA"/>
 
 We see this position criticized again in McLuhan's critique of Toynbee:
 
-> "Arnold Toynbee is innocent of any understanding of media as they have shaped history’ but he is full of examples that the student of media can use. At one moment he can seriously suggest that adult education, such as the Workers Educational Association in Britain, is a useful counterforce to the popular press. Toynbee considers that although all of the oriental societies have in our time accepted the industrial technology and its political consequences: “On the cultural plane, however, there is no uniform corresponding tendency.” (Somervell, I. 267) This is like the voice of the literate man, floundering in a milieu of ads, who boasts, “Personally, I pay no attention to ads.” The spiritual and cultural reservations that the oriental peoples may have toward our technology will avail them not at all. The effects of technology do not occur at the level of opinions or concepts, but alter sense ratios or patterns of perception steadily and without any resistance. The serious artist is the only person able to encounter technology with impunity, just because he is an expert aware of the changes in sense perception." (p. 18)
+{:#arnold-toynbee}
+> "Arnold Toynbee is innocent of any understanding of media as they have shaped history’ but he is full of examples that the student of media can use. At one moment he can seriously suggest that adult education, such as the Workers Educational Association in Britain, is a useful counterforce to the popular press. Toynbee considers that although all of the oriental societies have in our time accepted the industrial technology and its political consequences: “On the cultural plane, however, there is no uniform corresponding tendency.” (Somervell, I. 267) This is like the voice of the literate man, floundering in a milieu of ads, who boasts, “Personally, I pay no attention to ads.” The spiritual and cultural reservations that the oriental peoples may have toward our technology will avail them not at all. The effects of technology do not occur at the level of opinions or concepts, but alter sense ratios or patterns of perception steadily and without any resistance. The serious artist is the only person able to encounter technology with impunity, just because he is an expert aware of the changes in sense perception." <span class="citation" data-reading="ZIS73PZV=>p. 18" data-annotation="https://hyp.is/wLDgONAOEeqULOOF0I-4LQ/"/>
 
 With respect to this quotation: consider the following questions: 
 
@@ -104,6 +107,7 @@ It also worth noting that this remains a common and even intuitive position.
 Here's an example I found recently from a [comment](https://www.nytimes.com/2018/09/14/sunday-review/politics-disruption-media-technology.html#permid=28613018) in the New York Times.
 
 ![nytimes article comment](https://s3.amazonaws.com/lum-faculty-jcwitt-public/philInfoMediaImages/nytcomment.png)
+<p class="vda">discuss image anchor</p>
 
 # Consider the Objections
 
@@ -250,7 +254,7 @@ There are other examples of this kind of thinking as well.
 
 I was struck by Sven Birkerts remarks in Gutenberg Elegies: The Fate of Reading in an Electronic age, who writes: 
 
-> “I worry not only that the world will become increasingly alien and inhospitable to me, but also that I will be gradually coerced into living against my natural grain, forced to adapt to a pace and a level of technological complexity that does not suit me, and driven to interact with others in certain prescribed ways.” (p. 28)
+> “I worry not only that the world will become increasingly alien and inhospitable to me, but also that I will be gradually coerced into living against my natural grain, forced to adapt to a pace and a level of technological complexity that does not suit me, and driven to interact with others in certain prescribed ways.” <span class="citation" data-reading="VBRGFWSI=>p. 28"/>
 
 {:.question}
 In the above quote, where can see the Marxist idea of a "ruling" or "dominant" idea at work? How does this ruling idea manifest itself as not just the dominant idea but the "natural" or "normal" idea? How is he using this idea to measure or evaluate the worth of alternative media.
@@ -265,7 +269,7 @@ In the above quote, where can see the Marxist idea of a "ruling" or "dominant" i
 
 Birkert's oversight of the way the "dominant medium" (with which he grew up) is affecting his judgment also seems clear to me from his introduction, where he pits language and literature as technologically independent phenomena that stands in contrast to “technology”. 
 
-> “I speak as an unregenerate reader, one who still believes that language and not technology is the true revolutionary miracle. I have not yet given up on the idea that the experience of literature offers a kind of wisdom that cannot be discovered elsewhere…and that for a host of reasons the bound books is the ideal vehicle for the written word” (p. 6)
+> "I speak as an unregenerate reader, one who still believes that language and not technology is the true revolutionary miracle. I have not yet given up on the idea that the experience of literature offers a kind of wisdom that cannot be discovered elsewhere…and that for a host of reasons the bound books is the ideal vehicle for the written word." <span class="citation" data-reading="VBRGFWSI=>p. 6"/>
 
 {:.question}
 Is there something odd about the distinction between "language" on the one hand and "technology" on the other hand?

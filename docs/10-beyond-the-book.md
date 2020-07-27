@@ -2,9 +2,9 @@
 layout: lecture
 title: "10: Beyond the Book"
 nav_order: 10
-reading: ["JNA89KWB", "KUZITWWR"]
+reading: ["JNA89KWB", "PYUMRPFD", "K5L5DYVS", "V2BN56HW", "KUZITWWR"]
 ---
-
+<!-- bush,JNA89KWB ; nelson 0: PYUMRPFD, nelson 1 K5L5DYVS; nelson 2, V2BN56HW; zundert; KUZITWWR-->
 ## Table of contents
 {: .no_toc .text-delta } 
 1. TOC 

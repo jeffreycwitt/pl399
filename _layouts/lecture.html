@@ -50,6 +50,9 @@ layout: default
   blockquote a.quote-link {
     display: inline;
   }
+  .citation{
+    font-size: 12px;
+  }
   
   
 /* video discuss anchor */
@@ -63,7 +66,7 @@ layout: default
     padding-top: 0px;
   }
   .vda::after{
-    content: "To discuss this video, highlight the 'discuss video anchor' text and annotate";
+    content: "To discuss this video/image, highlight the 'discuss video/image anchor' text and annotate";
     display: none;
     font-size: 12px;
     position: absolute;
@@ -179,18 +182,29 @@ layout: default
       }
     });
 
-    $(".reading").each(function(i, v){
+    $(".reading, .citation").each(function(i, v){
       const _this = this;
-      const readingid_and_chapters = $(this).attr("data-reading");
-      const readingid = readingid_and_chapters.split("=>")[0];
+      const readingid_and_trailing = $(this).attr("data-reading");
+      const annotation_target = $(this).attr("data-annotation");
+      const readingid = readingid_and_trailing.split("=>")[0];
       const url = "https://api.zotero.org/groups/2536930/items/" + readingid;
       $.get(url, function(d){
         const authors = d.data.creators.filter((c) => c.creatorType === "author");
-        const author = authors.length > 1 ? authors[0].lastName + ", et al" : authors[0].lastName;
+        let author = "";
+        if (authors.length > 1){
+          author = authors[0].lastName + ", et al"
+        }
+        else if (authors.length > 0){
+          author = authors[0].lastName;
+        }
+        else if (d.data.creators[0]){
+          author = d.data.creators[0].lastName;
+        }
         const title = d.data.title;
-        const url = d.data.url;
-        const chapters = readingid_and_chapters.split("=>")[1] ? ", " + readingid_and_chapters.split("=>")[1] : "";
-        const insert = url ? "<a href='" + url + "'>" + author + ", " + title + chapters + "</a>" : author + ", " + title + chapters;
+        const url = annotation_target ? annotation_target : d.data.url;
+        const pages = d.data.pages ? ", pp. " + d.data.pages : "";
+        const trailing = readingid_and_trailing.split("=>")[1] ? ", " + readingid_and_trailing.split("=>")[1] : "";
+        const insert = url ? "<a href='" + url + "' target='_blank'>" + author + ", " + title + pages + trailing + "</a>" : author + ", " + title + pages + trailing;
         $(_this).html(insert);
       });
     });

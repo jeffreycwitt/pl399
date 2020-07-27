@@ -18,7 +18,7 @@ function addLink(value, trailing){
     if (trailing){
       strings.push(trailing)
     }
-    const finalString = "<a class='biblink' href='" + mainlink + "'>" + strings.join(" ") + "</a>";
+    const finalString = "<a class='biblink' href='" + mainlink + "' target='_blank'>" + strings.join(" ") + "</a>";
     return finalString;
   }
 }
