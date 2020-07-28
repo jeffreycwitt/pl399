@@ -5,7 +5,7 @@
 layout: home
 ---
 
-Philosophy, Information, and Media:
+TEST CHANGE Philosophy, Information, and Media:
 
 A Course Packet
 
