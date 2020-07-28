@@ -3,6 +3,9 @@ layout: default
 title: "Glossary"
 ---
 
+<!-- <div>
+<iframe src="https://hypothes.is/groups/i8V1nADX/philosophyofinfoandmedia?q=tag%3Aglossary" width="100%" height="500px"/>
+</div> -->
 
 # A
 

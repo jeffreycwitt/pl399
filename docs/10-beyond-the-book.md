@@ -142,6 +142,7 @@ And at the end I want to ask a final speculative question: whether or not new te
 
 # Assignment: 
 
+(This assignment is better introduced at beginning of the semester)
 Reading and Writing Journal
 
 
@@ -386,6 +387,30 @@ He calls it "paradigmatic regression".
 Look again at the examples given by Van Zundert on p. 86. Consider again Nelson's complaint that in creating word processing applications, we "imitated paper"...
 
 <span class="respond"/>: ...where do you see examples of this in your own life? Where do see the metaphors of the page structuring your experience of the computer? Can you think of any ways this might limiting your imagination how you might encounter and experience this information?
+
+</div>
+
+# Class Project: Criteria for Evaluating an Edition
+
+As our main assignment for this unit, I'm going to ask you to look at text editions online evaluate the success of that edition. [More on that later](12-hypertext-2#hyptertext-assignment).
+
+But before we can do that we have to develop a rubric to identify what success means and in what contexts. 
+
+I would like to generate this rubric as a class.
+
+<div class="discussion" markdown="1" id="edition-rubric-discussion">
+
+<span class="respond">What criteria should be using to judge when a "text edition" succeeds? 
+
+<span class="respond">Is success context dependent? Does it depend on goals? 
+
+<span class="respond">What are some goals that a digital edition might be well suited for? Why?
+
+<span class="respond">What are some goals that a digital edition might not be well suited for? Why?
+
+Use our annotation tool to respond. Please use the tag 'edition-rubric' so that we can group these discussions together.
+
+Keep in mind the discussion doesn't have to start and stop here. As Nelson suggest we can move in an interconnected and non-linear fashion. So as continue to read, if you find a text passage that seems relevant to our discussion of an edition-rubric, simply annotate it and tag it as "edition-rubric". Then we can group them all together and view them in one [edition rubric discussion](add-link-here) page
 
 </div>
 
