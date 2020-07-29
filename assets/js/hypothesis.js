@@ -96,7 +96,7 @@ class HypothesisAPIClient {
     // params.append('assertion', code);
     // console.log("code", code);
     // console.log("code request params", params.code);
-    const params = "grant_type=authorization_code&code=" + code + "&client_id=7903b36c-d0f1-11ea-b19d-b385fd530cda";
+    const params = "grant_type=authorization_code&code=" + code + "&client_id=" + clientId;
     const resp  = await fetch(`${this.serviceUrl}/api/token`, {
       method: 'POST',
       body: params,
