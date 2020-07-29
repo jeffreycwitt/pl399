@@ -29,20 +29,24 @@ function success(d, successData){
     const newRows = rows.map((r) => {
       const terms = r.target[0].selector ? r.target[0].selector.filter((i) => (i.type === "TextQuoteSelector")) : []
       const term = terms[0] ? terms[0].exact : '';
-      const link = "https://hyp.is/" + r.id;
+      /* alt link form const link = r.uri + "#annotations:" + r.id; */
+      const link = "https://hyp.is/" + r.id; 
+      const username = r.user.split("acct:")[1].split("@")[0];
       return {
         term: term, 
         link: link,
-        text: r.text
+        text: r.text,
+        username: username
       }
     });
-    const sorted_rows = newRows.sort((a, b) => (a.term > b.term) ? 1 : -1);
+    // sort rows alphabetically if tag = glossary otherwise do not sort
+    const sorted_rows = (successData.tag ==="glossary" || successData.tag === "gc") ? newRows.sort((a, b) => (a.term > b.term) ? 1 : -1) : newRows;
     sorted_rows.forEach((r) => {
       if (!r.term){
-        $("#result-" + successData.tag).append("<div><p><a href='" + r.link + "'>Annotation</a>:</p><p style='padding-left:20px'>"  + r.text + "</p></div>");
+        $("#result-" + successData.tag).append("<div><p><a href='" + r.link + "'>Page Annotation</a>:</p><p style='padding-left:20px'>"  + r.text + " <span style='font-decoration: italic;'>(" + r.username + ")</span></p></div>");
       }
       else{
-      $("#result-" + successData.tag).append("<div><p><a href='" + r.link + "'>" + r.term + "</a>:</p><p style='padding-left:20px'>"  + r.text + "</p></div>");
+      $("#result-" + successData.tag).append("<div><p><a href='" + r.link + "'>" + r.term + "</a>:</p><p style='padding-left:20px'>"  + r.text + " <span style='font-decoration: italic;'>(" + r.username + ")</span></p></div>");
       }
     });
 }

@@ -43,6 +43,33 @@ It is with this in mind that I want to turn, again moving historically, to why p
 
 # Shapiro
 
+## Information Revolution as Control Revolution
+
+I think Shapiro's thesis fits well with Barlow's optimism and belief in the Internet as remedy to the problem identified by Habermas and Louw
+
+<div class="discussion" markdown="1">
+
+<span class="respond"/> What passages did you find in Shapiro's first suggestion that demonstrate this optimism. Can you annotate this text with a link to an annotation on a representative passage in chapter 1?
+
+</div>
+
+Here's a passage I found that seemed particularly suggestive. 
+
+{:.what-they-suggest}
+> What they suggest is a potentially momentous transfer of power from large institutions to individuals. The real change set in motion by the Interent may, in fact, be a **control revolution**, a vast transformation in who governs information, experience, and resources. Increasingly, it seems that we will. <span class="citation" data-reading="MTNERR8X=>p. 10" data-annotation="https://hyp.is/xGUIqtG6EeqcbKtcLUxoYQ"/>
+
+What Shapiro seems to identify as momentous is not the new idea of "information" or a new communications medium, but the anticipated after effect. Shapiro anticipates that consequence of the new modalities of digital information is a shift in control. 
+
+In Habermas's narrative, this is perhaps a shift back to where control over communication was more distributed, where "we" will increasingly have control. 
+
+There are a couple things to note here:
+
+1. Future critics like Sunstein are a little more cautions about whether this is a net positive for democracy. To say "we" will have control sounds very democratic, but Sunstein will want to more precise about what we mean by democracy. If we are talking about deliberative democracy, does not necessarily follow that deliberative democracy is improved the more directly people are able to influence political decisions and the more distributed communications power is 
+
+2. A second concern might come from someone like Lessig, who would remind us that there is nothing fixed about the Internet. If Shapiro's description of the Interent is accurate in 1999, does it follow that this will be the nature of the Internet today. To what extent does today's Internet still conform to the ideals of Barlow and Shapiro and to what extent and has shifted back towards something like the neo-feudalism described by Habermas.
+
+
+
 ## Personalization of Experience
 
 In chapter 5 Shapiro champions the emerging possibility to use the internet to personalize your experience. 

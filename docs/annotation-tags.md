@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Class Annotation Tags"
+title: "Annotation Tags"
 ---
 
 # Official Tags
@@ -19,6 +19,14 @@ title: "Class Annotation Tags"
 <div>
   <a class="view-annotations" data-tag='edition-rubric'>View 'edition-rubric' tags</a>
   <div id="result-edition-rubric" class="result" data-open='false'>
+  </div>
+</div>
+
+**feedback**: Use this tag to offer any course feedback. You can go to the [course feedback page](feedback.html) a "page" annotation and leave any feedback you want or leave a feedback comment on any other page. In either case, use the course tag "feedback" so we group these comments together
+
+<div>
+  <a class="view-annotations" data-tag='feedback'>View 'feedback' tags</a>
+  <div id="result-feedback" class="result" data-open='false'>
   </div>
 </div>
 
@@ -51,9 +59,9 @@ A second entry of the same word or phrase may be permissible, but it has to be j
 
 # Crowd Sourced Tags
 
-We should not limit the groupings of our discussion to the above official tags. We should be created and allow groupings to emerge organically as various discussions take place. Note that annotations can have many tags at the same time.
+We should not limit the groupings of our discussion to the above official tags. We should be creative and allow groupings to emerge organically as various discussions take place. Note that annotations can have many tags at the same time.
 
-The **edition-rubric** tag above in one such example. It's a tag associated with a particular discussion, and as we continue to find passages that seem relevant to that discussion we can generate corresponding tags.  
+The **edition-rubric** tag above in one such example. It's a tag associated with a particular discussion, and as we continue to find passages that seem relevant to that discussion we can connect this distributed discussion by using the corresponding tag.  
 
 Additionally, we should feel free to be creative and even silly. Feel free to invent any tag you want, you don't need my permission to make a tag; create any tag you want, it can be serious or silly. (e.g. tag: 'RonaLife', 'what!?!?', etc.) 
 

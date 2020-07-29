@@ -37,6 +37,7 @@ class App extends Component {
     const clientId = localStorage.getItem('hypothesis-client-id') || "d706d46c-d0dd-11ea-952d-2fceb4c84c47";
     localStorage.setItem('hypothesis-client-id', clientId);
     
+    
     this.state = {
       // The OAuth client ID.
       clientId,

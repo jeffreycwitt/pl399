@@ -20,7 +20,6 @@ function checkLogin(success, successData){
         xhr.setRequestHeader("Authorization", "Bearer " + savedInfo.access_token);
       },
     success: function(d){
-      console.log("profile", d)
       if (!d.userid){
         tryRefresh(savedInfo.refresh_token) // 3a
       }
