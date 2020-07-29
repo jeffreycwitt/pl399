@@ -164,10 +164,13 @@ layout: default
   }
   </style>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+  <!-- uncomment if login is desired for main pages <script src="{{ '/assets/js/checkLogin.js' | absolute_url }}"></script> -->
   
   <script type="text/javascript">
   
   $(document).ready(function(){
+    checkLogin(function(){console.log("login checked")});
   
     $(".question").click(function(){
       $(this).next(".answer").toggle();

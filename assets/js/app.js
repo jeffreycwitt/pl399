@@ -10,6 +10,7 @@ const { Component, h } = preact;
  * This is the format of the `userid` used in annotation and profile responses.
  */
 function parseUserid(userid) {
+  console.log(userid)
   const re = /^acct:([^@]+)@(.*)$/;
   const [_, username, authority] = userid.match(re);
   return { username, authority };
@@ -106,6 +107,7 @@ class App extends Component {
   }
 
   _renderProfileInfo() {
+    console.log("state at render profile", this.state)
     const { userid, groups } = this.state.profile;
     const { username } = parseUserid(userid);
 
@@ -140,6 +142,21 @@ class App extends Component {
           h('div', {}, `In groups: ${this.state.annotationStats.groupTotal}`),
         ] :
           'Fetching…'
+      ),
+      
+      h('div', {},
+        h('h2', {}, 'Annotations'),
+        this.state.annotations ? [
+        h('ul',{},
+        this.state.annotations
+            .filter(a => a.tags.includes("glossary"))
+            .map(a =>
+            h('li', {}, a.text)
+          )
+         )
+        ]
+        : 
+        'Fetching'
       ),
 
       h('hr'),
@@ -183,6 +200,7 @@ class App extends Component {
 
       return this.client.request('profile.read');
     }).then((profile) => {
+      console.log("profile on return from request", profile)
       this.setState({
         fetching: false,
         profile,
@@ -195,6 +213,7 @@ class App extends Component {
 
         this.setState({
           annotationStats: { total, privateTotal, groupTotal },
+          annotations: anns
         });
       }).catch((err) => {
         this.setState({ error: err });

@@ -1,6 +1,5 @@
 ---
 layout: home
-permalink: "login"
 ---
 <html>
 <head>

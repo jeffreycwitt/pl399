@@ -82,7 +82,7 @@ class HypothesisAPIClient {
     const top    = window.screenY + ((window.innerHeight / 2) - (height / 2));
 
     const origin = location.origin;
-    const authUrl = `${this.serviceUrl}/oauth/authorize?client_id=${clientId}&response_type=code&response_mode=web_message&origin=${origin}&state=${state}`;
+    const authUrl = `${this.serviceUrl}/oauth/authorize?client_id=${clientId}&response_type=code&response_mode=web_message&origin=${origin}&state=${state}&scopes=annotation:read`;
     window.open(authUrl, 'Login to Hypothesis', `left=${left},top=${top},width=${width},height=${height}`);
 
     const { code } = await authResponse;
@@ -91,17 +91,24 @@ class HypothesisAPIClient {
     // Note that the token will expire after a period of time.
     //
     // This client currently makes no effort to refresh the token.
-    const params = new URLSearchParams();
-    params.append('grant_type', 'urn:ietf:params:oauth:grant-type:jwt-bearer');
-    params.append('assertion', code);
-    const { access_token }  = await fetch(`${this.serviceUrl}/api/token`, {
+    // const params = new URLSearchParams();
+    // params.append('grant_type', 'urn:ietf:params:oauth:grant-type:jwt-bearer');
+    // params.append('assertion', code);
+    // console.log("code", code);
+    // console.log("code request params", params.code);
+    const params = "grant_type=authorization_code&code=" + code + "&client_id=7903b36c-d0f1-11ea-b19d-b385fd530cda";
+    const resp  = await fetch(`${this.serviceUrl}/api/token`, {
       method: 'POST',
       body: params,
       headers: {
         'Content-Type': 'application/x-www-form-urlencoded',
       },
     }).then(r => r.json());
-
+    const access_token = resp.access_token
+    console.log("access_token", access_token);
+    
+    localStorage.setItem("hypothesis.oauth.hypothes%2Eis.token", JSON.stringify(resp));
+    
     // Get API routes.
     const links = await fetch(`${this.serviceUrl}/api/`).then(r => r.json());
 
@@ -152,7 +159,11 @@ class HypothesisAPIClient {
     Object.keys(params).forEach(k => {
       url.searchParams.append(k, params[k]);
     });
-
+    console.log("url", url.toString);
+    console.log("meta", meta);
+    console.log("data", data);
+    console.log("token", this.token);
+    console.log("headers", headers);
     return fetch(url.toString(), {
       method: meta.method,
       headers,
@@ -169,15 +180,17 @@ class HypothesisAPIClient {
     const anns = [];
     let total = null;
 
-    while (total === null || anns.length < total) {
+    //while (total === null || anns.length < total) {
+     // while (total === null || anns.length < 100) {
       const searchResult = await this.request('search', null, {
         offset: anns.length,
-        limit: 1000,
+        limit: 200,
+        group: "i8V1nADX"
       });
 
       total = searchResult.total;
       anns.push(...searchResult.rows);
-    }
+    //}
 
     return anns;
   }

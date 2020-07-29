@@ -45,7 +45,7 @@ $(".reading").each(function(i, v){
         const pages = d.data.pages ? ", pp. " + d.data.pages : "";
         const trailing = readingid_and_trailing.split("=>")[1] ? ", " + readingid_and_trailing.split("=>")[1] : "";
         /* conditional so that i can raw html and easily based into moodle */
-        const raw = false;
+        const raw = true;
         if (raw){
           const insert = url ? "<li><a href='" + url + "' target='_blank'>" + author + ", " + title + pages + trailing + "</a></li>" : "<li>" + author + ", " + title + pages + trailing + "</li>";
           $(_this).text(insert);
