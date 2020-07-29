@@ -33,9 +33,10 @@ class App extends Component {
     super(props);
 
     this.client = new HypothesisAPIClient(DEFAULT_SERVICE_URL);
-
-    const clientId = localStorage.getItem('hypothesis-client-id');
-
+    
+    const clientId = localStorage.getItem('hypothesis-client-id') || "d706d46c-d0dd-11ea-952d-2fceb4c84c47";
+    localStorage.setItem('hypothesis-client-id', clientId);
+    
     this.state = {
       // The OAuth client ID.
       clientId,
@@ -91,17 +92,26 @@ class App extends Component {
     this.setState({ clientId: id });
   }
 
+  // _renderLoginForm() {
+  //   return h('div', {},
+  //     h('h2', {}, 'Third party client test app'),
+  //     h('form', { onSubmit: (e) => this._login(e) },
+  //       h('input', {
+  //         name: 'client_id',
+  //         placeholder: 'OAuth Client ID',
+  //         onInput: (e) => this._clientIdChanged(e.target.value),
+  //         value: this.state.clientId,
+  //       }),
+  //       h('button', {}, 'Login with Hypothesis')
+  //     )
+  //   );
+  // }
+
   _renderLoginForm() {
     return h('div', {},
       h('h2', {}, 'Third party client test app'),
       h('form', { onSubmit: (e) => this._login(e) },
-        h('input', {
-          name: 'client_id',
-          placeholder: 'OAuth Client ID',
-          onInput: (e) => this._clientIdChanged(e.target.value),
-          value: this.state.clientId,
-        }),
-        h('button', {}, 'Login to Hypothesis')
+        h('button', {}, 'Login with Hypothesis')
       )
     );
   }
@@ -188,7 +198,8 @@ class App extends Component {
       error: null,
     });
 
-    const clientId = e.target.elements.client_id.value;
+    //const clientId = e.target.elements.client_id.value;
+    const clientId = this.state.clientId;
 
     this.client.login(clientId).then((token) => {
       this.setState({

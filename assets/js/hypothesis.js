@@ -159,11 +159,6 @@ class HypothesisAPIClient {
     Object.keys(params).forEach(k => {
       url.searchParams.append(k, params[k]);
     });
-    console.log("url", url.toString);
-    console.log("meta", meta);
-    console.log("data", data);
-    console.log("token", this.token);
-    console.log("headers", headers);
     return fetch(url.toString(), {
       method: meta.method,
       headers,
