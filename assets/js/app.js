@@ -149,7 +149,6 @@ class App extends Component {
         this.state.annotations ? [
         h('ul',{},
         this.state.annotations
-            .filter(a => a.tags.includes("glossary"))
             .map(a =>
             h('li', {}, a.text)
           )
