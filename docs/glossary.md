@@ -10,7 +10,7 @@ Glossary is built from annotations tagged "glossary". So don't annotate these en
 **Again, don't annotate directly on this page.** Instead go out and annotate the web! This page is meant to be a report of that work. 
 
 <div>
-<div id="result">
+<div id="result-glossary">
 </div>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>

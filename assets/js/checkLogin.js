@@ -43,8 +43,6 @@ function tryRefresh(refreshToken){
         xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
       },
     success: function(d){
-      console.log("d", d);
-      console.log("successData", successData);
       success(d, successData);
     }, //3b comes with new credentials as direct data response
     error: function(){
