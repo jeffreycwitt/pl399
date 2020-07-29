@@ -126,6 +126,8 @@ class HypothesisAPIClient {
   logout() {
     this.token = null;
     this.links = null;
+    localStorage.setItem("hypothesis.oauth.hypothes%2Eis.token", "");
+
   }
 
   /**

@@ -1,5 +1,5 @@
 function checkLogin(success, successData){
-  const savedInfo = JSON.parse(localStorage.getItem("hypothesis.oauth.hypothes%2Eis.token"));
+  const savedInfo = localStorage.getItem("hypothesis.oauth.hypothes%2Eis.token") ? JSON.parse(localStorage.getItem("hypothesis.oauth.hypothes%2Eis.token")) : "";
   let authorizationToken = savedInfo ? savedInfo.access_token : '';
   let refreshToken = savedInfo ? savedInfo.refresh_token : '';
     
