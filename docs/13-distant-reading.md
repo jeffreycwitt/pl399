@@ -1,9 +1,11 @@
 ---
 layout: lecture
 title: "13: Distant Reading and Distant Writing"
-reading: ["YCUSFWXI", Q6K5EM4E, BL386AX3]
+reading: ["YCUSFWXI", "Q6K5EM4E", "BL386AX3", "R29TCBQA", "HZSRCCAL", "4MXHYS44"]
 nav_order: 13
 ---
+
+<!-- daily nous on GPT3 R29TCBQA; GPT-3 example 1, HZSRCCAL, GPT-3 example 2 4MXHYS44-->
 ## Table of contents
 {: .no_toc .text-delta } 
 1. TOC 
@@ -225,6 +227,17 @@ Finally, let's end with a provocative little foray into the future.
 If we can talk about distant reading, can we also talk about distant writing. 
 
 What might that look like? Here are a few examples. 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I asked GPT-3 to write a response to the philosophical essays written about it by <a href="https://twitter.com/DrZimmermann?ref_src=twsrc%5Etfw">@DrZimmermann</a>, <a href="https://twitter.com/rinireg?ref_src=twsrc%5Etfw">@rinireg</a> <a href="https://twitter.com/ShannonVallor?ref_src=twsrc%5Etfw">@ShannonVallor</a>, <a href="https://twitter.com/add_hawk?ref_src=twsrc%5Etfw">@add_hawk</a>, <a href="https://twitter.com/AmandaAskell?ref_src=twsrc%5Etfw">@AmandaAskell</a>, <a href="https://twitter.com/dioscuri?ref_src=twsrc%5Etfw">@dioscuri</a>, David Chalmers, Carlos Montemayor, and Justin Khoo published yesterday by <a href="https://twitter.com/DailyNousEditor?ref_src=twsrc%5Etfw">@DailyNousEditor</a>. It&#39;s quite remarkable! <a href="https://t.co/W1PVlsHdu4">pic.twitter.com/W1PVlsHdu4</a></p>&mdash; Raphaël Millière (@raphamilliere) <a href="https://twitter.com/raphamilliere/status/1289129723310886912?ref_src=twsrc%5Etfw">July 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+More explanation: https://threadreaderapp.com/thread/1289226960279764992.html
+[i saved two pdf output linked to the tweet]
+
+Is this an example of computer writing or a new form of human writing? 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Increasingly it feels right to me to ascribe joint authorship to human + tool.<br><br>I went to share this, and it didn&#39;t seem right to say &quot;GPT-3 wrote this essay&quot; or &quot;Raphael asked GPT-3 to write an essay&quot;<br><br>instead: &quot;GPT-3 + Raphael wrote an essay&quot; <a href="https://t.co/SfHwBM30JO">https://t.co/SfHwBM30JO</a></p>&mdash; Catherine Olsson (@catherineols) <a href="https://twitter.com/catherineols/status/1289335703084470274?ref_src=twsrc%5Etfw">July 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 
 GPT-3 examples of writing
 see https://medium.com/jasonwu0731/the-ginormous-language-model-and-its-api-gpt-3-b669928600e0
