@@ -31,7 +31,7 @@ This is the trajectory we want to follow.
 
 In line with the McLuhan thesis: This history of technological shifts affects consciousness eventually leading us to a new idea, the idea of "information". 
 
-This is the "theory" that Glieck points as the turning point, and today this is sometimes called the "Informational Turn" that would have dramatic impacts on communication in the late 20th and early 21st centuries, what Glieck calls the "Flood". 
+This is the "theory" that Gleick points as the turning point, and today this is sometimes called the "Informational Turn" that would have dramatic impacts on communication in the late 20th and early 21st centuries, what Gleick calls the "Flood". 
 
 In this lesson and the next, we are going to try to follow this early history. Our goal will simply be to watch as new media emerge, and to reflect on our two large course questions: 1) how are these media shifts affecting the message; and 2) what are the pros and cons of these shifts; what new gains are made for human kind; what losses are suffered?
 
@@ -51,46 +51,51 @@ In fact that evolving understanding of the medium (is a voice, sound, ink, paper
 
 In fact Dretske in 1981 said the following: 
 
-> ‘The higher-level accomplishments associated with intelligent life can be seen as manifestations of progressively more efficient ways of handling and coding information. Meaning, and the constellation of mental attitudes that exhibit it, are manufactured products. The raw material is information.’ (Dretske, 1981, p. vii.) (See also: Philosophy of Information 2013, p. 43)
+{:#the-higher-level}
+> "The higher-level accomplishments associated with intelligent life can be seen as manifestations of progressively more efficient ways of handling and coding information. Meaning, and the constellation of mental attitudes that exhibit it, are manufactured products. The raw material is information." (Dretske, 1981, p. vii.) See <span class="citation" data-reading="3JMTBWNW=>p.43" data-annotation="https://hyp.is/h5i3UtXDEeqoqxflTPQD1A">Philosophy of Information 2013, p. 43</span>
 
-The suggestion here is that scientific progress tracks with the development of more and more efficient ways of "encoding" or "materializing" information. 
+The suggestion here is that scientific progress tracks with the development of more and more efficient ways of "encoding" information to the point that "information" and the "message" making "information" a kind of medium at the highest level of abstraction.
 
-But, as I hope we will, for a historical point of view this is like looking backward after the discovery has been made. 
+But, as I hope we will see, from a historical point of view, this is like looking backward after the discovery has been made. 
 
-From our historical march forward, we are going to see the slow discovery of the strange idea of "information" as a message-less immaterial medium.
+Through our historical march forward, we are going to try to watch for the slow discovery of this strange idea of "information" as a message-less immaterial medium.
 
 At first glance I think this is a strange way to think about information. 
 
-We generally think about information as tied up with "semantics" or meaning. And we generally, are able to access this "meaning" without materially encoded information (we have to hear it, see it on paper, etc). 
+We generally think about information as tied up with "semantics" or meaning. And we generally are not able to access this "meaning" without materially encoded information (we have to hear it, see it on paper, etc). 
 
-Perhaps another reason this is strange is because we think of the message/meaning as what is material, communicated to us through a material medium. 
+Perhaps another reason this is strange is because we think of the message/meaning as what is immaterial, communicated to us through a material medium. 
 
-But the suggestion here is that "the informational turn" is tied to the discovery of the concept of information as kind of medium on "a higher level of abstraction", at an "immaterial level". 
+But the suggestion here is that "the informational turn" is tied to the discovery of the concept of information as kind of medium on "a higher level of abstraction" standing above other material mediums, standing at an "immaterial level". 
 
-Strange as it may be the story to be told is that the discovery or invention of the information as a "medium" at a higher level of abstraction has proved incredibly powerful, making scientific breakthrough possible in a variety of fields as well as making possible the scale and speed of communication that we wrestle with today.
+Strange as it may be, the story to be told is that the discovery or invention of the information as a "medium" at a higher level of abstraction has proved incredibly powerful, making scientific breakthroughs possible in a variety of fields, as well as making possible the scale and speed of communication that we wrestle with today.
 
-## Example 1 (maybe this example should come up organically during the course of reading)
-[maybe this could be a little video]
+## Example 1 
+<!-- possible video -->>
 
-Let's consider the text on th is page / or the blackboard; "Add 3 cups of sugar and then stir"
+Let's consider the text on this page: "Add 3 cups of sugar and then stir."
 
 {:.question}
 What is the message? 
 
 {:.answer}
-Well, of course, we can't express it to each other without using the medium of sound and words. 
+Well, of course, we can't express it to each other without using another medium, the medium of sound and words. 
 
-But it is something like: "directions for backing something" whose message can be inferred from someone following those directions.
+But it is something like: "directions for baking something".
 
+{:.question}
 What is the medium of this message? 
 
-Written words, chalk, chalk board.
+{:.answer}
+Written words, ink, light pixels, chalk, chalk board.
 
+{:.question}
 If we want to share this message with the class in the next room, how might we do that? 
 
+{:.answer}
 Where the message is tied to the medium, the message and the medium must be moved together. 
 
-In this case, moving the entire chalk board would be very expensive, making the speed and scaled of transmission very slow and laborious.
+In this case, moving the entire chalk board would be very expensive, making the speed and scale of transmission very slow and laborious.
 
 We could copy that message from the chalk board to a piece of paper and the select a "courier" to pass the message to the next room. 
 
@@ -98,39 +103,43 @@ And this is much more economical and the way much of communication occurred for 
 
 But let's consider what it takes to shout that message to the other room. 
 
-There are some advantages here. No one has to leave, no has to be sent. We can harness "traveling" power of sound waves and allow them to carry the message. 
+There are some advantages here. No one has to leave, no one has to be sent. We can harness the "traveling" power of sound waves and allow them to carry the message. 
 
-**Question** But what is required in order to do this?
+{:.question}
+But what is required in order to do this?
 
+{:.answer}
 A re-encoding of the message from visual signs to aural signs. 
 
-How is this re-encoding possible?
+{:.question}
+How is this re-encoding possible? What is required for this re-encoding?
 
-**Question** What is required for this re-encoding?
+{:.answer}
+What is needed is a mind, that understandings the semantics or meaning of the message. Such a mind can then re-encode the semantics into a new medium, in this case sound waves.
 
-A mind, that understandings the semantics or meaning of the message, and then can re-encode it in a way suitable for a new medium (sound waves.)
+Compared to the speed and scale of communication today, this requirement that the semantics of a message be understood first and then re-encoded before transmission very costly. It substantially delays the speed and scale of communication.
 
-Compared to the speed and scale of communication today this, the requirement that the semantics of a message be understood and then re-encoded is still very costly, substantially delaying the speed and scale of communication.
+The "informational turn" coincides with the search for and discover of a medium at level of abstraction higher than either sound or light waves. 
 
-The informational turn coincides with the search for and discover of a medium at higher level of abstraction, than either sound or light waves, but at the level of logic or ideas. (A medium with out matter. And precisely because it is a medium with out matter, means that it can be encoded in any matter.)
+But what could that be? 
 
-(draw on board a level above sound and light, called "information")
+Here we are talking about a level above all physical matter, at the level of logic or ideas. (A medium without matter. And precisely because it is a medium with out matter, it means that it can be encoded in any matter at a lower downstream level of abstraction.
+
+<!-- example of triangle; does a a triangle have matter. "matterless triangle" could be similar to "matterless medium" -->
+<!-- (draw on board a level above sound and light, called "information") -->
 
 The promise that lies within this level of abstraction is the possibility of the automatic re-encoding of of message within the requirement that the semantics of that message be understood. 
 
-Such an abstraction provides a pathway for moving message from sound waves to light-waves, letters, and words, without any human intermediary decoding and then re-coding the message. This is possible through the discovery of "information" as its own kind of medium, that because, it is more abstract, can seamlessly move from sound to light without needing (at its level of abstraction) to be decoded, understood, and then re-coded.
+Such an abstraction provides a pathway for moving a message from sound waves to light-waves, letters, and words, without any human intermediary decoding and then re-coding the message. This is possible through the discovery of "information" as its own kind of medium, that, because it is more abstract, can seamlessly move from sound to light without needing (at its level of abstraction) to be decoded, understood, and then re-coded.
 
 Shannon, in his landmark paper, suggest the need for a concept of "information" divorced from semantics: 
 
-> The fundamental problem of communication is that of reproducing at one point either exactly or approximately a message selected at another point. Frequently the messages have meaning; that is they refer to or are correlated according to some system with certain physical or conceptual entities. These semantic aspects of communication are irrelevant to the engineering problem. The significant aspect is that the actual message is one selected from a set of possible messages. The system must be designed to operate for each possible selection, not just the one which will actually be chosen since this is unknown at the time of design.
-(Shannon, 1948, p. 1.)
-
-(See PofI, 2013, p. 18)
+{:#the-fundamental-problem}
+> "The fundamental problem of communication is that of reproducing at one point either exactly or approximately a message selected at another point. Frequently the messages have meaning; that is they refer to or are correlated according to some system with certain physical or conceptual entities. These semantic aspects of communication are irrelevant to the engineering problem. The significant aspect is that the actual message is one selected from a set of possible messages. The system must be designed to operate for each possible selection, not just the one which will actually be chosen since this is unknown at the time of design." <span class="citation" data-reading="P54C8DCW=>p. 3" data-annotation="https://hyp.is/xd1uItXIEeqcCQeLHUzNpw">
+<!-- (See PofI, 2013, p. 18) -->
 
 
 ## Example 2
-
-(I'm not sure if this example is helpful. It could be cut.)
 
 With this first example, you might want to object and say, wait a minute. 
 
@@ -140,21 +149,25 @@ The idea of "a" when encoded in visual medium has this kind of look and when enc
 
 This objection is precisely on the right track. But hopefully, you can see that a shift in the level of abstraction has occurred. 
 
-We abstracted from the visual "a" and the aural "a" to a common idea of "a" that does not have a material but only a logical existence. 
+We abstracted from the visual "a" and the aural "a" to a common idea of "a" that does not have a material but only a logical existence.
 
 Now we can imagine a machine that takes light waves for input and sound waves for output. 
 
-The question is how can it recognize an identify between "a" in light waves and "a" as a sound. What is it that is common.
+The question is how can it recognize and identify "a" in light waves and "a" as a sound. 
 
-The information turn answer is that it is the "information of a" that can be recognized in light and sound with requiring the semantic recognition that light pattern means "a" which is conventionally with this sound pattern "a".
+If "visual a" is just a way of encoding "information a" and the "sound a" is a different way of encoding the "information a", then if a machine know how to "decode" each of these mediums, then something common will be found, and information can be transferred from one medium to another without requiring a mind to parse its semantics.
 
-And rather then providing us with answer, it again points us to the question we are looking for what is the "information of a" that allows the "message of a" to be continuously transmitted across both light and sound waves.
+But this still begs the question, what is this "informational a". We only ever see or hear the letter "a". Well this is part of the story we want to follows.
 
-# Phaedrus: Socrates Concern with Literacy. 
+For the moment let's set this looming question aside and consider the first media shifts that Gleick describes in chapters 1-3. 
 
-For the moment, let’s begin a transition to tomorrow discussion and try to look at one such critique and try to identify the evaluative criteria used by Socrates in his critique of the rise of “literacy” and “written language”.
+# Phaedrus: Socrates' Concern with Literary Revolution. 
 
-To his critique we need a little background. 
+Let's focus on Socrates's critique of the emerging shift from a literary to an oral culture.
+
+Socrates' will be the first of many representatives that has concerns about a cultural media shift. We certainly want to see his concern, but we also want to be attentive to the "categories" he uses to make this critique. Let's keep an eye of for the kinds of standards and assumptions he uses to decide when a medium is more or less beneficial.
+
+To see this critique we need a little background. 
 
 The dialogue begins with Phaedrus praising the speech of Lysias, which Phaedrus turns out to possess in written form.
 
@@ -162,7 +175,7 @@ Socrates and Phaedrus decide to discuss it.
 
 Socrates is less than impressed, and makes two speeches, one that defends the thesis put forward by Lysias, and second that counters it. 
 
-It is the second speech that I think we see some of the class Platonic categories that must function as criteria of evaluation. 
+It is in the second speech that I think we see some of the classic Platonic categories that must function as criteria of evaluation. 
 
 So, let's look there for a moment. 
 
@@ -170,13 +183,16 @@ So, let's look there for a moment.
 What does Socrates describe as the true desire of the soul?  (look at quotes 8-11)
 
 {:.answer}
-the ideal forms, the one (over the many)
+The ideal forms, the one (over the many)
 
-> p. 13, bttm. "The rest of the souls are also longing after the upper world and they all follow, but not being strong enough they are carried round below the surface, plunging, treading on one another, each striving to be first."
+{:#the-rest-of}
+> "The rest of the souls are also longing after the upper world and they all follow, but not being strong enough they are carried round below the surface, plunging, treading on one another, each striving to be first." <span class="citation" data-reading="78FP4M3A" data-annotation="https://hyp.is/pHLgJtXKEeqqKX-fj4xtvA"/>
 
-> p. 14: "The reason why the souls exhibit this exceeding eagerness to behold the plain of truth is that pasturage is found there, which is suited to the highest part of the soul; and the wing on which the soul soars is nourished with this. And there is a law of Destiny, that the soul which attains any vision of truth in company with a god is preserved from harm until the next period, and if attaining always is always unharmed."
+{:#the-reason-why}
+> "The reason why the souls exhibit this exceeding eagerness to behold the plain of truth is that pasturage is found there, which is suited to the highest part of the soul; and the wing on which the soul soars is nourished with this. And there is a law of Destiny, that the soul which attains any vision of truth in company with a god is preserved from harm until the next period, and if attaining always is always unharmed." <span class="citation" data-reading="78FP4M3A" data-annotation="https://hyp.is/zK73vtXKEeq4FxM_FBcoAA"/>
 	
-> p 14: "The soul of a man may pass into the life of a beast, or from the beast return again into the man. But the soul which has never seen the truth will not pass into the human form. For a man must have intelligence of universals, and be able to proceed from the many particulars of sense to one conception of reason;-this is the recollection of those things which our soul once saw while following God-when regardless of that which we now call being she raised her head up towards the true being. And therefore the mind of the philosopher alone has wings; and this is just, for he is always, according to the measure of his abilities, clinging in recollection to those things in which God abides, and in beholding which He is what He is. And he who employs aright these memories is ever being initiated into perfect mysteries and alone becomes truly perfect. But, as he forgets earthly interests and is rapt in the divine, the vulgar deem him mad, and rebuke him; they do not see that he is inspired."
+{:#the-soul-of}
+> "The soul of a man may pass into the life of a beast, or from the beast return again into the man. But the soul which has never seen the truth will not pass into the human form. For a man must have intelligence of universals, and be able to proceed from the many particulars of sense to one conception of reason;-this is the recollection of those things which our soul once saw while following God-when regardless of that which we now call being she raised her head up towards the true being. And therefore the mind of the philosopher alone has wings; and this is just, for he is always, according to the measure of his abilities, clinging in recollection to those things in which God abides, and in beholding which He is what He is. And he who employs aright these memories is ever being initiated into perfect mysteries and alone becomes truly perfect. But, as he forgets earthly interests and is rapt in the divine, the vulgar deem him mad, and rebuke him; they do not see that he is inspired." <span class="citation" data-reading="78FP4M3A" data-annotation="https://hyp.is/4odARtXKEeqAKJcUb_3OSA"/>
 
 {:.question}
 How does Socrates describe the present human problem? 
@@ -184,47 +200,56 @@ How does Socrates describe the present human problem?
 {:.answer}
 Soul have fallen and are dragged away in a variety of different ways. 
 
-> [quote 11] p. 14: "But when she is unable to follow, and fails to behold the truth, and through some ill-hap sinks beneath the double load of forgetfulness and vice, and her wings fall from her and she drops to the ground."
+{:#but-when-she}
+> "But when she is unable to follow, and fails to behold the truth, and through some ill-hap sinks beneath the double load of forgetfulness and vice, and her wings fall from her and she drops to the ground." <span class="citation" data-reading="78FP4M3A" data-annotation="https://hyp.is/et1oKtXLEeqk1_vkb_mI5w"/>
 
 For me the criteria of a unitary knowledge of forms, rather than knowledge of distributed multiplicity has a lot to do with Socrates ultimate preference for the oral medium over the literary medium. But will come to that in a moment.
 
-Rhetoric then becomes a discussion, both false rhetoric/sophistry and true healing rhetoric. 
+Rhetoric then becomes the central theme of the discussion: both false rhetoric/sophistry and true healing rhetoric. 
 
 {:.question}
-Why is rhetoric like medicine? 
+According to Plato, why is rhetoric like medicine? 
 
 {:.answer}
-> [quote 12] p. 29: Why, because medicine has to define the nature of the body and rhetoric of the soul-if we would proceed, not empirically but scientifically, in the one case to impart health and strength by giving medicine and food in the other to implant the conviction or virtue which you desire, by the right application of words and training.
+{:#why-because-medicine}
+> Why, because medicine has to define the nature of the body and rhetoric of the soul-if we would proceed, not empirically but scientifically, in the one case to impart health and strength by giving medicine and food in the other to implant the conviction or virtue which you desire, by the right application of words and training. <span class="citation" data-reading="78FP4M3A" data-annotation="https://hyp.is/woDuXtXLEeq4GNNx5tKmPA"/>
 
-{:.question}
+{:.rquestion}
 What are the three criteria of true rhetoric as described by Socrates? See p. 28-30.
 
-<div class="answer">
-<p>Three things: 1) knowledge of the soul</p>
+Three things: 1) knowledge of the soul
 
-<blockquote>
-<p>p. 29:  Then clearly, Thrasymachus or anyone else who teaches rhetoric in earnest will give an exact description of the nature of the soul; which will enable us to see whether she be single and same, or, like the body, multiform. That is what we should call showing the nature of the soul.</p></blockquote>
+{:#then-clearly-thrasymachus}
+> "Then clearly, Thrasymachus or anyone else who teaches rhetoric in earnest will give an exact description of the nature of the soul; which will enable us to see whether she be single and same, or, like the body, multiform. That is what we should call showing the nature of the soul." 
+<span class="citation" data-reading="78FP4M3A" data-annotation="https://hyp.is/G1nA0tXMEeqJPzuvoI42CQ/">
 
-<p>2) knowledge of the different kinds of speeches/oratory</p>
+2) knowledge of the different kinds of speeches/oratory
 
-<blockquote><p>p. 30: He will explain, secondly, the mode in which she acts or is acted upon.</p></blockquote>
+{:#he-will-explain}
+> "He will explain, secondly, the mode in which she acts or is acted upon." <span class="citation" data-reading="78FP4M3A" data-annotation="https://hyp.is/XR_6StXMEeqmx_vQiAHXxg/classics.mit.edu/Plato/phaedrus.html">
 
-<p>3) he can provide justification for how he arranges different kinds of speeches for different kinds of souls. (the speaker can respond, adjust. the spoken word is a live) [emphasize this point as tomorrow Ong will talk about the importance of the written text as "dead"]</p>
+3) he can provide justification for how he arranges different kinds of speeches for different kinds of souls. (the speaker can respond, adjust. the spoken word is a live) 
 
-<blockquote><p>p. 30 "Thirdly, having classified men and speeches, and their kinds and affections, and adapted them to one another, he will tell the reasons of his arrangement, and show why one soul is persuaded by a particular form of argument, and another not."</p></blockquote>
-</div>
+{:#thirdly-having-classified}
+> "Thirdly, having classified men and speeches, and their kinds and affections, and adapted them to one another, he will tell the reasons of his arrangement, and show why one soul is persuaded by a particular form of argument, and another not." <span class="citation" data-reading="78FP4M3A" data-annotation="https://hyp.is/rdbTeNXMEeq83N-bSUhDjQ/classics.mit.edu/Plato/phaedrus.html">
+
+We should emphasize this point as Ong will talk about the importance of the written text as "dead", not as a negative but as a positive.
 
 So finally, we come to it: why is writing an inferior form of rhetoric. 
 
 Oratory, adjusts to its patient: 
 
-> p. 30 "Oratory is the art of enchanting the soul, and therefore he who would be an orator has to learn the differences of human souls-they are so many and of such a nature, and from them come the differences between man and man. Having proceeded thus far in his analysis, he will next divide speeches into their different classes: "Such and such persons," he will say, are affected by this or that kind of speech in this or that way," and he will tell you why."
+{:#oratory-is-the}
+> "Oratory is the art of enchanting the soul, and therefore he who would be an orator has to learn the differences of human souls-they are so many and of such a nature, and from them come the differences between man and man. Having proceeded thus far in his analysis, he will next divide speeches into their different classes: "Such and such persons," he will say, are affected by this or that kind of speech in this or that way," and he will tell you why." <span class="citation" data-reading="78FP4M3A" data-annotation="https://hyp.is/1LYk2tXMEeqQ62OleB6Xpw/classics.mit.edu/Plato/phaedrus.html"/>
 
 1) appearance of knowledge
 2) reminiscence instead of memory
 3) a writing cannot defend itself or adapt to different kinds of souls
 
-> p. 33 "I cannot help feeling, Phaedrus, that writing is unfortunately like painting; for the creations of the painter have the attitude of life, and yet if you ask them a question they preserve a solemn silence. And the same may be said of speeches. You would imagine that they had intelligence, but if you want to know anything and put a question to one of them, the speaker always gives one unvarying answer. And when they have been once written down they are tumbled about anywhere among those who may or may not understand them, and know not to whom they should reply, to whom not: and, if they are maltreated or abused, they have no parent to protect them; and they cannot protect or defend themselves."
+{:#i-cannot-help}
+> "I cannot help feeling, Phaedrus, that writing is unfortunately like painting; for the creations of the painter have the attitude of life, and yet if you ask them a question they preserve a solemn silence. And the same may be said of speeches. You would imagine that they had intelligence, but if you want to know anything and put a question to one of them, the speaker always gives one unvarying answer. And when they have been once written down they are tumbled about anywhere among those who may or may not understand them, and know not to whom they should reply, to whom not: and, if they are maltreated or abused, they have no parent to protect them; and they cannot protect or defend themselves."
+<span class="citation" data-reading="78FP4M3A" data-annotation="https://hyp.is/9Hdl9NXMEeqk2I-oV3KD1g/classics.mit.edu/Plato/phaedrus.html"/>
+
 
 <div class="discussion" id="d3q1">
 
@@ -273,19 +298,24 @@ But the re-appearance of the dynamism of the presented information will again be
 
 In his introduction, Ong writes: 
 
-> p. 14-15: "Oral cultures indeed produce powerful and beautiful verbal performances of high artistic and human worth, which are no longer even possible once writing has taken possession of the psyche. Nevertheless, without writing, human consciousness cannot achieve its fuller potentials, cannot produce other beautiful and powerful creations…"
+{:#oral-cultures-indeed}
+> "Oral cultures indeed produce powerful and beautiful verbal performances of high artistic and human worth, which are no longer even possible once writing has taken possession of the psyche. Nevertheless, without writing, human consciousness cannot achieve its fuller potentials, cannot produce other beautiful and powerful creations…" <span class="citation" data-reading="U25N8RU8" data-annotation="https://hyp.is/6PvOHNXNEeq7mxOFePzoXA"/>
 
-> p. 78: "More than any other single invention, writing has transformed human consciousness."
+{:#more-than-any}
+> "More than any other single invention, writing has transformed human consciousness." <span class="citation" data-reading="MKVLEEA6" data-annotation="https://hyp.is/Vlwl2NXOEeqDnOeC9nwb_A"/>
 
 Let's look at the opening claim in chapter 4. 
 
 {:.question}
-Question: p. 78 What is the chief characteristic he notes about writing? Did we see a recognition of this characteristic in Plato's text?
+Question: What is the chief characteristic he notes about writing? Did we see a recognition of this characteristic in Plato's text? (p. 77?)
 
 {:.answer}
 Answer: The written text is divorced from their author. 
 
-> p. 78: "Writing establishes a context free language or 'autonomous' discourse"
+> p. 78: "Writing establishes a 'context-free' language or 'autonomous' discourse." <span class="citation" data-reading="MKVLEEA6" data-annotation="https://hyp.is/6QPjdtXOEeq3bJObJpEhTw"/>
+
+<!-- is this "hotter" or "colder" according to McLuhan's categories? I would guess "cooler": 
+since removed from the context, writing asks for more participation on the part of the receiver.-->
 
 {:.question}
 Why are written texts inherently more threatening, then? Why are they burned?
@@ -305,11 +335,11 @@ This context-less, un-responsive text is, according to Ong, frequently associate
 
 The spoken word is alive, but the written word is dead.
 
-{:.question}
+{:.rquestion}
 Ong acknowledges this, but also thinks there is a paradox hidden within this truth, p. 81. What paradox does he have in mind here? Can you find it in the text?
 
-{:.answer}
->p. 81: "the deadness of the text, its removal from the living human lifeworld, its rigid visual fixity, assures its endurance its potential for being resurrected into limitless living contexts by a potentially infinite number of living readers"
+{:#the-paradox-lies}
+> p. 81: "The paradox lies in the fact that the deadness of the text, its removal from the living human lifeworld, its rigid visual fixity, assures its endurance its potential for being resurrected into limitless living contexts by a potentially infinite number of living readers" <span class="citation" data-reading="MKVLEEA6" data-annotation="https://hyp.is/I2SLVtXPEeq1JFO96pSkHw"/>
 
 Surprisingly (and perhaps paradoxically) it is precisely the deadness of this text that makes it possible for its entrance into a plurality of new contexts.
 
@@ -323,9 +353,10 @@ This reappearance or resurrection is typically recognized as extremely attractiv
 
 It seems that Ong is headed in this direction, saying: <!-- is this is a quote? where ?-->the possibility of the resurrection or re-appearance of a core message has been critical essential part of enabling scientific and cultural process.
 
-This point seems to me to come across pretty clear in the final paragraph on p. 82: 
+This point seems to me to come across pretty clear on p. 81: 
 
-> "To say writing is artificial is not to condemn it but to praise it. Like other artificial creations and indeed more than any other, it is utterly invaluable and indeed essential for the realization of fuller, interior, human potentials. Technologies are not mere exterior aids but also interior transformations of consciousness, and never more than when they affect the word. Such transformations can be uplifting. Writing heights consciousness. Alienation from a natural milieu can be good for us and indeed is in many ways essential for a full human life. To live and to understand fully, we need not only proximity but also distance. This writing provides for consciousness as nothing else does."
+{:#to-say-writing}
+> "To say writing is artificial is not to condemn it but to praise it. Like other artificial creations and indeed more than any other, it is utterly invaluable and indeed essential for the realization of fuller, interior, human potentials. Technologies are not mere exterior aids but also interior transformations of consciousness, and never more than when they affect the word. Such transformations can be uplifting. Writing heights consciousness. Alienation from a natural milieu can be good for us and indeed is in many ways essential for a full human life. To live and to understand fully, we need not only proximity but also distance. This writing provides for consciousness as nothing else does." <span class="citation" data-reading="MKVLEEA6" data-annotation="https://hyp.is/cPKmltXPEeqdqL_ToO7hcA"/>
 
 ## B. Examples / Evidence 
 
@@ -393,19 +424,26 @@ Let's conclude this example with a revealing quotation from Ong
 
 The suggest is that the transition to the written phonetic word, as a transition from word as event to word as thing created the possibility for second order discourse. (If not the possibility, it ensured its ability to develop at scale). These kinds of analyses would be difficult without the permanence of the word as thing.
 
-> Ong. p. 103 writes: "The distancing which writing effects develops a new kind of precision…"
+Ong. writes:
 
-> Ong p. 104: writes "But written words sharpen analysis"
+{:#the-distancing-which}
+> "The distancing which writing effects develops a new kind of precision…" <span class="citation" data-reading="MKVLEEA6=>p. 101" data-annotation="https://hyp.is/qEQ5ptXQEeqtkY_ii1_EXw/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Writing_Restructures_Consciousness,_chapter_4.pdf"/>
+
+{:#but-written-words}
+> "But written words sharpen analysis" <span class="citation" data-reading="MKVLEEA6=>p. 101" data-annotation="https://hyp.is/19x1wNXQEeq3w8ccy-4ffA/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Writing_Restructures_Consciousness,_chapter_4.pdf"/>
 
 Ong notes that: the removal of the word from its spoken context requires every more precision
 
-Question: why?
+{:.question}
+Why?
 
+{:.answer}
 Because the removal of this context removes hundreds of "communicative redundancies" that help sure the success of a transmission. 
 
-> [quote 9] p. 104: "to make yourself clear without gesture, without facial expression, without intonation, without a real hearer, you have to foresee circumspectly all possible meanings a statement may have for any possible reader in any possible situation, and you have to make your language work so as to come clear all by itself, with no existential context. The need for this exquisite circumspection makes writing the agonizing work it commonly is."
+> "to make yourself clear without gesture, without facial expression, without intonation, without a real hearer, you have to foresee circumspectly all possible meanings a statement may have for any possible reader in any possible situation, and you have to make your language work so as to come clear all by itself, with no existential context. The need for this exquisite circumspection makes writing the agonizing work it commonly is." <span class="citation" data-reading="MKVLEEA6=>p. 101" data-annotation="https://hyp.is/cpWMJNXQEeqOdIe8DF4few"/>
 
-[perhaps you've experienced this through the inefficiency of email. Sometimes it takes 20 minutes to write an email to address a question that would have taken 30 seconds in conversation to result]
+
+Perhaps you've experienced this through the inefficiency of email. Sometimes it takes 20 minutes to write an email to address a question that would have taken 30 seconds in conversation to result.
 
 The ironic point, however, is that the reduction of these helpful information redundancies, forced writing to increase the precision and clarity of the core message. The effort to achieve this precision was not necessary in a spoken context because there was so much other contextual information available to help clarify the message. 
 
@@ -416,7 +454,7 @@ This new kind of precision, the persistence of the word as a thing rather than e
 **Important** This dialectic between the removal of redundancies and the effect of "cognitive" precisions a critical insight that we will meet again, when we look the new concept of information that emerges in the 20th century. For not this point is worth taking extra note!
 
 {:.question}
-Question: can we think of examples? Areas of inquiry that would have been profoundly more difficult or perhaps impossible without the concept of the word as thing and the phonetic alphabet.
+Can we think of examples? Areas of inquiry that would have been profoundly more difficult or perhaps impossible without the concept of the word as thing and the phonetic alphabet.
 
 {:.question}
 Would the analysis of the follow reasoning have been possible without persistent, diagrammable words?
@@ -425,29 +463,22 @@ A: All (universal) Dogs (middle) are (affirmative) brown (major term)
 A: All (universal) Cute things (minor term) things are (affirmative) are Dogs (middle)
 A: All (universal Cute things (minor term) are (affirmative) brown (major term)
 
-Joshua Geick describes an Interesting example in his Book "On Information" which about some research by a Russian linguistic, Aleksandr Romanovich Luria,  which I believe he learns through Ong, but I wasn't able to track down.
+Joshua Gleick describes an interesting example in his Book "On Information" which about some research by a Russian linguistic, Aleksandr Romanovich Luria, which I believe he learns through Ong, but I wasn't able to track down.
 
-Gieck, p. 39
+> "In the study, they asked a typical question: - In the far North, where there is snow, all bears are white. 
+Novaya Sembia is in the Far North and there is always snow there. - What color are the bears? - Typical response: 'I don't know. I've seen a black bear. I've never seen any others...Each locally has its own animals' - By contrast a man who has just learned to read and write responds: 'to go by your words, they should all be white" <span class="citation" data-reading="SN4EQIZ5=>p.39"/>
 
-> "In the study, they asked a typical question: 
+Geick concludes from this:
 
-> In the far North, where there is snow, all bears are white. 
-Novaya Sembia is in the Far North and there is always snow there.
-What color are the bears?
+> "Literate people take for granted their own awareness of words, along with the array of word related machinery: classification, reference, definition." <span class="citation" data-reading="SN4EQIZ5=>p.39"/>
 
-> Typical response: 'I don't know. I've seen a black bear. I've never seen any others...Each locally has its own animals'
+Gleick's conclusion is the following: 
 
-> By contrast a man who has just learned to read and write responds: 'to go by your words, they should all be white"
-
-Gieck concludes from this:
-
-> p. 39 "Literate people take for granted their own awareness of words, along with the array of word related machinery: classification, reference, definition."
-
-Gieck's conclusion is the following: 
-
-> p. 37: "The persistence of writing made it possible to impose structure on what was known about the world and, then on what was known about knowing. As soon as one could set words down, examine them, look at them anew the next day, and consider their meaning, one became a philosopher, and the philsopher begain with a clear slate and a vast project of definition to undertake."
+> "The persistence of writing made it possible to impose structure on what was known about the world and, then on what was known about knowing. As soon as one could set words down, examine them, look at them anew the next day, and consider their meaning, one became a philosopher, and the philsopher begain with a clear slate and a vast project of definition to undertake."<span class="citation" data-reading="SN4EQIZ5=>p.37"/>
  
-# III. Print Culture and its Effect on Consciousness (30/65)
+
+<!-- possible cut here or mark as supplementary -->
+# Print Culture and its Effect on Consciousness
 
 We've been talking a lot so far about the development of abstractions.
 
@@ -455,7 +486,7 @@ I'd like to think a little bit know about how the role of of increased abstracti
 
 Ong points out an important fact: 
 
-> [quote 10] p. 119: "Manuscript cultures remained largely oral-aural even in retrieval of material preserved in texts. Manuscripts were not easy to read, by later typographic standards, and what readers found in manuscripts they tended to commit at least somewhat to memory. Relocating material in a manuscript was not always easy. Memorization was encouraged..."
+> p. 119: "Manuscript cultures remained largely oral-aural even in retrieval of material preserved in texts. Manuscripts were not easy to read, by later typographic standards, and what readers found in manuscripts they tended to commit at least somewhat to memory. Relocating material in a manuscript was not always easy. Memorization was encouraged..."
 
 He points out that even in early print books, visual practices seem counter-intuitive to us. They seem to make reading more difficult not less difficult. 
 
@@ -463,7 +494,7 @@ He points out that even in early print books, visual practices seem counter-intu
 
 And he asks an interesting question: 
 
-> [quote 11] p. 121: "Why does the original, presumably more 'natural' procedure seem wrong to us? Because we feel the printed words before us as visual units."
+> p. 121: "Why does the original, presumably more 'natural' procedure seem wrong to us? Because we feel the printed words before us as visual units."
 
 It seems to me that part of the answer lies in the fact that we are the products of changes in book culture. It is NOT as simple as saying we prefer the modern book and the modern typeset book over the incunabula or 16th century printing because it is "naturally clearer or better". Rather our conscious expectation of what a book should do, what we should do with a book, etc., is itself of a product of centuries of book development…
 
@@ -507,7 +538,7 @@ Here might think of something like a parallel, to the contextual information in 
 
 </div>
 
-# Social and Political World of the Print Medium (25/120)
+# Social and Political World of the Print Medium
 
 Finally, I wonder if we could end with just one more example of how medium shapes consciousness, again, specifically thinking about the way the printed book as a medium is shaping understanding of fundamental concepts. 
 
