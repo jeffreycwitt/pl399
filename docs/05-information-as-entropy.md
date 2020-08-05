@@ -5,126 +5,78 @@ reading: ["SN4EQIZ5=>cc. 6-7"]
 nav_order: 5
 ---
 
+{% include math.html %}
+
 ## Table of contents
 {: .no_toc .text-delta } 
 1. TOC 
 {:toc}
 
-# Letters and raw statistical frequency
+# Review and Introduction 
 
-"signal rate" how many differences can be sent per second with these difference bleeding into each other.
-
-"channel capacity" determined by
-1. symbol rate, number of clearly distinguishable signals per second, "baud", = n = n symbol transfers per second. 
-2. How many differences per symbol (s) (symbol space.)
-
-Message space = S to power of N 
-
-3 symbols ^ (2 (2 symbols per second)) = 9 messages possible messages over the 2 seconds. 
-
-# Shanon and Markov Chains
-
-The problem is that the probability of a letter in a message in not a zero sum game. 
-
-The probability is not 1/26 for each letter.
-
-A letter is word, a word in a message is a "dependent variable". It's probability is affected by the previous outcome. 
-
-But this is what Markov chains attempted to describe. 
-
-Claude Shannon is credited with seeing the application of Markove chains to human language and thus to ultimately to the quantification of message to be communicated independent of the number of letters. 
-
-[explain markov chain] [video]
-
-explain Shannon's use of a markov chain [video]
-
-# In Sum: Information as Entropy
-
-
-
-----
-
-NOtes
-
-
-
-# I. Information as Entropy
-
-
-
-The are several stages in the history of performing this abstraction, but I want to focus on the one of the most important. 
-
-Namely, Claude Shannon's new idea of "information" and how this new idea of information, helped enable the possibility of a new kind of encoding, that would enable a new kind of "communication."
-
-For a moment, this will take us to very abstract place, seemingly far removed from the "text". 
-
-I hope Shannon's theory is interesting for you in itself. 
-
-But after we've move through it, I hope we can see its implications for the way we "encode" our texts, even if we are applying his theory several abstractions higher. 
-
-[Main Message to be a achieved through below analysis]
-
-Specifically, why visual encoding is a kind of encoding with high levels of Entropy and therefore is imprecise, difficult, and expensive to communicate and process. While in contrast, Semantic encoding has much lower level of Entropy and makes it feasible for our texts to become "machine-actionable".
-
-Shannon is famous for his article title "A mathematical theory of communication" in which he came up with the idea of "information" as ENTROPY. [write on board]
+Shannon is famous for his article title "A mathematical theory of communication" in which he came up with the idea of "information" as ENTROPY. 
 
 Concretely, Shannon was faced with the challenge of trying to think of messages or information in the most compressed form possible without loss of data. 
 
-For example, he asked: what is the minimal amount of information required to transmit a voice recording so that the sound could be re-produced. 
+For example, he asked: what is the minimal amount of information required to transmit a voice recording so that the sound could be re-produced? 
 
-or: What is the minimal amount of information required to transmit the information traditional communicated throuh the "visual encoding of a text" (as we discussed yesterday)
-
-Remember, voice recording is not actually the recording of sound, but the encoding of something called "information" in such a way that a "seemingly" identical sound can be re-produced. 
+Voice recording is not actually the recording of sound, but the encoding of something called "information" in such a way that a "seemingly" identical sound can be re-produced. 
 
 In the same way the "storage" of a pdf on your hard drive (containing a visually encoded page layout), is not actually the saving of an image or "look". It is the storage of something called "information" in such a way that the "look" you experienced when saved the file can be "reproduced" or "reconstructed" when you open it again.
 
-In order for this to be possible, there needs to be an idea of a "quantifiable idea information" that is separate from something we can hear or see, but precise enough to be machine actionable and for the machine to reconstruct a particular view.
+In order for this to be possible, there needs to be an idea of a "quantifiable idea information" that is separate from something we can hear or see, but precise enough to be machine actionable and for the machine to reconstruct a particular view or message.
 
-This required an enormous abstraction. 
+[We also saw](04-wires-code-ideas#) this need for an idea of "quantifiable information" divorced from sounds or visual letters arise in the telegraph age as companies and customers sought a way to fairly charge from the transmissions of messages. 
 
-So, I think the advantages of this abstraction are somewhat clear. 
+Thus a new kind of question emerges, how much information does a message contain? (Just as we might have previously asked, how many letters or sounds does a message contain). And in that very question, we see a information separated from the notion of a message, and we see "information" spoken of as analogous to the media of letters or sounds. But where we are familiar with letters and sounds, it less clear just what "information" is, much less how to quantify it.
 
-But how do we perform it? 
 
-Shannon's breakthrough is related to insight we already start to emerge in our reading of Ong yesterday. 
+# Information as Entropy
+
+Shannon's breakthrough is related to an insight we start to see in our earlier reading of Ong.
 
 Ong noted that in verbal communications there are hundreds of "communicative redundancies" present in our verbal communication in order to assure the error-free transmission of the message. 
 
-[quote 1] p. 104: "to make yourself clear without gesture, without facial expression, without intonation, without a real hearer, you have to foresee circumspectly all possible meanings of a statement may have for a possible reader in any possible situation, and you have to make your language work so as to come clear all by itself, with no existential context. The need for this exquisite circumspection makes writing the agonizing work it commonly is."]
+{:#to-make-yourself-clear}
+> p. 104: "to make yourself clear without gesture, without facial expression, without intonation, without a real hearer, you have to foresee circumspectly all possible meanings of a statement may have for a possible reader in any possible situation, and you have to make your language work so as to come clear all by itself, with no existential context. The need for this exquisite circumspection makes writing the agonizing work it commonly is." <span class="citation" data-reading="MKVLEEA6=>p. 101" data-annotation="https://hyp.is/cpWMJNXQEeqOdIe8DF4few/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Writing_Restructures_Consciousness,_chapter_4.pdf">
 
 Shannon noticed the same kinds of redundancies in our visual encoding of information. 
 
-[handout 03-01]
+<!-- link to his paper: Markov Chains?-->
 
 For example, he showed that there are statistical patterns in our language that create lower and higher probabilities for the appearance of a given word or letter, based on the words or letters that precede. 
 
 For example, if I write "q", there is a high probability that the next letter is "u", and a very low probability that the next letter will be a consonant. 
 
-Because of this high level of predictability, I need less information to communicate this word "qu" than I would for example "qk" (for example, I could transmit "q" and tell a receiver to always add a "u" unless "q" is followed by a "/". In rare occasions an extra "/" will have to be transmitted, but all "qu" transmissions will have been dramatically reduced in size.
+Because of this high level of predictability, I need less information to communicate this message "qu" than I would for example "qk". 
+
+For example, I could transmit "q" and tell a receiver to always add a "u" unless "q" is followed by a "/". In rare occasions an extra "/" will have to be transmitted, but all "qu" transmissions will have been dramatically reduced in size.
 
 And his idea was that if we could identify the minimal amount of information in the message apart from these redundancies, we would have identified the essence of the "information" abstracted from its visual or linguistic encoding.
 
-[in terms of the above example, Shannon wants us to see "qu", despite appearances, points to one piece information, even though it is typically visually represented in a way that looks like two". Neither "q or u" or even "qu" is essential information, but rather the pattern that stands behind it, namely a characterizable statistical frequency within the context of other linguistic symbols.]
+In terms of the above example, Shannon wants us to see that "qu", despite its visual appearances, points to one piece information (within a pre-defined symbol set), even though it is typically visually represented in a way that looks like two". Neither "q or u" or even "qu" is the information. Rather the pattern is the logical profile that is pointed at by the visual symbol (just as a visual triangle points at the logical properties that constitute an ideal triangle). This is logical profile is a describable statistical frequency within the context of other linguistic symbols.
 
-As the above example shows, at the heart of his theory was the idea that information was fundamentally the amount "uncertainty" in a system or what he called "entropy" (borrowing for the tendency in thermodynamics of energy to dissolve from something organized and structure to something unstructured). 
+At the heart of his theory was the idea that information was fundamentally the amount **uncertainty** or **predictability** in a system or what he called "entropy" (borrowing for the tendency in thermodynamics of energy to dissolve from something organized and structure to something unstructured). That "u" follows "q" is highly predictable, therefore there is less entropy and less information. That "k" follows "q" is less predictable and contains more entropy and therefore contains more information. 
 
-And I have a little video here that tries to explain it.  
+Let's watch a short video that tries to explain this:
 
-[Shannon Discussion] (10 min)
-https://www.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/information-entropy
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2s3aJfRr9gE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-For most of us I think this leads to a fairly confusing way of thinking about information, as evidenced by the comment thread of this video
+For most of us I think this leads to a fairly confusing way of thinking about information, as evidenced by the [comment thread](https://www.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/information-entropy) of this video: 
 
-Discussion thread on https://www.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/information-entropy
-Question from Daniel Hollas
-This definition of information seems somehow unintuitive to me. For example, if I wrote a book, in which I would just randomly select letters from the alphabet, would it contain more information than the "normal" books with words in it? Or did I miss something?
-Answer from Nick Corrado
-You've got it right. Indeed, it is unintuitive, but consider this. If you compare a normal English text with another text of the same length, but with all the vowels (which are often redundant) taken out, the second text surely has more information. After all, the second text is the same length, but it's missing letters that are just "taking up space," and it's doing something with that space instead. A random selection of letters definitely has the highest information: you can't reduce any of it by removing redundancy the way you can in English by removing all the vowels.
-If these examples seem a little abstract, just consider what we do in newspaper and on the Internet every day: we remove letters and even whole words (articles like "the" don't convey much information) to say more in the same space, or the same in less space. A newspaper doesn't have less information by being denser: on the contrary, it can fit more!
+Question from Daniel Hollas: 
+
+> This definition of information seems somehow unintuitive to me. For example, if I wrote a book, in which I would just randomly select letters from the alphabet, would it contain more information than the "normal" books with words in it? Or did I miss something?
+
+Answer from Nick Corrado:
+
+> You've got it right. Indeed, it is unintuitive, but consider this. If you compare a normal English text with another text of the same length, but with all the vowels (which are often redundant) taken out, the second text surely has more information. After all, the second text is the same length, but it's missing letters that are just "taking up space," and it's doing something with that space instead. A random selection of letters definitely has the highest information: you can't reduce any of it by removing redundancy the way you can in English by removing all the vowels.
+
+> If these examples seem a little abstract, just consider what we do in newspaper and on the Internet every day: we remove letters and even whole words (articles like "the" don't convey much information) to say more in the same space, or the same in less space. A newspaper doesn't have less information by being denser: on the contrary, it can fit more!
 
 Let me go over this once quickly with two small examples and then we can think about an application to a text and how we encode our texts.
 
-Example 1: 
+## Example 1: 
 
 All encoding systems have a set of available symbols. 
 
@@ -132,30 +84,45 @@ Let's suppose we have an alphabet of 32 characters, and the letter z is number 3
 
 I could communicate this as a "picture of the letter z", but this would require hundreds of pieces of information within a very large set of spatial information. Think of the range possible visual positions, and then think about drawing the letter z with a select set of spatial symbols. 
 
-But Shannon shows there is something more essential about Z than how it looks. 
+But Shannon shows there is something more essential about "Z" than how it looks. 
 
 What is important is its statistical relationship to the characteristics of the 32-character set.
 
 He says: the amount of information a system needs to communicate it symbols and to differentiate them from one another can be calculated as follows:
 
-Sum of the probability of the available symbols times the log2 the inverse of that probability. 
+Take the `Sum` of the `probability` of the available symbols `times` the `log2` the `inverse of that probability`. 
 
-So, for a 32 symbol set, the uncertainty of a message of a single symbol would be calculated as follows.
+$$H = -\sum_{i}^{n} p_i \log_2 p_i$$
 
-	H=n=2∑i=1pi log2pi=32×(1/32log232)=5 bit.
-32Sum (1/32) * log2(32) = H(entropy) = 5
+In the above equation: 
 
-Why five? 
+* $$H$$ is the symbol for Information
+* $$n$$ is the number of symbols in the set
+* $$i$$ is a given symbol within that set
+* $$p_i$$ is the probability of a given symbol
+
+
+So, for a 32 symbol set, where the probability of each symbol is 1/32, the uncertainty or entropy of a message composed of a single symbol would be calculated as follows.
+
+
+$$H = -\sum_{i=1}^{n=32} 1/32 * \log_2 1/32$$
+
+$$H = -\sum_{i=1}^{n=32}1/32 * - 5 = 0.15625 * 32 = 5$$
+
+
+So H or Information = 5
+
+Why 5?
 
 Because it only takes me on average five questions (and never more) to identify the letter in question.
 
-What I care about here, is not so much the math, but the reduction of information to a new essence. 
+What is critical here, is not so much the math, but the reduction of information to a new essence. 
 
-Shannon asks us to consider: what do we really care about? Do we care about how a Z looks, or do we care about something more fundamental that the "look" of the Z is pointing to? If the latter, then we should be thinking about to encode this information independent of how this Z looks, and then we can represent that information in any way we want. 
+Shannon asks us to consider: what do we really care about? Do we care about how a Z looks, or do we care about something more fundamental, something that the "look" of the Z is pointing to? 
 
-[you might think about this in your visual encoding. Do we care how the information looks, or is the "look" a means of communicating something more fundamental? What is that? 
+If the latter, then we should be thinking about to encode this information independent of how its looks or sound, so that it can be represented in any medium in any way we want.
 
-[possibleCut] Example 2: 
+## Example 2: 
 
 Let's say we are watching a coin toss game and we want to communicate who won the game.
 
@@ -167,44 +134,65 @@ In a coin toss, we have a set of 2 (heads or tails) and to communicate the score
 
 So, we need the entropy of x and the entropy of y 
 
-Hx=-∑i=12pilog2pi= (0.5log20.5)=1 bit.
-+ 
-Hy=-∑i=12pilog2pi= (0.5log20.5)=1 bit.
+$$H_x = -\sum_{i=1}^{n=2}p_i log_2 p_i = -2(0.5 log_2 0.5) = 1$$
 
-In total, it will always take 2 bits to communicate the full context of this game and the "look" of the end result. .
+$$H_y = -\sum_{i=1}^{n=2}p_i log_2 p_i = -2(0.5 log_2 0.5) = 1$$
+
+In total, it will always take 2 ($$H_x + H_y$$) bits to communicate the full context of this game and the "look" of the end result.
 
 But again, Shannon asks us to consider what the information, the essence of the message, really is, and to think critically about what are encoding. 
 
 The information we want to communicate is the winner, but the way we are communicating is by transmitting the "the full results of the entire context" without thinking about the precise information needed to successfully communicate. Not being precise, creates redundancies that can be helpful but can also be distracting noise that confuse or ambiguate the essential information.
 
-If we want to communicate the information precisely and not the "look" of the game, we can do so more efficiently by being more precise. 
+If we want to communicate the information precisely and not merely visual "look" of the game, we can do so more efficiently by being more precise. 
 	
 We can always send player 1's score, and then only send further bits when it was not a tie. 
 
-But the probability of sending a second bit is affected by the previous. 
-Because we know the tie happens 50 percent of the time, we know the second question will have to be asked half the time, and therefore the probability of either result is 1/4.
-So, we can have something like: 
-Player one's score (win/lose)0.5log22  =. 5
-Since draw happens half of the time, the probability of the second bit changes. Because now we are asking, "is it different from player one's score", the probability of it being different is 1/4 for heads and 1/4 for tails
-Player two' score win (win)0.25log24 + (lose)0.25log24 = 1
-Combined the maximum number of bits to communicate the essential information is always 1.5
-For my part, here the counter-intuitive point (made by Ong in a different context) is once more asserted. The urgency to create more flexible and abstract information has also forced us to be more precise and scientific, just as the move from oral to written text, required the development of more precision in our writing.
+But in this case the probability of sending a second bit is affected by the previous.
+It is in this case, a **dependent variable**. Its value or presence depends on what came before.
+ <!-- markov chain, dependent variable -->
 
-The essential information to be communicated is first: "is player 2's score different from player" and "only secondarily, how does it differ"? 
+Because we know the tie happens 50 percent of the time, we know the second question will have to be asked half the time, and therefore the probability of either result is 1/4.
+
+So, we can have something like: 
+
+Player one's score (whether they win/lose, whether head or tails, so the summation of just one symbol) 
+
+$$ H_x = -1(0.5 log_2 0.5) = .5$$
+
+Since the players draw happens half of the time, the probability of the second bit changes. (Again it is a **dependent variable**)
+
+Because now we are asking, NOT "what is it", BUT "is it **different** from player one's score", the probability of its being different is 1/4 for heads and 1/4 for tails, or in total 1/2
+
+So to communicate this difference we have new calculation: 
+
+$$ H_y = -2(0.5 log_2 0.5) = 1$$
+
+Combined the maximum number of bits to communicate the essential information is therefore not 2, but always 1.5 ($$H_x + H_y$$)
+
+Here the counter-intuitive point by Shannon (and made by Ong in a different context) is once more asserted. 
+
+The urgency to create more flexible and abstract information has also forced us to be more precise and scientific. 
 
 We are tempted to transmit that the scores of the game and then expect the receiver to use the context clues (the "communicative" redundancies") to access the essential message. 
 
 But not only is this communication more expensive (requiring two bits, instead of 1.5), it also less precise. 
 
-It creates the possibilities of error through the further processing required by the receiver. The more efficient communication requires less processing and less possibility for error the on part of the receiver. 
+The transmission of the "look" of the game creates the possibilities of error through the further processing required by the receiver. The more efficient communication requires less processing and less possibility for error the on part of the receiver. 
 
 In our example 50% of the time the receiver receives an answer that needs no further processing. Was it a tie? (a single bit is returned, player one's score, followed by nothing else). The processor immediately knows that it was a tie, and no comparison is required
 
-In contrast, one both scores are sent all the time, 100% percent of the time, the processor must receive both scores, compare them, and then interpret them, creating the need for more interpretation and more room for ambiguity and error.
+In contrast, when both scores are sent all the time, 100% percent of the time, the processor must receive both scores, compare them, and then interpret them, creating the need for more interpretation and more room for ambiguity and error.
 
-[endPossibleCut]
+**In sum** 
+
+What are we trying to communicate? Who the winner is? Our instinct was to communicate the "look" of the game, from which a human interpreter would then determine who the winner is. But if we abstract from the "look", we realize the essence of what we intended to communicate is something else, something more abstract, namely who one. This abstraction allows us to encode the message in a sequences of yes's and no's that requires no further processing (semantic interpretation) on the part of the receiver. This efficiency then makes it possible to transmit this information not just in a "look" but in a "sound" or through "electronic impulses" or even the ordering of rocks or notches on wood. It allows for the automatic transformation of information across diverse media.
 
 
+
+
+
+<!-- Cut notes
 [visual and semantic encoding discussion] (10 min) 
 
 Let me conclude this little exercise and apply this more directly to our encoding of a text.
@@ -284,3 +272,36 @@ Here an example of semantic encoding sharpening our notion of variant types.
 In a print only world, we had to record each of these variants individually, thus there was very little pushing us classify them and to think of them instances of defined classes. 
 
 But our new approach to information is asking us to take consider them in an entirely new light.
+
+
+--- 
+
+<!-- # Letters and raw statistical frequency
+
+"signal rate" how many differences can be sent per second with these difference bleeding into each other.
+
+"channel capacity" determined by
+1. symbol rate, number of clearly distinguishable signals per second, "baud", = n = n symbol transfers per second. 
+2. How many differences per symbol (s) (symbol space.)
+
+Message space = S to power of N 
+
+3 symbols ^ (2 (2 symbols per second)) = 9 messages possible messages over the 2 seconds. 
+
+# Shanon and Markov Chains
+
+The problem is that the probability of a letter in a message in not a zero sum game. 
+
+The probability is not 1/26 for each letter.
+
+A letter is word, a word in a message is a "dependent variable". It's probability is affected by the previous outcome. 
+
+But this is what Markov chains attempted to describe. 
+
+Claude Shannon is credited with seeing the application of Markove chains to human language and thus to ultimately to the quantification of message to be communicated independent of the number of letters. 
+
+[explain markov chain] [video]
+
+explain Shannon's use of a markov chain [video] 
+
+ -->
