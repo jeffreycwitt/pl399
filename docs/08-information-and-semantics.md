@@ -127,39 +127,59 @@ When there is "equivocation", then these multiple states at the source can said 
 It is helpful to remember that for Dretske: "every information transfer is a causal transfer, but not every causal transfer is an information transfer"
 
 In sum: 
-> "At any rate, it should be clear by now what it means for environmental information to pass through a channel that is equivocation-free: it means that information is not irreversibly lost." (p. 46)
+
+{:#at-any-rate-it}
+> "At any rate, it should be clear by now what it means for environmental information to pass through a channel that is equivocation-free: it means that information is not irreversibly lost." <span class="citation" data-reading="3JMTBWNW=>p. 46" data-annotation="https://hyp.is/9xtoTNv8Eeqnv_vAbZqpRw/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ilari_2013_Naturalized_Information,_chapter_3.pdf">
 
 We are still not talking about the extraction of "Semantic Information", but the idea is that if there is going to be "Semantic extraction", we're going to need "unequivical information transfer". 
 
 As our text says at the end of section 3.4
 
-> "Equivocation-free transfer of information therefore prepares the way for the extraction of the content from the signal." (p. 47)
+> "Equivocation-free transfer of information therefore prepares the way for the extraction of the content from the signal." <span class="citation" data-reading="3JMTBWNW=>p. 47" data-annotation="https://hyp.is/NayaGNv9EeqKVRNrfrwHlQ/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ilari_2013_Naturalized_Information,_chapter_3.pdf">
 
 ## Digitalization and semanticisation (section 3.5)
 
-[TODO: use below three quotes as basic outline; needs to be filled out, explained, with examples ]
+<!-- TODO: NEEDS review. I don't feel confident with this; very confusing -->
+Even knowing that semantic extraction requires "unequivocal transfer" is still not enough to get us to "Semanics extraction" because environmental information can often communicate unequivocally without the need for semantics. 
 
-To what we have said above we can add the idea of "intentional states" 
+Thus in addition to "unequivocal transfer" we need something more. It is at this moment that Dretske wants to speak of "intentional states" stating: 
 
-[TODO: intention states , p. 49]
+{:#any-propositional-content-exhibiting}
+> "Any propositional content exhibiting the third order of intentionality is a semantic content." <span class="citation" data-reading="3JMTBWNW=>p. 49" data-annotation="">
 
-With the idea of an equivocation-free channel and intention states we can how there is a pathway toward resolving the "problem of reference" introduced at the outset.
+Obviously, we need some clarity about we he means by an **intentional state** and what it means to be the **third order**.
 
-> "By means of the equivocation-free channel and the intentional states, we already understand better how reference is possible, how one structure can carry information about another structure. For example, the experience of a sound we hear is intentional with respect to the object that produces the sound, not with respect to the vibration of our ear drums, although the latter is implied by our having the experience." p. 49
+The above quotation gives us some clues: an intentional state is a "state of mental contents", a way of having and arranging different mental beliefs at any given point in time. The state of these "mental contents" may or may not justify different inferences or downstream behaviors. 
 
-Now with the possibility of "reference", Dretske adds a distinction between information about facts and information about types. 
+Another clue is found when the reading says: 
 
-And with the concept of types, he try to explain how "meaning" can emerge (naturally)
+>  "the  experience  of  a  sound  we  hear  is  intentional  with respect  to  the  object  that  produces  the  sound,  not  with  respect  to  the  vibration  of  our  ear  drums, although the latter is implied by our having the experience"
 
-[TODO: Explain]
+So for example, when my ear senses the various vibrations of a bird singing, and then I go the next step an form an idea or **intention** I am hearing the "a song", then I am in a particular intentional state.
+
+But by itself: 
+
+> an intentional state is not sufficient to form a semantic structure, i.e. one that is capable of forming a belief state.
+
+So, the suggestion is that there is another step to be taken. By itself, the intention that I am hearing a song (t is in state f) may not yet be sufficient to form a belief, or what might be said otherwise, to extract semantic meaning from my intention. For example: "this is a bird's song" (t is G)
+
+Merely, holding the intention that there is a song (or t is in state f) may not be enough draw out the semantics (t is G).
+
+What is then about the third state of intention that allows us to draw this connection and form a belief that the first state does not allow.
+
+The final step is the development of a distinction between communicated information about matter of fact, "a bird is making melodic noise over there" (t is f) and type level information, the concept of a "song" allowing one to say, "this is a bird's song."
 
 > "Now, with regards to how natural information can give rise to symbolic communication, another important idea is required: the difference between a piece of information about a particular matter of fact, and the corresponding content the information has on a type level." (p. 49-50)
 
-[TODO: Explain]
+Intentional states of the third order create intentions about these "types" and form beliefs about the relationship of individuals to concepts. 
+
+These concepts can be agree on ahead of time, or they can emerge organically through conventional practice. 
 
 > "A meaning is a symbol connected to a concept on type level. The symbol can represent a concept in the sense of a genuine convention, but this is not necessarily so, since a symbol can gradually acquire its meaning." (p. 50)
 
-[TODO: Explain]
+The point is: once these concepts have a emerged, intentional states can follow which correlate one state of affairs with a concept classification. This is, in a sense, Dretske's attempt to explain the extraction of meaning or the extraction of semantics "naturally" rather than assuming the human mind has magical powers to understanding "meaning". 
 
+As the reading state: 
 
+> Knowledge of concepts is a form of  type-level  knowledge,  and  that  is  what  is  required  for  symbolic  communication. (p. 50)
 

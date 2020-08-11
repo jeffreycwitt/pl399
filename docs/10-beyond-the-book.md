@@ -140,11 +140,6 @@ Then I want to look at some critics of new media: voices that want to defend the
 
 And at the end I want to ask a final speculative question: whether or not new technologies is of necessity a threat or whether it can be complimentary. If it can both be threatening and complimentary, then I'm interested in defining the conditions under which new media threatens and under which new media compliments or even enriches.
 
-# Assignment: 
-
-(This assignment is better introduced at beginning of the semester)
-Reading and Writing Journal
-
 
 # Review
 
@@ -159,7 +154,7 @@ primary focus, starting around p. 8??
 	(p. 8 voder, vocoder, example of encoding voice sound in more efficient and adaptable ways, making it possible to move, save, and transport voice)
 
 {:.question}
-In general, what concerns does Bush raise about current research environements?
+In general, what concerns does Bush raise about current research environments?
 
 <div class="answer" markdown="1">
 In the opening pages he points how much research is lost. 
