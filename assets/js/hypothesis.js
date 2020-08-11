@@ -203,7 +203,6 @@ class HypothesisAPIClient {
 
       total = searchResult.total;
       anns.push(...searchResult.rows);
-      console.log("anns", anns)
     //}
 
     return anns;

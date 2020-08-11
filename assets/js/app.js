@@ -138,7 +138,6 @@ class App extends Component {
       
       if(a.references && a.references.length >= 1) {
         if (a.references.includes(id)){
-          console.log("reply found", a)
           return (
             h('p', {}, 
               h('a', {
