@@ -105,13 +105,11 @@ class HypothesisAPIClient {
       },
     }).then(r => r.json());
     const access_token = resp.access_token
-    console.log("access_token", access_token);
     
     localStorage.setItem("hypothesis.oauth.hypothes%2Eis.token", JSON.stringify(resp));
     
     // Get API routes.
     const links = await fetch(`${this.serviceUrl}/api/`).then(r => r.json());
-
     this.token = access_token;
     this.links = links.links;
 
@@ -167,6 +165,24 @@ class HypothesisAPIClient {
       body: data,
     }).then(r => r.json());
   }
+  async requestProfile(method, data = null, params = {}, token = null) {
+    const path = method.split('.');
+    const url = new URL(`${this.serviceUrl}/api/profile`)
+    
+    const links = await fetch(`${this.serviceUrl}/api/`).then(r => r.json());
+    this.links = links.links;
+
+    this.token = token || this.token;
+    const headers = {};
+    if (this.token) {
+      headers.Authorization = `Bearer ${this.token}`;
+    }
+    return fetch(url.toString(), {
+      method: "GET",
+      headers,
+      body: data,
+    }).then(r => r.json());
+  }
 
   /**
    * Fetch all of the user's annotations.
@@ -181,14 +197,17 @@ class HypothesisAPIClient {
      // while (total === null || anns.length < 100) {
       const searchResult = await this.request('search', null, {
         offset: anns.length,
-        limit: 200,
+        limit: 100,
         group: "i8V1nADX"
       });
 
       total = searchResult.total;
       anns.push(...searchResult.rows);
+      console.log("anns", anns)
     //}
 
     return anns;
   }
+
 }
+

@@ -10,20 +10,32 @@ const { Component, h } = preact;
  * This is the format of the `userid` used in annotation and profile responses.
  */
 function parseUserid(userid) {
-  console.log(userid)
   const re = /^acct:([^@]+)@(.*)$/;
   const [_, username, authority] = userid.match(re);
   return { username, authority };
 }
 
 function isPrivate(ann) {
-  return !ann.permissions.read.some(p => p.indexOf('group:'));
+  return !ann.permissions.read.some(p => !p.indexOf('group:i8V1nADX'));
 }
 
 function isInGroup(ann) {
-  return !ann.permissions.read.some(p => p.indexOf('group:__world__'));
+  return !ann.permissions.read.some(p => p.indexOf('group:i8V1nADX'));
+}
+function isReply(ann) {
+  return ann.hasOwnProperty("references")
 }
 
+function isDirect(ann) {
+  return !ann.references
+}
+/**
+ * 
+ * @param {array} anns 
+ */
+function sortByCreation(a,b){
+  return   new Date(a.created) - new Date(b.created)
+}
 /**
  * A simple JavaScript application which lets the user view some data about
  * their Hypothesis profile.
@@ -56,6 +68,9 @@ class App extends Component {
     };
   }
 
+  componentDidMount(){
+    this.checkLogin();
+  }
   render() {
     let messages = [];
     let loginForm = null;
@@ -117,8 +132,41 @@ class App extends Component {
     );
   }
 
+  _showReply2(id){
+    
+    return this.state.annotationReplies.map((a) => {
+      
+      if(a.references && a.references.length >= 1) {
+        if (a.references.includes(id)){
+          console.log("reply found", a)
+          return (
+            h('p', {}, 
+              h('a', {
+                href: a.links.incontext,
+                target: '_blank',
+              }, "reply: "),
+              h('span', {},  a.text + " (" + a.user + ")")
+            )
+          )
+        }
+      }
+    })
+  }
+  _showReply(a){
+    return h('div', {}, 
+          h('p', {}, 
+            h('a', {
+              href: a.links.incontext,
+              target: '_blank',
+            }, "link "),
+            h('span', {},  a.text + " (" + a.user + ")")
+          ),
+          h('div', {}, 
+            this._showReply2(a.id)
+          )
+    )
+  }
   _renderProfileInfo() {
-    console.log("state at render profile", this.state)
     const { userid, groups } = this.state.profile;
     const { username } = parseUserid(userid);
 
@@ -146,20 +194,31 @@ class App extends Component {
 
       // Annotation stats
       h('div', {},
-        h('h2', {}, 'Annotation Stats'),
+        h('h2', {}, '100 Most Recent Annotations'),
         this.state.annotationStats ? [
           h('div', {}, `Total: ${this.state.annotationStats.total}`),
-          h('div', {}, `Private: ${this.state.annotationStats.privateTotal}`),
-          h('div', {}, `In groups: ${this.state.annotationStats.groupTotal}`),
+          h('div', {}, `Private: ${this.state.annotationStats.groupTotal}`),
+          h('div', {}, `Group: ${this.state.annotationStats.publicTotal}`),
         ] :
           'Fetching…'
       ),
       
       h('div', {},
-        h('h2', {}, 'Annotations'),
+        h('h2', {}, 'Class Annotations'),
         this.state.annotations ? [
         h('ul',{},
-        this.state.annotations
+        this.state.annotationMains.filter(isInGroup)
+            .map(a => this._showReply(a))
+         )
+        ]
+        : 
+        'Fetching'
+      ),
+      h('div', {},
+        h('h2', {}, 'My Private Annotations'),
+        this.state.annotations ? [
+        h('ul',{},
+        this.state.annotationMains.filter(isPrivate)
             .map(a =>
             h('li', {}, a.text)
           )
@@ -188,6 +247,47 @@ class App extends Component {
     this.client.logout();
   }
 
+
+  checkLogin(){
+    const savedInfo = localStorage.getItem("hypothesis.oauth.hypothes%2Eis.token") && JSON.parse(localStorage.getItem("hypothesis.oauth.hypothes%2Eis.token"));
+    if (savedInfo){
+      this.client.requestProfile('profile.read', null, {}, savedInfo.access_token)
+        .then((profile) => {
+          this.setState({
+            fetching: false,
+            isLoggedIn: true,
+            authorizing: false,
+            profile
+      });
+      this.fetchAll();
+    }).catch((err) => {
+      this.setState({
+        authorizing: false,
+        fetching: false,
+        error: err,
+      });
+    });;
+  }
+}
+fetchAll(){
+  this.client.fetchAll().then((anns) => {
+    const total = anns.length;
+    const groupTotal = anns.filter(isPrivate).length;
+    const publicTotal = anns.filter(isInGroup).length;
+    const annotationReplies = anns.filter(isReply);
+    const annotationMains = anns.filter(isDirect);
+    this.setState({
+      annotationStats: { total, groupTotal, publicTotal },
+      annotations: anns,
+      annotationReplies: annotationReplies.sort(sortByCreation),
+      annotationMains: annotationMains
+    });
+  }).catch((err) => {
+    console.log("erring", err)
+    this.setState({ error: err });
+  });
+}
+
   /**
    * Handle the login form's "submit" event.
    */
@@ -211,24 +311,13 @@ class App extends Component {
 
       return this.client.request('profile.read');
     }).then((profile) => {
-      console.log("profile on return from request", profile)
       this.setState({
         fetching: false,
         profile,
       });
 
-      this.client.fetchAll().then((anns) => {
-        const total = anns.length;
-        const privateTotal = anns.filter(isPrivate).length;
-        const groupTotal = anns.filter(isInGroup).length;
+      this.fetchAll();
 
-        this.setState({
-          annotationStats: { total, privateTotal, groupTotal },
-          annotations: anns
-        });
-      }).catch((err) => {
-        this.setState({ error: err });
-      });
     }).catch((err) => {
       this.setState({
         authorizing: false,

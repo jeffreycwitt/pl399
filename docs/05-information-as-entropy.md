@@ -188,8 +188,57 @@ In contrast, when both scores are sent all the time, 100% percent of the time, t
 
 What are we trying to communicate? Who the winner is? Our instinct was to communicate the "look" of the game, from which a human interpreter would then determine who the winner is. But if we abstract from the "look", we realize the essence of what we intended to communicate is something else, something more abstract, namely who one. This abstraction allows us to encode the message in a sequences of yes's and no's that requires no further processing (semantic interpretation) on the part of the receiver. This efficiency then makes it possible to transmit this information not just in a "look" but in a "sound" or through "electronic impulses" or even the ordering of rocks or notches on wood. It allows for the automatic transformation of information across diverse media.
 
+# Applications
 
+Let's step back a little from these details and consider some downstream effect. 
 
+Of considerable importance in the manner in which Shannon concern for efficiency forces us to be more precise about we want to communicate. 
+
+And this precision is a key part of what allows for the automatic transference of a message across media. 
+
+I'd like to think about this with a concrete consideration of how we "visually encode" the "look of a text" and why this has historically tethered our texts to a particular presentation. 
+
+Then, I'd like to think about what new possibilities emerge when pursue a more efficient (and consequently more precise encoding) of that to which the visual encoding points.
+
+## Activity: Beyond Visual Encoding
+
+So, here instead of continuing to babble, I'd like to do an exercise. 
+
+I'd like to try to thematize the "visual enccoding" of the printed book and identify the amount of different types of information are present in a text and to identify how they are "encoded".
+
+To facilitate this exercise, I think it helpful to introduce a few distinctions or technical terms. 
+
+What we are saying here is that printed books are secretly filled with "data" about "data". But this metadata is much a part of the book medium itself and part of accustomed way we encounter information and it fades into the background. We see it, use it, and interpret it constantly to get access to the message. But in our eagerness to arrive at the message, we rarely thematize it. 
+
+For example, the text of heading and the text of paragraph are both data, but we instinctively know that the "heading data" should be read differently than that "paragraph data. 
+
+Our awareness that a particular string function in special way shows our awareness that this string of data belongs to a particular class or type of data. We sometimes call these "data-types".
+
+Further, there are "relationships" asserted between the heading and the paragraph or division to which this heading is a heading. The kind of "relationship" is another kind of data type and each specific relationship is the data communicated.
+
+How do we recognize this? Where do we get this information? How does the printed text communicate this?
+
+So, with the example texts here, I'd like us to draw boxes around distinct data types, and give that data type a name, and I'd like us to draw lines, to indicate relationships, and to classify the kinds of relationships that are present. 
+
+•	How many datatypes are communicated?
+•	How are these data types "visually encoded"? 
+•	What are the context clues that indicate this?
+•	How many context clues are required to ensure that this information is transmitted?
+•	Where is the data type unclear ambiguous, where is a guess required? What context information is being used to facilitate this guess?
+
+The tendency of the book paradigm is to record the **look**, and the expect the reader to understand the intention behind this look and find the deeper significance, namely that the text in visualized in this way belongs to specific data type. 
+
+But Shannon's pursuit of efficiency for us to think more precisely. Aren't we really just trying to communicate this data-type, which is a symbol with a set of symbols that has certain profile and meaning. If so, what if we could instead of visual encoding our text, we directly identity the data-type we wish to communicate.
+
+In such a case, no human interpreter would be required to mediate the transition from one "look" to another "look" or from one media representation to another. 
+
+Consider the example below: 
+
+<iframe src="https://jsfiddle.net/cw6sfnjk/embedded/html,css,result/dark/" width="100%" style="min-height: 500px"></iframe>
+<!-- add iframe code snippet with XML visuall encoding a text, bold, italic, etc --> 
+<!-- try to manipulate look through, css, view the confusion -->
+<!-- add iframe code snippet with XML visual encoding a text, bold, italic, etc label instead with data types, paragragph, title, name. etc. --> 
+<!-- could add video of creating pdf from same source document -->
 
 
 <!-- Cut notes

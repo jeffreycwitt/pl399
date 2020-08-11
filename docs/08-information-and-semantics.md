@@ -11,9 +11,6 @@ nav_order: 8
 1. TOC 
 {:toc}
 
-
-
-
 # Review
 
 We've spent some time now thinking about what information is as a kind of abstract "medium" that allows communication across what we're previously seen as incompatible communication channels. 
@@ -40,6 +37,7 @@ that transmit data by means of internet protocols. In both cases, the machines i
 The idea that notion information can be communicated through information apart from semantics is the first step in a research known as "the naturalization of information".
 
 The second question is whether this "naturalization" can be extended to the second step human communication, namely to the extraction of meaning or semantics too? 
+
 * Can this process be automated? 
 * Is it something machine's can do as well? 
 * Or is a "magic process" that humans alone are capable of? 
@@ -67,13 +65,13 @@ Our goal here is only to get the smallest glimpse at what is going on in these f
 
 ## Environmental Information (section 3.3)
 
-As discussed the question of communication is theorized as twofold. 
+As discussed, the question of communication is theorized as twofold. 
 
-The process of communicating information and the extraction of semantic information.
+The process of communicating information and the extraction of semantics.
 
 While separate it is assumed that they are related. 
 
-Thus, the concept of "environmental information" is inspected in more detail
+Thus, the concept of "environmental information" is inspected in more detail.
 
 <span class="respond"/> What is Floridi's definition of "environmental information"? Can you provide an annotation that links to his definition?
 
@@ -110,17 +108,21 @@ What example is taken from Dretske?
 > "On the other hand, an event or state of affairs that has no meaning in any conventional sense may carry substantial amounts of information. An experienced poker player can read the signs; he can tell, or be reasonably certain, when a bluff is in progress. His opponent’s nervous mannerisms, excessively high bet, and forced appearance of confidence reveal, as surely as would a peek at his last card, that he did not fill his inside straight. In such a situation information is communicated, but the vehicle that carries the information (opponent’s behaviour and actions) has no meaning in the relevant conventional or semantic sense."
 (Dretske, 1981) (p. 46)
 
+<div class="discussion" markdown="1">
 <span class="respond"> What are some other examples of "semantically enabled agents" communicating without semantic information?
+</div>
 
 In such a process, Dretske highlights the importance of a direct coupling between two states which he says is "unequivocal"
 
-What then does "equivocation" mean? 
+But what then does "equivocation" mean? 
 
 > "Equivocation occurs if several different events at the source are conflated into one observed event with the receiver, thereby rendering it impossible to infer exactly which event at the source produced the event with the receiver." (p. 46)
 
 To understand Dretske's difference between "causal transfer" and "information transfer"
 
-When there is "equivocation" then these multiple states a the source can said to be "causal transfer" but not an "information transfer" (p. 46)
+When there is "equivocation", then these multiple states at the source can said to be "causal transfer" but not an "information transfer" (p. 46)
+
+[examaple here]
 
 It is helpful to remember that for Dretske: "every information transfer is a causal transfer, but not every causal transfer is an information transfer"
 
@@ -137,7 +139,7 @@ As our text says at the end of section 3.4
 
 [TODO: use below three quotes as basic outline; needs to be filled out, explained, with examples ]
 
-To what we have above we can add the idea of "intentional states" 
+To what we have said above we can add the idea of "intentional states" 
 
 [TODO: intention states , p. 49]
 
