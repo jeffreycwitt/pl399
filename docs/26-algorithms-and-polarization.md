@@ -1,7 +1,8 @@
 ---
 layout: lecture
-title: "26: Freedom of speech: Polarization 2; Hardin"
+title: "26: Alogorithms and Polarization"
 nav_order: 26
+reading: ["7VCGRZBW", "GW2KF9I9", "A5HNSCY4", "NLMJGHJZ", "4DJ3P6KV", ]
 ---
 
 ## Table of contents
@@ -9,6 +10,21 @@ nav_order: 26
 1. TOC 
 {:toc}
 
+[Rabit Hole Podcast landing page](https://www.nytimes.com/2020/04/22/podcasts/rabbit-hole-prologue.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
+
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/5ez13KFqFlXeaFve1XHuJV" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/7GP4kaqyGbPz3CrvkTcBRx" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/4PiFGKG3KUirXgmuQZs73T" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/1wlZzEe7nbe6AYUKJVogOg" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/17vSyBYKUihUXBJYsJpGdR" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+
+<!-- 
 Reading: Hardin, The Crippled Epistemology of Extremism
 (something from epistemic injustice??; or virtue epistemology)
 
@@ -205,4 +221,4 @@ p. 21: "Moreover, virtually all of our knowledge
 comes from our larger society, not from our own discovery. Hence,
 it is fundamentally group based in large part. Most of our knowledge
 comes, however, from groups that are open and inclusive. The knowledge
-of the fanatic comes from a group that is generally exclusive,..."
+of the fanatic comes from a group that is generally exclusive,..." -->

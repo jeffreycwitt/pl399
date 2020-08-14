@@ -1,7 +1,8 @@
 ---
 layout: lecture
-title: "22: Rawls / Habermas Deliberative Democracy"
+title: "22: Deliberative Democracy"
 nav_order: 22
+reading: ["GCYCSLUR"]
 ---
 
 
@@ -10,10 +11,9 @@ nav_order: 22
 1. TOC 
 {:toc}
 
-# Introduction
+# Review
 
 
-# Rawls
 
 # Habermas
 

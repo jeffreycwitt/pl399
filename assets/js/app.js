@@ -194,6 +194,9 @@ class App extends Component {
       // Annotation stats
       h('div', {},
         h('h2', {}, '100 Most Recent Annotations'),
+        h('p', {}, 
+          h('a', {href: "https://hypothes.is/groups/i8V1nADX/philosophyofinfoandmedia", target: '_blank'}, "See Alternative View of Group"),
+        ),
         this.state.annotationStats ? [
           h('div', {}, `Total: ${this.state.annotationStats.total}`),
           h('div', {}, `Private: ${this.state.annotationStats.groupTotal}`),

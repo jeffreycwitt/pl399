@@ -1,7 +1,8 @@
 ---
 layout: lecture
-title: "25: Freedom of speech: Polarization 1"
+title: "25: Freedom of speech and Polarization"
 nav_order: 25
+reading: [5RCLA4K6, MZSRQI53]
 ---
 
 ## Table of contents

@@ -1,7 +1,7 @@
 ---
 layout: lecture
 title: "13: Distant Reading and Distant Writing"
-reading: ["YCUSFWXI", "Q6K5EM4E", "BL386AX3", "R29TCBQA", "HZSRCCAL", "4MXHYS44"]
+reading: ["YCUSFWXI", "BL386AX3", "Q6K5EM4E", "R29TCBQA", "HZSRCCAL", "4MXHYS44"]
 nav_order: 13
 ---
 

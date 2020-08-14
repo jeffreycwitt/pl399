@@ -1,7 +1,7 @@
 ---
 layout: lecture
 title: "8: Information and Semantics"
-reading: ["F578UMXR", "3JMTBWNW"]
+reading: ["F578UMXR=>recommended", "3JMTBWNW=>focus: pp. 1-8"]
 nav_order: 8
 ---
 <!-- reading: phil of info, c. 2; phil of info, c. 3 -->

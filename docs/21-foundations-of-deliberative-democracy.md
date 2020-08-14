@@ -1,16 +1,17 @@
 ---
 layout: lecture
 title: "21: Foundations of Deliberative Democracy"
-reading: "Sunstein, cc. 1-2; Kant, What is Enlightenment; Mill, On Liberty, cc. 1-2, Brandeis Opinion Whitney v. California, 274 US 357 (1927)"
+reading: ["SI4SA3MJ", "JXC47B3Y", "CD7ZLMWR"]
 nav_order: 21
 ---
+<!-- TODO:  still need to add "Kant What is Enlightenment", Mill, "On Liberty, cc. 1-2", to reading -->
 
 ## Table of contents
 {: .no_toc .text-delta } 
 
 1. TOC
 {:toc}
-
+s
 
 <!-- Readings Kant, What is Enlightenment, Mill, On Liberty, chapter 2, Sunstein Chapters 1 and 2 -->
 

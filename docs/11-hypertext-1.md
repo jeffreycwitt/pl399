@@ -2,11 +2,14 @@
 layout: lecture
 title: "11: Hypertext 1"
 nav_order: 11
-reading: ['FBJ5I9LY=>read pp. 70-85', 'C8JPGTVW', '7PSB2JCJ', '2THNCN2E']
+reading: ['FBJ5I9LY=>focus: pp. 70-85', 'C8JPGTVW', '7PSB2JCJ', '2THNCN2E']
 ---
 <!-- landow reconfiguring text, FBJ5I9LY; landow reconfiguring author C8JPGTVW; Barthes 7PSB2JCJ, Foucault 2THNCN2E-->
 ## Table of contents
 {: .no_toc .text-delta } 
+1. TOC 
+{:toc}
+
 # Review 
 
 Last class we focused on frustrations that digital pioneers were having with the print medium. 

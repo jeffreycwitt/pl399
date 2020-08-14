@@ -1,14 +1,9 @@
 ---
 layout: lecture
-title: "27: Regulation Proposals"
-nav_order: 27
+title: "28: Regulation Proposals"
+nav_order: 28
+reading: [LPNNPZZI]
 ---
-<!-- Sunstein chapter 9 -->
-
-## Table of contents
-{: .no_toc .text-delta } 
-1. TOC 
-{:toc}
 
 # Review 
 
