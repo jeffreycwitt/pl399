@@ -6,9 +6,9 @@ layout: home
 nav_exclude: true
 ---
 
-# Philosophy, Information, and Media:
+# Philosophy, Information, and Media: A Course Packet
 
-## A Course Packet
+Today we are living through one of human history's great media shifts, on par with the invention of the written language and the printing press. A shift of this magnitude invites philosophical reflection: both historical and phenomenological reflections on the nature of reading, writing, and thinking as well as a general examination of the way media affects consciousness. 
 
-Today we are living through one of human history's great media shifts, on par with the invention of the written language and the printing press. A shift of this magnitude invites philosophical reflection: both historical and phenomenological reflections on the nature of reading, writing, and thinking as well as a general examination of the way media affects consciousness. In this course, students trace the history of media shifts and their impact by looking at thinkers as diverse as Plato and Marshall McLuhan. Special attention is given to reflection on the internet and social media, with readings from earliest theorists of the internet such as Vannevar Bush and Ted Nelson and contemporary critiques of the internet such as Nicholas Carr, author of "Is Google Making Us Stupid?".
+In this course, we trace the history of media shifts and their impact by looking at thinkers as diverse as Plato and Marshall McLuhan, Immanuel Kant and Ted Nelson. After first tracing the history of the "informational turn", we will then look at the impact of media shifts on the way we think about reading and writing. Finally we look at the social implications of these shifts, considering especially the values of a deliberative democracy and how the digital media shift positively or negatively affect our pursuit of those values.
 
