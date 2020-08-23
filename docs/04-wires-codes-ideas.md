@@ -3,8 +3,8 @@ layout: lecture
 title: "4: Wires, Codes, and New Ideas"
 reading: ["SN4EQIZ5=>cc. 4-5"]
 nav_order: 4
-published: false
 ---
+
 ## Table of contents
 {: .no_toc .text-delta } 
 1. TOC 
