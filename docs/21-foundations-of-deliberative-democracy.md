@@ -1,7 +1,7 @@
 ---
 layout: lecture
 title: "21: Foundations of Deliberative Democracy"
-reading: ["SI4SA3MJ", "JXC47B3Y", "CD7ZLMWR"]
+reading: ["DQCKDACX=>Book 1, c. 6, The social compact", "75SNV9X4", "SI4SA3MJ", "JXC47B3Y", "CD7ZLMWR"]
 nav_order: 21
 published: false
 ---

@@ -2,7 +2,7 @@
 layout: lecture
 title: "22: Deliberative Democracy"
 nav_order: 22
-reading: ["GCYCSLUR"]
+reading: ["SWWUUQXZ=>c. 2", "GCYCSLUR"]
 published: false
 ---
 
