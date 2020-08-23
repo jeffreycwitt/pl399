@@ -3,6 +3,7 @@ layout: lecture
 title: "28: Regulation Proposals"
 nav_order: 28
 reading: [LPNNPZZI]
+published: false
 ---
 
 # Review 

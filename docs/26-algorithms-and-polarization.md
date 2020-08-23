@@ -2,7 +2,8 @@
 layout: lecture
 title: "26: Alogorithms and Polarization"
 nav_order: 26
-reading: ["7VCGRZBW", "GW2KF9I9", "A5HNSCY4", "NLMJGHJZ", "4DJ3P6KV", ]
+reading: ["7VCGRZBW", "GW2KF9I9", "A5HNSCY4", "NLMJGHJZ", "4DJ3P6KV"]
+published: false
 ---
 
 ## Table of contents

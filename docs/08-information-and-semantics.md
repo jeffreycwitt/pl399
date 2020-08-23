@@ -3,6 +3,7 @@ layout: lecture
 title: "8: Information and Semantics"
 reading: ["F578UMXR=>recommended", "3JMTBWNW=>focus: pp. 1-8"]
 nav_order: 8
+published: false
 ---
 <!-- reading: phil of info, c. 2; phil of info, c. 3 -->
 

@@ -2,6 +2,7 @@
 layout: lecture
 title: "15: Digital Editions Presentations"
 nav_order: 15
+published: false
 ---
 
 ## Table of contents

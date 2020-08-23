@@ -161,7 +161,8 @@ layout: default
     display: block;
   } */
   .answer{
-    display: none;
+    /*display: none;*/
+    visibility: hidden;
     border-left: 2px solid blue;
     padding-left: 5px
   }
@@ -185,7 +186,14 @@ layout: default
     /* checkLogin(function(){console.log("login checked")});*/
   
     $(".question").click(function(){
-      $(this).next(".answer").toggle();
+      /* $(this).next(".answer").toggle();*/
+      if ($(this).next(".answer").css("visibility") === "visible"){
+        $(this).next(".answer").css("visibility", "hidden");
+      }
+      else{
+        $(this).next(".answer").css("visibility", "visible");
+      }
+      
     });
     getReadingTime();
 

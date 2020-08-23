@@ -3,6 +3,7 @@ layout: lecture
 title: "18: internet and control"
 reading: ["PIHI9TSZ=>cc. 3-5"]
 nav_order: 18
+published: false
 ---
 
 ## Table of contents

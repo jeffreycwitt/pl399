@@ -3,6 +3,7 @@ layout: lecture
 title: "13: Distant Reading and Distant Writing"
 reading: ["YCUSFWXI", "BL386AX3", "Q6K5EM4E", "R29TCBQA", "HZSRCCAL", "4MXHYS44"]
 nav_order: 13
+published: false
 ---
 
 <!-- daily nous on GPT3 R29TCBQA; GPT-3 example 1, HZSRCCAL, GPT-3 example 2 4MXHYS44-->

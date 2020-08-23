@@ -1,6 +1,6 @@
 ---
 layout: lecture
-title: "17: Lessig, Code, cc. 1-2"
+title: "17: Code and the Puzzles of Cyberspace"
 nav_order: 17
 reading: ["PIHI9TSZ=>cc. 1-2"]
 ---

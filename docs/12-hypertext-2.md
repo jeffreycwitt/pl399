@@ -2,6 +2,7 @@
 layout: lecture
 title: "12: Hypertext 2"
 nav_order: 12
+published: false
 ---
 
 ## Table of contents

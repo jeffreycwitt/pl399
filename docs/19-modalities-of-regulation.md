@@ -3,6 +3,7 @@ layout: lecture
 title: "19: modalities of regulation"
 reading: ["PIHI9TSZ=>cc. 6-8"]
 nav_order: 19
+published: false
 ---
 
 ## Table of contents
