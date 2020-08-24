@@ -2,7 +2,7 @@
 layout: lecture
 title: "1: Introduction"
 nav_order: 1
-published: true
+published: false
 ---
 
 ## Table of contents

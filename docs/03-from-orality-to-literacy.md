@@ -3,6 +3,7 @@ layout: lecture
 title: "3: From Orality to Literacy"
 reading: ["78FP4M3A=>focus: ?-?", "U25N8RU8=>focus: pp. 78-96, 101-103", "MKVLEEA6", "SN4EQIZ5=>cc. 1-3, pp. 13-77"]
 nav_order: 3
+published: false
 ---
 <!-- phaedrus: 78FP4M3A; ong c. 1; ong, c. 4; Glieck 1-3 -->>
 

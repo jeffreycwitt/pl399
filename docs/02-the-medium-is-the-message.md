@@ -4,6 +4,7 @@ title: "2: The Medium is the Message"
 nav_order: 2
 reading: ["MZZ5E5RE"]
 watchtime: 20
+published: false
 ---
 
 ## Table of contents

@@ -3,6 +3,7 @@ layout: lecture
 title: "5: Information as Entropy"
 reading: ["SN4EQIZ5=>cc. 6-7"]
 nav_order: 5
+published: false
 ---
 
 {% include math.html %}
