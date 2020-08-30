@@ -1,8 +1,10 @@
 ---
 layout: lecture
 title: "1: Introduction"
+date: "2020-08-30"
 nav_order: 1
-published: false
+watchtime: "20"
+published: true
 ---
 
 ## Table of contents
@@ -12,28 +14,32 @@ published: false
 
 # Introduction
 
-[video of me and introduction]
+<div class="video">
+<iframe src="https://loyola.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=c573f33d-13eb-4846-a9e2-ac2700de512b&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+<p class="vda">discuss video anchor</p>
+
 
 <!-- BEGIN video content 
 I put forward this course because, in addition to being timely and important, I wanted to challenge myself. 
 
-Sometimes I prefer to introduce myself as an "intellectual historian" rather than a philosopher, partly because the word "philosopher" today functions largely as an empty signifier and partly because this title captures my natural bent as a philosopher. Namely, my training in philosophy and my research is decidedly historical. My work is focused on observing the philosophical discussion of the past, observe how shift and shape, and ask question about the "causes" that direct these intellectual currents. 
+Sometimes I prefer to introduce myself as an "intellectual historian" rather than a philosopher, partly because the word "philosopher" today functions largely as an empty signifier and partly because this title captures my natural bent as a philosopher. Namely, my training in philosophy and my research is decidedly historical. My work is focused on observing the philosophical discussion of the past, observe how shifts and change occur, and ask question about the "causes" that direct these intellectual currents. 
 
-But this interest has brought me to a second interests. My attempts to observe intellectual history have forced me, most especially practically rather than theoretically, with the nature of information and how we encounter it. 
+But this interest has brought me to a second interests. My attempts to observe intellectual history have forced me, most especially practically rather than theoretically, with the nature of information, how we publish it, and how we encounter it.
 
-The observation of history is only down the "recorded" record of history. And the how of this recording has an impact on what gets recorded, and without doubt how we access that information certainly has dramatic impact on how we understand history, and in turn record new stories. 
+The observation of history is and can only be the "recorded" record of history. And the "how" of this recording has an impact on what gets recorded, and, without doubt how we access, that information certainly has dramatic impact on how we understand history, and in turn record new stories. 
 
 As I said these are questions I have encountered first and foremost practically. That is, they have not been the direct focus of philosophical reflection. Rather I have faced them in my attempts to make the historical record accessible.
 
 So, as I graduate student I learned to read medieval manuscripts. In the process, I've seen how the expense and labor of creating these works has impacted who could read them, when they could read. In tracking, the survival of text into the present, the evidence of impact of the printing press is pervasive. But it too is "determinative", opening certain pathways while limiting others, replacing some of things loved about manuscripts with new features that will come to be loved by readers of print. 
 
-In this pursuit, now over a decade long, I've become a digital archivists, database designer, and software developer. This has forced me even more dramatically to think about what information, abstracted from the media in which it has been recorded. This kind of abstraction is exciting. It allows me think of "information" distinct from a particular visual presentation, and allows me to imagine alternative presentations. 
+In this pursuit, now over a decade long, I've become a digital archivists, database designer, and software developer. This has forced me even more dramatically to think about the power of what information is and the possibilities, abstracted from the media in which it has been recorded. This kind of abstraction is exciting. It allows me think of "information" distinct from any particular visual presentation, and allows me to imagine alternative presentations. This is after all one of the exciting possibilities of the Internet, the dynamic and networked experience of information that the user and control nd explore.
 
 The ability to quickly manipulate the presentation of data, pushes one in a philosophical direction. Where there was only way for information to appear, there was nothing to discuss. But now when a information can easily appear in multiple forms, the question naturally arises which presentation is best? In which cases and for what reason? And these raises for us a central question of this course: How does the medium affect the "message"?
 
 So, as I said, with this course, I wanted to not only offer a course that might interest many students, I also wanted to challenge and push myself to begin thinking explicitly and philosophically about the questions I was already encountering a practical level. 
 
-Thus, this seminar is meant to be a reading group of collaborating researchers. You are the fellow researchers. To do well in this course, you need to become interested yourself in the questions at hand by finding a way these questions connect to other themes/issues you already care about. In finding that connection, your job is to pursue an articulation of the impact of media (and its transformations) on your other area of interest. (Our assignments will push in this direction. But success will mean finding your own inner drive.) --->
+Thus, this seminar is meant to be a reading group of collaborating researchers. You are my fellow researchers. To do well in this course, you need to become interested yourself in the questions at hand by finding a way these questions connect to other themes/issues you already care about. In finding that connection, your job is to pursue an articulation of the impact of media (and its transformations) on your other area of interest. (Our assignments will push in this direction. But success will mean finding your own inner drive.) --->
+</div>
 
 Now that I've introduced myself, I want you to introduce yourself. But before you do that I want to introduce a special tool that I hope to use this semester. And, then if you're able to set it up on your own, I'd like you to introduce yourself using the tool.
 

@@ -3,10 +3,15 @@ layout: default
 ---
 {% include next_prev.html %}
 <h1>{{page.title}}</h1>
+{%- if page.date -%}
+<div style="font-size: 12px">
+<p>Published on {{page.date}}</p>
+</div>
+{%- endif -%} 
 <div class="overview">
   <span class="reading-time"></span>
   <span class="watch-time" data-watchtime="{{page.watchtime}}"></span>
-  <span class="numQuestions"></span>
+  <!-- <span class="numQuestions"></span> -->
   <span class="numDiscussions"></span>
 </div>
 <div style="font-size: 12px">
