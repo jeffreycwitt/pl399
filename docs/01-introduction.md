@@ -35,18 +35,20 @@ So, as I said, with this course, I wanted to not only offer a course that might 
 
 Thus, this seminar is meant to be a reading group of collaborating researchers. You are the fellow researchers. To do well in this course, you need to become interested yourself in the questions at hand by finding a way these questions connect to other themes/issues you already care about. In finding that connection, your job is to pursue an articulation of the impact of media (and its transformations) on your other area of interest. (Our assignments will push in this direction. But success will mean finding your own inner drive.) --->
 
+Now that I've introduced myself, I want you to introduce yourself. But before you do that I want to introduce a special tool that I hope to use this semester. And, then if you're able to set it up on your own, I'd like you to introduce yourself using the tool.
+
 # Course Annotating and Discussion Participation. 
 
 This course is going to have a lot to say about how we think about texts, how we read and write, and how the various media we use to do these actions shape and determine the pathways we find. 
 
-Not only are we going to read about these different pathways, but we also we experiment and practice them. One way we're going to do this in this course is by using annotation tool called "hypothes.is". Hypothes.is is tool inspired by the possibilities of the web for inter-linked non-linear, multi sequence thinking. In fact in their promotional video, they refer to a paper by Vannevar Bush that we are going to read in [lesson 10](10-Bush-Nelson.html). Watch their video below. 
+Not only are we going to read about these different pathways, but we will also experiment and practice them. One way we're going to do this in this course is by using an annotation tool called "hypothes.is". Hypothes.is is tool inspired by the possibilities of the web for inter-linked non-linear, multi sequence thinking. In fact in their promotional video, they refer to a paper by Vannevar Bush that we are going to read in [lesson 10](10-Bush-Nelson.html). Watch their video below. 
 
 <div class="video">
 <iframe width="720" height="405" src="https://www.youtube.com/embed/QCkm0lL-6lc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p class="vda">discuss video anchor</p>
 </div>
 
-So we're going to work with this tool, work to build networked discussions throughout our course, and then continuously reflect on how the tools we use are our affecting our reception of the message.
+So we're going to work with this tool, work to build networked discussions throughout our course, and then continuously reflect on how the tools we use use are affecting our reception of the message.
 
 But to do this we need to set up a few things ([as described by hypothes.is](https://web.hypothes.is/start/))
 
@@ -54,21 +56,23 @@ But to do this we need to set up a few things ([as described by hypothes.is](htt
 2. Add the chrome browser extension or (for use in other browsers) drag the "hypothesis bookmarklet" to your bookmark bar. 
   * Using Chrome is recommended so that we can all have a consistent experience, and so that I can more easily help you.
   * The hypothesis annotation script will also work for our class PDF readings, but this will mean you will want to open and read these PDFs in your chrome browser.
-3. Finally, I will distribute a link allowing you to join our "private" hypothesis group so that our annotations will be visible to each other, but will not be made public to the world. 
+3. Finally, I will distribute a [link through moodle](https://moodle.loyola.edu/mod/url/view.php?id=1641505) allowing you to join our "private" hypothesis group so that our annotations will be visible to each other, but will not be made public to the world. 
 
-We will have ample time to discuss how this tool is working throughout our course. But for now, I ask that you give it a try and "lean" into it, so that we allow it to help us create a vibrant connected discussion around common texts.
+We will have ample time to discuss how this tool is working throughout our course. But for now, I ask that you give it a try and then "lean" into it, so that we allow it to help us create a vibrant connected discussion around common texts. 
+
+If you're not able to get working, we can discuss it during our live course time, or during office hours.
 
 # Annotating your Self Introduction
 
-You can highlight and comment on any text within our course packet. If I say something, that is unclear, you should highlight it, and note that it was unclear and why. If something seems interesting, you should highlight it and say why it is interesting. As your fellow class mates add annotations, feel free to respond directly to their annotations (create an annotation on their annotation!). 
+You can highlight and comment on any text within our course packet. If I say something, that is unclear, you should highlight it and note that it was unclear and why. If something seems interesting, you should highlight it and say why it is interesting. As your fellow class mates add annotations, feel free to respond directly to their annotations (create an annotation on their annotation!). 
 
-You should do the same for our class readings that are available as PDF. By reading these in the browser, you can use that annotation tool to annotate the text. Annotation shared with our group will be visible to the entire class for discussion.
+You should also feel free to liberally use tags (see our [annotation tags page](annotation-tags.html)) to help link discussions across pages and annotations.
 
-Additionally, throughout the course packet and I will have questions marked asking you to pause and think about the question before going on. You can highlight these questions and annotation your thoughts or response. 
+You should do the same for our class readings that are available as PDF By reading these in the browser, you can use that annotation tool to annotate the text. Annotation shared with our group will be visible to the entire class for discussion.
 
-To these questions, I will have a suggested answer that you can click on. The main goal is force you to stop and think before reading further. There will be lots of these, ad you're not obliged to respond to all of them. 
+But the exciting thing is that you can use this tool almost anywhere on the web. If you're reading an article on wikipedia or the New York Times and it seems relevant to our class, you should annotate it, and it will get connected to our class discussion. Additionally, if you use a tag we are already using, then it will be even more closely connected to our class discussion.
 
-In additions to sections marked **Question**, some places in our course packet will be marked as **discussion**. These are targeted points that I am explicitly asking for you to join the discussion either by adding an annotation or responding to annotation made by someone else in the class. As you'll, this will help simulate the kind of discussion we might normally have in a synchronous classroom environment. 
+Occasionally, some places in our course packet will be marked as **discussion**. These are targeted points that I am explicitly asking for you to join the discussion either by adding an annotation or responding to annotation made by someone else in the class. Sometimes, there will be a tag associated with a discussion. If we all use this tag, then we can continue this discussion anywhere on the web. Your annotations are **by no means** restricted to these discussions. You should feel free to annotation anywhere and everywhere. However, this is one place I'm asking everyone to join in. As you'll see, this will help simulate the kind of discussion we might normally have in a synchronous classroom environment. 
 
 These discussion will become a focal point for further live discussion when we meet together in person. 
 
@@ -89,148 +93,88 @@ So it's now its your turn. I want to hear about you and why you chose this cours
 
 </div>
 
+# Course Overview
 
+In preparing this course, I've focused on preparing a set of readings, exercises, and questions that can evoke a conversation that will be useful to your own exploration. But I will be a co-researcher/investigators with you. I do not always have answers for you to simply absorb, in large part because the field is so new and so rapidly evolving that we haven't even yet found the right or pertinent questions for the topic at hand.
 
-In preparing this course, I've focused on preparing a set of readings, exercise, and questions that can evoke a conversation that will be useful to your own exploration. But I will be a co-researcher/investigators with you. I do not have answers for you to ingest, in large because we haven't even yet found the right or pertinent questions for the topic at head.
-
-We know that we are living through one of the greatest media shifts human history has ever experienced. There is no textbook or map for appreciating this transition because no one has ever lived through it before. 
+We know that we are living through one of the greatest media shifts human history has ever experienced. But there is no textbook or map for appreciating this transition because no one has ever lived through it before. 
 
 We are living this transition first hand, thus we must turn to our own cognitive powers to organize and then assess what is happening. That is what I want to do with you.
 
-# Two guiding Course questions. 
+## Two Guiding Course Questions. 
 
-With that said, let me offer to very high level questions that shape the direction our exploration takes. 
+With that said, let me turn to introduce the content of our course and let me do so by first offering two very high level questions that can help shape the direction our exploration takes. 
 
-First: 
+**First:**
 
-We are not the first to recognize the impact of media shifts. Thinkers of the 20th century believed they were going an enormous shift, unaware of the fact that by comparison, transitions to radio and television would appear as a mere blip in comparison to the changes of the 21st century.
+We are not the first to recognize the impact of media shifts. Many thinkers of the 20th century believed they were going through an enormous shift, unaware of the fact that, by comparison, the transitions to radio and television would appear as a mere blip in comparison to the changes of the 21st century.
 
 It was therefore, Marshal McLuhan, the media guru of super star status in the 1970's who argued that the "Medium is the Message". We will explore this claim in our next class. 
 
-But in short I think he wants to point out that the medium through which we receive information/message is not an innocuous means of transport. Rather the medium effects and shapes the ultimate message we receive.
+But in short McLuhan wanted to point out that the medium through which we receive information/message is not an innocuous means of transport. Rather the medium affects and shapes the ultimate message we receive.
 
-This might be as simple as saying, while on the surface, if I read Harry Potter in a bound book and you listen to it as an audio book, we DO NOT receive the same message.
+Said another way, we might say that media affects our consciousness. We cannot simply say that have an idea, and then we express that idea in a medium, from which the recipient then extracts that message. Rather McLuhan insist that medium of expression has determined or affected what consciousness thinks, and the medium of expression has determined or affected what message the recipient extracts.
 
-Said another way, we might say that media affects our consciousness. It is not so simple as saying, we have an idea, and then we express that idea in a medium, from which the recipient then extract that message. 
+We will operate with this as a working hypothesis through the semester. But taking this claim as a hypothesis, we should constantly be looking for evidence for and against this claim.
 
-McLuhan insist that medium of expression has determined or affect what consciousness thinks, and the medium of expression has determined or affect what the message the recipient extracts.
+Is it really true that medium affects consciousness in this way? Where do we see evidence for or against this claim?
 
-We will operate with this as a working hypothesis through the semester, to which we will be forever on the look out for confirmation or exposition of this thesis. 
+**Second:** 
 
-Is it really true that medium affects consciousness? Where do we see evidence of this?
-In what way, to what extremes does the medium affect consciousness? Where do we see evidence of these modalities and limits.
+On the assumption that the "medium is the message", there is a second, more difficult, more paradoxical, perhaps unanswerable question. 
 
-Second: 
+In the midst of a shift as momentous as this one, we not only want to observe the impact of media, but we also want to use this reflection to make decisions about action. 
 
-On the assumption that the medium is the message, there is a second, more difficult, more paradoxical, perhaps unanswerable question. 
+What benefits are at risk of being lost through a given media shift, what benefits are to be gained? 
 
-In the midst of a shift as momentous as this one, we not only want to observe the impact of media, but to use this reflection to make decisions about action. What benefits are at risk of being lost through a given media shift, what benefits are to be gained? How ought we to measure the pros against the cons, and how might this advise us going forward, when we as human choose to pursue one media form over another. 
+How ought we to measure the pros against the cons, and how might this advise us going forward, when we as humans choose to use one medium over another. 
 
-The question is however made paradoxical by our initial hypothesis.
+The question is, however, made paradoxical by our initial hypothesis.
 
-If the dominant medium shapes our consciousness, then how is it possible to see outside our beyond the medium environment within which live. 
+If the dominant medium shapes our consciousness, then how is it possible to see outside or beyond the medium environment within which live. 
 
-If a given medium encourages certain patterns of thought, then this will develop into a norm or nature to be valued and preserved. What threatens this pattern will be seen as bad. 
+If a given medium encourages certain patterns of thought, then this will develop into a norm or nature to be valued and preserved. What threatens this pattern will be seen as bad, not necessarily because it is "absolutely bad" but because it threatens the values shaped by the current dominant media form.
 
 In short, how we can we ever judge the pros/cons form a neutral standpoint? Won't our evaluations simply confirm what our habituation to a given medium prefers? 
 
-Or is possible, with enough reflection and effort to peer outside the world view shaped by our dominant environment to glimpse independent and universal truths about human nature? Is it possible to see some eternal values or goods that exist apart from the world in which we live, and which can direct or guide the choices of media based on the degree to which a given medium promotes or discourages such values. 
+Or is it possible that, with enough reflection and effort, we can get a peek outside of the world-view shaped by our dominant environment to glimpse independent and universal truths about human nature? Is it possible to see some eternal values or goods that exist apart from the world in which we live; values which can direct or guide the choices we make about media based on the degree to which a given medium promotes or discourages such eternal or fixed values. 
 
 This is an open and difficult question, but an important one. 
 
-We simultaneously want to be keeping an eye out for the timeless values that we want to support and promote, but at the same time be constantly be aware to what degree the dominant media form is already driving our values in a particular direction. 
+On the one hand, we need to be keeping an eye out for the values that we want our tools and technology to help us achieve. On the other hand, we need to be constantly aware to what degree these tools and technologies are determining the very values we pursue.
 
-In short, is this something we really value, or is something we've been trained to value, but actually preventing us from seeing or experiencing alternative or even better goods. 
+In short, we need to ask: is this something we really value, or is it something we've been trained to value by the dominant media forms, and is it possible to tell the difference?
 
-These are classic question for any marxist theorist, and we will attempt to find sources of guidance in this literature (we will peak in this direction in our next class.)
+There are no easy answers. But they are deep questions that I want us to continually circle back to as we progress through the semester.
 
-# Course division.
+## Course division.
 
-With these broad questions in mind, I focused on our course into three units.
+With these broad questions in mind, let's turn to the general structure of our course. 
 
-I. A history: We will read from a historical point of view about how the notion of information of has changed over time. 
-This will certainly be one confirmation of the McLuhan hypothesis: as media have changed, so has our understanding of what information is.
+I have divided our into three units.
 
-II. The Personal. 
-While some of the pressing questions about modern media are social (dealing with freedom, privacy, property, etc), I want to look first at a more personal set of questions, namely how media shifts are changing us as individuals, and some of the most character forming activities we know of: namely the act of reading, writing, creating and consuming information.
+I. A history: We will read, from a historical point of view, about how the notion of information of has changed over time, ultimately leading us to the modern theory of information that some see as the beginning of the "informational turn".
 
-Some have suggested, the notion of private reading only emerged in the modern period with the invention of print, giving rise to a uniquely modern preoccupation with the self. I want to explore this impact and how 21st century media are changing the nature of reading and information consumption, for good or ill.
+This will certainly be one confirmation of the McLuhan's hypothesis: as communications media have changed, so has our understanding of what information is. And as the 20th and 21st centuries have shown us, these changes in conceptual understanding have led to dramatic changes in our individual and social lives.
 
-III. Finally, I want to look at the social impact by exploring the notion of public sphere. As Habermas notes the concept of a "public sphere" and "deliberative democracy" is a uniquely modern phenomenon made possible again through a particular form of media, the printing press. 
+II. The Text: Reading, Writing, and Thinking.
 
-Here we will want to explore what the public sphere is and the impact of 21st century media on it. Some of heralded the Internet as true medium of democracy while others worry about the Internet's impact of the diminishment of a genuine "public sphere". Here again, we will want to evaluate if and why a "public sphere" ought to be valued, and the degree to which 21st medium can benefit or harm the public sphere. And if both, what are the distinguishing features of digital medium prove beneficial in contrast to those that prove harmful?
+While some of the pressing challenges raised by modern media are social (questions about freedom, privacy, property, etc.) I want to look first at a more personal set of questions, namely how are media shifts changing affecting some of our most personal and private activities: that of reading, writing, and thinking. Here will ask question like: what is a text? what does it mean to read? who is the author?
 
-# Syllabus, Assignments, and Expectations. 
+Some thinkers have suggested that the notion of private reading only emerged in the modern period with the invention of print, giving rise to a uniquely modern preoccupation with the self. I want to explore this impact and how 21st century media are changing the nature of reading and information consumption, for good or ill.
 
+III. Finally, I want to look at the social impact of media shifts by exploring the notion of public sphere. As Habermas notes, the concept of a "public sphere" and "deliberative democracy" is a uniquely modern phenomenon, again made possible through a particular form of media, the printing press. 
 
+Here we will want to explore what the public sphere is and the impact of 21st century media on it. Some have heralded the Internet as true medium of democracy while others worry that Internet, with its vast scale and filtering capabilities, is drowning out the possibility of effective deliberation. Here again, we will want to evaluate if and why a "public sphere" ought to be valued, and the degree to which 21st media can benefit or harm the public sphere. 
 
+## Syllabus, Assignments, and Expectations. 
 
+At this point, I'd like you to look over our [official class syllabus](https://moodle.loyola.edu/pluginfile.php/2376088/mod_resource/content/1/PhilosophyInformationMedia-2020-08-27.pdf), the assignments, and expectations. 
 
-<!-- 
---- Cut Notes  --- 
-## Philosophical Method
+If you were able to get the hypothesis annotation tool working in your browser, then, if you have questions, you can annotate directly on the syllabus. 
 
-discussion and assignment
-(how can we evaluate our the media around. What metrics can we use to decide when a given media is hurting or harming us)
-(next class could be a report.)
+While looking over the syllabus, you might also look over the [Annotation Participation Expectations and Rubric](annotation-expectations.html). Again, feel free to annotate directly.
 
-### Importance of understanding the medium (even if it is hard)
-
-Concluding note about taking an interest in technical matters. (lab assignments?? )
-
-(Lessig end of chapter 7, indirect regulation, through manipulation of the code/architecture.)
-(Also Lessig end of chapter 18)
-
-In the end Lessig's worry about indirect regulation and lack of transparency is instance of a larger worry about technology in general. 
-
-The worry is that while technology by definition is human made product it has the tendency to take on the appearance of nature or a God. 
-
-(Fromm's remarks about idolatry as way to think about alienation might be important here)
-
-The seeming complexity of modern technology in the digital age contributes to this appearance of "naturalness". 
-
-The effect of seeing technology as natural or a God is the kind of idolatry that Fromm talks about our "alienation" that Marx talks about. 
-
-Our human constructions take on a life of their own and, instead of serving our purposes, they begin to impose upon a kind of "pseudo-natural law", forcing us, the creators, to conform to this law, whether or not this pseudo law advances our original human purposes. 
-
-In short, we forget that something like the internet is a human construction. 
-We talk its pathways, affordances, and limitations as God given. And when these pathways and limitations seem to threaten our values, we feel helpless in the face of them. We shrug, and simply accept that this is the nature of things. 
-
-But in reality this is not the nature of things. It only is this way because we do not have the capacity to see the "this internet" is one actualized realization of many possibilities. And if we do not like the outcomes, we have the power to change the architecture. 
-
-But to see that we have this power requires that we take an interest in understanding the architecture. To give up on this understanding or to suggest that this understanding is not important human responsibility is to transform a human product into an alien object that governs our life.
-
-Lessig says this very well at the end of his book, p. 338: 
-
-> "The truth, I suspect, is tha the Declans (libertarians) will win -- at least for now. We will treat code -- based environmental disasters -- like the loss of privacy, like the censorship of censorware filters, like the disappearance of an intellectual commons -- as if they were produced by gods, not by Man. We will watch as important aspects of privacy and free speech are erased by the emerging architecture of the panopticon, and we will speak, like modern Jeffersons, about nature making it so -- forgetting that here, we are nature. We will in many domains of our social life come to see the Net as the product of something alien -- something we cannot direct because we cannot direct anything. Something instead that we must simply accept, as it invades and transforms our lives." (lessig p. 338)
-
-Thus, I want to say that understanding the the media of communication belongs to the humanities. Historically this has always been the case. Humanists have been perpetually involved in analyzing the tools of communication, from language forms, to rhetoric and argument forms, to book culture. 
-
-It would be therefore an abdication of our duty to refused to investigate the new media forms just because they are different and challenging. As humanist we need to be as interested in the "bit" as we are in the letter, for no other reason than because as the "bit" begins to carry the "letter", the very meaning of what a "letter" is beginning to change. And the "letter" like a hammer is a technological tool, it is not a piece of nature and it did not fall from the heavens. Thus if we as humanists want these tools to work for us, if we want to control their use rather than be controlled by them, we have to push ourselves to understand the new medium that enables them. If we do not, we will be forced to accept the rules that others create, others who have answered the challenge and were willing to investigate beyond where we were willing to go. 
-
----
-Some related thoughts:
-
-One person once asked me do it really matter communicate a letter via a "bit". Isn't this just like quibbling over what kind of pen we use. How can the message be affected by the kind of pen we use. 
-
-But if we think a little more broadly I don't think it is hard to find ways that it matters. 
-
-If write a message with a pen and you write a message with pen and then we both type this message and print it, are there any important differences. 
-
-Think about what surrounds the message and how that impacts the message. 
-
-Handwriting comes with a kind of personal identity, where has the digital message does not. That's already a big difference. 
-
-What about a different between pen and pencil. The latter message is eraseable. That's a big difference. 
-
-A digital message, however, is re-producible, copyable in much more efficient ways than a handwritten message, and that too, will have dramatic effects, as we will see (hopefully) on things like "copy-right".
-
---
-
-quote from McLuhan from Gutenberg Galaxy might helpful as part of introduction
-
-> "We are today as far into the electric age as the Elizabethans had advanced into the typographical and mechanical age. And we are experiencing the same confusions and indecisions which they had felt when living simultaneously in two contrasted forms of society and experience" (qtd in Gleick, p. 413)
+If something needs clarification, try using the tag "nd" (short for "needs discussion). But don't worry too much about "annotating correctly". Part of the fun will be to see what kind of annotations, discussions, tags, and communal practices emerge through our course together.
 
 
-
--->

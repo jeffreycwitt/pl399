@@ -16,7 +16,9 @@ consider some of the reviews of digital scholarly editions written by other scho
 
 # Digital Edition Review Assignment
 
-Now, with your moodle assigned partner, using the catalogue of (digital scholarly editions](http://www.digitale-edition.de/), find an edition of interest write an evaluation
+Now, with your moodle assigned partner, using the catalogue of 
+[catalogue of digital editions](https://dig-ed-cat.acdh.oeaw.ac.at/) or 
+[digital scholarly editions](http://www.digitale-edition.de/), find an edition of interest write an evaluation
 
 <span class="respond"/> With an annotation, let me and the class know which edition you plan to review. 
 

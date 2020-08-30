@@ -3,69 +3,86 @@ layout: default
 title: "Annotation Tags"
 ---
 
-# Official Tags
+## Tags
 
+The use of tags will help us group connected conversations across readings, webpages, and annotations. 
+
+Some of these tags will emerge from pre-arranged tags or explicit class discussions within the course packet. But we should also be creative and allow groupings to emerge organically as various discussions take place. Note that annotations can have many tags at the same time. So in addition to using tags I suggest please invent any tag you want. You don't need my permission to make a tag. It can be serious or silly. (e.g. tag: 'RonaLife', 'what!?!?', etc.). 
+
+As tags gains momentum and begin to "trend", I will add them to the running list of known tags below. Tags will be listed in alphabetical order, with a short description if necessary. To see the conversation around a given tag, click on the link below and you should see the annotation that have been marked with this tag.
+
+If you want to suggest that a tag be added to this list, then just annotate this page somewhere and suggest the tag.
+
+## List of Known Tags
+
+
+<div id="cdr" markdown="1">
 **cdr** (class discussion report): Each class discussion will have an assigned "secretary" or "class reporter". As class reporter, your job is create a page annotation (as well as text anchored annotations) for each lesson discussed during the discussion and to tag it as 'cdr'. Then anyone can come back to the page for a given lesson, filter for the 'cdr' annotations on that page and get nice summary of our in class discussions.
 
-<div>
-  <a class="view-annotations" data-tag='cdr'>View 'cdr' tags</a>
+  <div>
+    <a class="view-annotations" data-tag='cdr'>View 'cdr' tags</a>
 
-  <div id="result-cdr" class="result" data-open='false'>
+    <div id="result-cdr" class="result" data-open='false'>
+    </div>
   </div>
 </div>
 
-**edition-rubric**: [in unit 2 of the course](10-beyond-the-book.html#edition-rubric-discussion), I'll be asking to consider what sort of criteria we should use to evaluate a successful online text. As we read, use the "edition-rubric" tag to mark highlights and annotations of passages that you think are relevant to this discussion
+<div id="edition-rubric" markdown="1">
+**edition-rubric**: See [discussion thread](10-beyond-the-book.html#edition-rubric) 
 
-<div>
-  <a class="view-annotations" data-tag='edition-rubric'>View 'edition-rubric' tags</a>
-  <div id="result-edition-rubric" class="result" data-open='false'>
+  <div>
+    <a class="view-annotations" data-tag='edition-rubric'>View 'edition-rubric' tags</a>
+    <div id="result-edition-rubric" class="result" data-open='false'>
+    </div>
   </div>
 </div>
 
+<div id="feedback" markdown="1">
 **feedback**: Use this tag to offer any course feedback. You can go to the [course feedback page](feedback.html) a "page" annotation and leave any feedback you want or leave a feedback comment on any other page. In either case, use the course tag "feedback" so we group these comments together
 
-<div>
-  <a class="view-annotations" data-tag='feedback'>View 'feedback' tags</a>
-  <div id="result-feedback" class="result" data-open='false'>
+  <div>
+    <a class="view-annotations" data-tag='feedback'>View 'feedback' tags</a>
+    <div id="result-feedback" class="result" data-open='false'>
+    </div>
   </div>
 </div>
 
+<div id="glossary" markdown="1">
 **glossary**: the glossary tag should be used for creating an official glossary entry for a key term has emerged in our reading our class discussion. Glossary annotation should be a bit more polished then other entries. Here want to build an official dictionary like list of terms. These entries should be substantive, interesting, and relevant to our course. 
 
 A second entry of the same word or phrase may be permissible, but it has to be justified. We don't want to fill our list with redundant entries. If you just want to add more information or a link to an existing entry, then go to the first annotation and add a reply. But if you think there is a second definition or valence to a word/phrase that justifies a second entry, then by all means add it. But your entry should justify your decision.
 
-<div>
-  <a class="view-annotations" data-tag='glossary'>View 'glossary' tags</a>
-  <div id="result-glossary"  class="result" data-open='false'>
+  <div>
+    <a class="view-annotations" data-tag='glossary'>View 'glossary' tags</a>
+    <div id="result-glossary"  class="result" data-open='false'>
+    </div>
   </div>
 </div>
+
+<div id="gc" markdown="1">
 
 **gc** (glossary candidate): You may come across words that seem technical and important and seem deserving of a glossary entry. By using the 'gc' tag you can identify a word or phrase for yourself and others to come back to when your ready to add an official glossary entry. 
 
-<div>
-  <a class="view-annotations" data-tag='gc'>View 'gc' tags</a>
-  <div id="result-gc"  class="result" data-open='false'>
-  </div>
-</div>
-
-**nc** (needs clarification): While you should feel free to ask lots of open ended questions for yourself, for your classmates, and for me, sometimes there are particularly difficult concepts or ideas being introduced that you want to make sure we go over in our "in-person" class time together. Use the "nc" tag to highlight these areas and then make sure to focus 
-
-<div>
-  <a class="view-annotations" data-tag='nc'>View 'nc' tags</a>
-  <div id="result-nc"  class="result" style="display: none" data-open='false'>
+  <div>
+    <a class="view-annotations" data-tag='gc'>View 'gc' tags</a>
+    <div id="result-gc"  class="result" data-open='false'>
+    </div>
   </div>
 </div>
 
 
-# Crowd Sourced Tags
+<div id="nd" markdown="1">
+**nc** (needs discussion): While you should feel free to ask lots of open ended questions for yourself, for your classmates, and for me, sometimes there are particularly difficult concepts or ideas being introduced that you want to make sure we go over in our "in-person" class time together. Use the "nd" tag to highlight these areas and then make sure to focus 
 
-We should not limit the groupings of our discussion to the above official tags. We should be creative and allow groupings to emerge organically as various discussions take place. Note that annotations can have many tags at the same time.
+  <div>
+    <a class="view-annotations" data-tag='nd'>View 'nd' tags</a>
+    <div id="result-nd"  class="result" style="display: none" data-open='false'>
+    </div>
+  </div>
+</div>
 
-The **edition-rubric** tag above in one such example. It's a tag associated with a particular discussion, and as we continue to find passages that seem relevant to that discussion we can connect this distributed discussion by using the corresponding tag.  
 
-Additionally, we should feel free to be creative and even silly. Feel free to invent any tag you want, you don't need my permission to make a tag; create any tag you want, it can be serious or silly. (e.g. tag: 'RonaLife', 'what!?!?', etc.) 
 
-As certain discussion and crowd sourced tags gain momentum, I will add them to the official list with a short description to help guide further use.
 
 
 

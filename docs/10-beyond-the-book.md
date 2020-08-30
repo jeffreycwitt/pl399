@@ -394,7 +394,7 @@ But before we can do that we have to develop a rubric to identify what success m
 
 I would like to generate this rubric as a class.
 
-<div class="discussion" markdown="1" id="edition-rubric-discussion">
+<div class="discussion" markdown="1" id="edition-rubric">
 
 <span class="respond">What criteria should be using to judge when a "text edition" succeeds? 
 
@@ -404,9 +404,6 @@ I would like to generate this rubric as a class.
 
 <span class="respond">What are some goals that a digital edition might not be well suited for? Why?
 
-Use our annotation tool to respond. Please use the tag 'edition-rubric' so that we can group these discussions together.
-
-Keep in mind the discussion doesn't have to start and stop here. As Nelson suggest we can move in an interconnected and non-linear fashion. So as continue to read, if you find a text passage that seems relevant to our discussion of an edition-rubric, simply annotate it and tag it as "edition-rubric". Then we can group them all together and view them in one [edition rubric discussion](add-link-here) page
 
 </div>
 
