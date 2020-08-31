@@ -72,7 +72,7 @@ A second entry of the same word or phrase may be permissible, but it has to be j
 
 
 <div id="nd" markdown="1">
-**nc** (needs discussion): While you should feel free to ask lots of open ended questions for yourself, for your classmates, and for me, sometimes there are particularly difficult concepts or ideas being introduced that you want to make sure we go over in our "in-person" class time together. Use the "nd" tag to highlight these areas and then make sure to focus 
+**nd** (needs discussion): While you should feel free to ask lots of open ended questions for yourself, for your classmates, and for me, sometimes there are particularly difficult concepts or ideas being introduced that you want to make sure we go over in our "in-person" class time together. Use the "nd" tag to highlight these areas and then make sure to focus 
 
   <div>
     <a class="view-annotations" data-tag='nd'>View 'nd' tags</a>

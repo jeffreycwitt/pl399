@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Annotation Participatoin Expectations and Rubric"
+title: "Annotation Participation Expectations and Rubric"
 ---
 
 

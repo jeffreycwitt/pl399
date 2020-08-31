@@ -20,9 +20,9 @@ Our **Goal** here is to consider:
 
 Why he thinks the "medium" that carries the message has such a big impact. 
 
-As a corollary to this, we also we want to give some early attention to the "modalities" of communications types so that we can begin to see how different media modalities might effect how a message is received. (Much of course will continually reflect on these modalities and their consequences.)
+As a corollary to this, we also we want to give some early attention to the "modalities" of communication types so that we can begin to see how different media modalities might effect how a message is received. (Much of our course will continually reflect on these modalities and their consequences.)
 
-Finally, as we continue to think about McLuhan's thesis, I want to look at parallel ideas from Marx and Marxist theory which will offer some early concrete examples about "material / physical structures" (like a medium) can affect consciousness (of the message that consciousness receives.)
+Finally, as we continue to think about McLuhan's thesis, I want to look at parallel ideas from Marx and Marxist theory which will offer some early concrete examples of how "material / physical structures" (such as a medium) can affect consciousness (of the message that consciousness receives.)
 
 # McLuhan: The Medium is the Message
 
@@ -68,14 +68,12 @@ Sarnoff aims to critique technological pessimists who blame technological advanc
 Consider what Sarnoff's words quoted by McLuhan:
 
 {:#the-products-of}
-TODO: change to new zotero Item MZZ5E5RE
-> "The products of modern science are not good or bad: it is the way they are used that determines their value." <span class="citation" data-reading="ZIS73PZV=>p. 11" data-annotation="https://hyp.is/gvILgtQoEeqHFTdqAEF3zw"/>
+> "The products of modern science are not good or bad: it is the way they are used that determines their value." <span class="citation" data-reading="MZZ5E5RE=>p. 11" data-annotation="https://hyp.is/R61MDuu6Eeq-KccKArW45Q/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/McLuhan_2001_The_Medium_is_the_Message.pdf"/>
 
 We see this position criticized again in McLuhan's critique of Toynbee:
 
 {:#arnold-toynbee}
-TODO: change to new zotero Item MZZ5E5RE
-> "Arnold Toynbee is innocent of any understanding of media as they have shaped history’ but he is full of examples that the student of media can use. At one moment he can seriously suggest that adult education, such as the Workers Educational Association in Britain, is a useful counterforce to the popular press. Toynbee considers that although all of the oriental societies have in our time accepted the industrial technology and its political consequences: “On the cultural plane, however, there is no uniform corresponding tendency.” (Somervell, I. 267) This is like the voice of the literate man, floundering in a milieu of ads, who boasts, “Personally, I pay no attention to ads.” The spiritual and cultural reservations that the oriental peoples may have toward our technology will avail them not at all. The effects of technology do not occur at the level of opinions or concepts, but alter sense ratios or patterns of perception steadily and without any resistance. The serious artist is the only person able to encounter technology with impunity, just because he is an expert aware of the changes in sense perception." <span class="citation" data-reading="ZIS73PZV=>p. 18" data-annotation="https://hyp.is/2QeuqtQoEeq26j_f0OpK1g"/>
+> "Arnold Toynbee is innocent of any understanding of media as they have shaped history’ but he is full of examples that the student of media can use. At one moment he can seriously suggest that adult education, such as the Workers Educational Association in Britain, is a useful counterforce to the popular press. Toynbee considers that although all of the oriental societies have in our time accepted the industrial technology and its political consequences: “On the cultural plane, however, there is no uniform corresponding tendency.” (Somervell, I. 267) This is like the voice of the literate man, floundering in a milieu of ads, who boasts, “Personally, I pay no attention to ads.” The spiritual and cultural reservations that the oriental peoples may have toward our technology will avail them not at all. The effects of technology do not occur at the level of opinions or concepts, but alter sense ratios or patterns of perception steadily and without any resistance. The serious artist is the only person able to encounter technology with impunity, just because he is an expert aware of the changes in sense perception." <span class="citation" data-reading="MZZ5E5RE=>p. 19" data-annotation="https://hyp.is/qv0ZiOu6Eeq_YrM-Si5ZFw/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/McLuhan_2001_The_Medium_is_the_Message.pdf"/>
 
 
 With respect to this quotation: consider the following questions: 
