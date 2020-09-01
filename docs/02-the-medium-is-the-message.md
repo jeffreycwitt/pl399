@@ -130,7 +130,7 @@ Do I care if read a novel or listen to an audio book?
 
 If the message is the same, who cares?
 
-<span class="respond"/> With respect to the above examples, what might be some reasons to think that the medium **does not matter* as Sarnoff suggests?
+<span class="respond"/> With respect to the above examples, what might be some reasons to think that the medium **does not matter** as Sarnoff suggests?
 
 <span class="respond"/> What might be some reasons to think that it **does** matter?
 
