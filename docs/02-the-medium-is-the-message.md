@@ -3,7 +3,7 @@ layout: lecture
 title: "2: The Medium is the Message"
 nav_order: 2
 reading: ["MZZ5E5RE"]
-watchtime: 20
+watchtime: 30
 published: false
 ---
 
@@ -30,18 +30,16 @@ Let's start with a few video clips of McLuhan himself and related clips that try
 
 Watch these videos and then consider the questions below?
 
-
+<div class="video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ImaH51F4HBw?start=118&end=268" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!-- possible clip (https://youtu.be/ImaH51F4HBw?t=118) (1:58 to about 4:28) (includes mention refrain from value judgement)  -->
+<p class="vda">discuss video anchor</p>
+</div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t1axnba_Ueg?t=254" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<!-- other possible clips (https://youtu.be/t1axnba_Ueg?t=254) (medium is not just a neutral tool) -->
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h2dHqdvXsys" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<!-- modern McLuhan clip about online video: https://youtu.be/h2dHqdvXsys -->
-
+<div class="video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OseOb_wBsi4?t=77" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p class="vda">discuss video anchor</p>
+</div>
 
 <!-- clip connection Medium is Message to Internet Technologies https://youtu.be/OseOb_wBsi4?t=77] -->
 
@@ -52,11 +50,11 @@ And let me start with a question:
 {:.question}
 What position or outlook does McLuhan mean to challenge with this pithy saying, "the medium is the message"?
 
-<div class="answer" data-markdown>
-<p>I get the impression that he is frustrated with a position that suggest the specific technology through which receive "information", or a "message" does not affect the ultimate significance of the message.</p>
+<div class="answer" markdown="1">
 
+I get the impression that he is frustrated with a position that suggest the specific technology through which receive "information", or a "message" does not affect the ultimate significance of the message.
 
-<p>By analogy, we might say, "it doesn't matter how we build a house, or weave a rug, or transmit information. What matters at the end of the day is that the house is there, a completed rug is present, or the message has been received.</p>
+By analogy, we might say, "it doesn't matter how we build a house, or weave a rug, or transmit information. What matters at the end of the day is that the house is there, a completed rug is present, or the message has been received.
 </div>
 
 {:.question}
@@ -87,11 +85,12 @@ Here McLuhan is upset with an opinion expressed by Arnold Toynbee, a British his
 {:.question}
 What do you think he means to suggest with his last line about the "serious artist"?
 
-<div class="answer">
-<p>This is a cryptic suggestion, but it worth hanging on to, and I think it might justify and encourage some of the critical reflection we aim to undertake this week. If the medium is the message, then most of the time we operate within the categories created by the medium.</p>
+<div class="answer" markdown="1">
+This is a cryptic suggestion, but it worth hanging on to, and I think it might justify and encourage some of the critical reflection we aim to undertake this week. If the medium is the message, then most of the time we operate within the categories created by the medium.
 
-<p>The possibility of medium shifts, of paradigm shifts, of revolution, requires that despite this dominance people are still able to find a way think outside the box, outside the categories created or enforced by the medium. If we want to shape the future, rather than be completely shaped by it, then, according to McLuhan, "the serious artist" is in some way an exemplar to be imitated.</p>
+The possibility of medium shifts, of paradigm shifts, of revolution, requires that despite this dominance people are still able to find a way think outside the box, outside the categories created or enforced by the medium. If we want to shape the future, rather than be completely shaped by it, then, according to McLuhan, "the serious artist" is in some way an exemplar to be imitated.
 </div>
+
 {:.question}
 Why is the comparison to a person who says "they are not affected by advertisements" particularly biting?
 
@@ -135,19 +134,20 @@ Question: What are the reasons/arguments/evidence that could support Sarnoff's p
 
 Let's consider how  McLuhan might respond. In response to Sarnoff, he writes: 
 
-> p. 11 "It never occurred to General Sarnoff that technology could do anything but add itself to we already are"
+{:#it-has-never-occurred}
+> "It has never occurred to General Sarnoff that technology could do anything but add itself to we already are". <span class="citation" data-reading="MZZ5E5RE=>p. 12" data-annotation="https://hyp.is/-N6r1OvyEeqUK2_dyLEpeQ/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/McLuhan_2001_The_Medium_is_the_Message.pdf"/>
 
 He describes Sarnoff as being asleep or in a kind of hypnosis. 
 
 {:.question}
 According to McLuhan, why can't he see what McLuhan sees? Why is he described as "asleep" or hypnotized?
 
-<div class="answer">
-<p>The description McLuhan gives is similar to the joke about the fish and the water.</p>
+<div class="answer" markdown="1">
+The description McLuhan gives is similar to the joke about the fish and the water.
 
-<p>The joke goes: one fish asks the other, how's the water, and the second fish responds, "what the hell is water".</p>
+The joke goes: one fish asks the other, how's the water, and the second fish responds, "what the hell is water".
 
-<p>The point is that the dominant culture is not experienced as the dominant culture but as the normal or natural.</p>
+The point is that the dominant culture is not experienced as the dominant culture but as the normal or natural.
 </div>
 
 McLuhan's theory about communication or media as an "Extension of Man" runs along similar lines. 
@@ -160,9 +160,9 @@ In this regard, we no longer see this medium or technology as an "extension of o
 
 In many ways McCluhan's analysis is parallel to Marx account of the peculiar Characteristics of "Ruling Ideas" which distinguish themselves from the ideas of other classes because they are experienced NOT as ideas belong to a class, but as the Norm, the Moral, the Rational, and the Natural. 
 
-> This conception of history, which is common to all historians, particularly since the eighteenth century, will necessarily come up against the phenomenon that increasingly abstract ideas hold sway, i.e. ideas which increasingly take on the form of universality. For each new class which puts itself in the place of one ruling before it, is compelled, merely in order to carry through its aim, to represent its interest as the common interest of all the members of society, that is, expressed in ideal form: it has to give its ideas the form of universality, and represent them as the only rational, universally valid ones. The class making a revolution appears from the very start, if only because it is opposed to a class, not as a class but as the representative of the whole of society; it appears as the whole mass of society confronting the one ruling class.
+> "This conception of history, which is common to all historians, particularly since the eighteenth century, will necessarily come up against the phenomenon that increasingly abstract ideas hold sway, i.e. ideas which increasingly take on the form of universality. For each new class which puts itself in the place of one ruling before it, is compelled, merely in order to carry through its aim, to represent its interest as the common interest of all the members of society, that is, expressed in ideal form: it has to give its ideas the form of universality, and represent them as the only rational, universally valid ones. The class making a revolution appears from the very start, if only because it is opposed to a class, not as a class but as the representative of the whole of society; it appears as the whole mass of society confronting the one ruling class." (Karl Marx, German Ideology)
 
-Marx point here is that the dominant culture, precisely because it is **ruling**, is not experienced as the dominant culture, but as the "correct", "the natural" and the "rational". 
+Marx's point here is that the dominant culture, precisely because it is **ruling**, is not experienced as the dominant culture, but as the "correct", "the natural" and the "rational". 
 
 {:.question}
 If the dominant power is experience as the "correct", "natural", "rational", "moral", how will the minority culture be perceived?
@@ -174,7 +174,7 @@ Likely as the "wrong", "unnatural", "irrational", and even "immoral"
 What implications does this have for how a culture might welcome (or reject) a new technology or medium? 
 
 {:.answer}
-If a new technology/medium is introduced which runs counter to the dominant medium it likely will be seen as something more "sinister" than merely an alternative. Rather, it may be see as a threat to a way of life; a threat to certain values; and threat to certain abilities that are regarded as "essential" or "normal" to human life. *You might keep an eye out for this react when we consider certain criticism of new media and worries about the loss of book culture.*
+If a new technology/medium is introduced which runs counter to the dominant medium it likely will be seen as something more "sinister" than merely an alternative. Rather, it may be see as a threat to a way of life; a threat to certain values; and threat to certain abilities that are regarded as "essential" or "normal" to human life. *You might keep an eye out for this reaction when we consider certain criticism of new media and worries about the loss of book culture.*
 
 # Marx 'Life Determines Consciousness'
 
@@ -182,7 +182,7 @@ Marx point here about "ruling ideas" is a consequence of a larger Marxist positi
 
 McLuhan’s thesis can be seen as particular application of Marx insight in the German Ideology. That counter intuitively, “life determines consciousness, rather than consciousness determining life.”
 
-> In direct contrast to German philosophy which descends from heaven to earth, here we ascend from earth to heaven. That is to say, we do not set out from what men say, imagine, conceive, nor from men as narrated, thought of, imagined, conceived, in order to arrive at men in the flesh. We set out from real, active men, and on the basis of their real life-process we demonstrate the development of the ideological reflexes and echoes of this life-process. The phantoms formed in the human brain are also, necessarily, sublimates of their material life-process, which is empirically verifiable and bound to material premises. Morality, religion, metaphysics, all the rest of ideology and their corresponding forms of consciousness, thus no longer retain the semblance of independence. They have no history, no development; but men, developing their material production and their material intercourse, alter, along with this their real existence, their thinking and the products of their thinking. Life is not determined by consciousness, but consciousness by life. In the first method of approach the starting-point is consciousness taken as the living individual; in the second method, which conforms to real life, it is the real living individuals themselves, and consciousness is considered solely as their consciousness. [pdf p. 1-2]
+> In direct contrast to German philosophy which descends from heaven to earth, here we ascend from earth to heaven. That is to say, we do not set out from what men say, imagine, conceive, nor from men as narrated, thought of, imagined, conceived, in order to arrive at men in the flesh. We set out from real, active men, and on the basis of their real life-process we demonstrate the development of the ideological reflexes and echoes of this life-process. The phantoms formed in the human brain are also, necessarily, sublimates of their material life-process, which is empirically verifiable and bound to material premises. Morality, religion, metaphysics, all the rest of ideology and their corresponding forms of consciousness, thus no longer retain the semblance of independence. They have no history, no development; but men, developing their material production and their material intercourse, alter, along with this their real existence, their thinking and the products of their thinking. Life is not determined by consciousness, but consciousness by life. In the first method of approach the starting-point is consciousness taken as the living individual; in the second method, which conforms to real life, it is the real living individuals themselves, and consciousness is considered solely as their consciousness. (Marx, German Ideology]
 
 Marx's aim to overturn a straightforward and naive assumption. 
 
@@ -198,7 +198,10 @@ Let’s think about a related example for a moment from the world of disability 
 
 In this video, give close attention to how mundane physical structures are shaping the way society thinks.
 
+<div class="video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k0HZaPkF6qE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p class="vda">discuss video anchor</p>
+</div>
 
 <div class="discussion">
 
@@ -237,7 +240,6 @@ Because he sees his current life as the norm or natural, he only sees technologi
 
 Accordingly, the vision he has for new technology/new medium are circumscribed within limits of the existing paradigm (limited by water in which swims but remains unaware of). 
 
-
 A relevant example might include ways that our “experience” with print culture with printed books and the surrounding political economy of culture shapes our understanding of what a book, text, edition or information is or should be.
 
 Accordingly, the "ruling idea" or the "right way" to experience information will likely shape or determine or limits the way we think about information, book, texts, or editions within the context of a digital world. 
@@ -261,11 +263,11 @@ I was struck by Sven Birkerts remarks in Gutenberg Elegies: The Fate of Reading 
 {:.question}
 In the above quote, where can see the Marxist idea of a "ruling" or "dominant" idea at work? How does this ruling idea manifest itself as not just the dominant idea but the "natural" or "normal" idea? How is he using this idea to measure or evaluate the worth of alternative media.
 
-<div class="answer">
+<div class="answer" markdown="1">
 
-<p>To be sure, the media shift Birkerts describes may run counter to his “grain” to his default setting, but to describe this as his “natural setting” suggests a kind of nature or attunement independent of technology, to which technology affects an alien force.</p>
+To be sure, the media shift Birkerts describes may run counter to his “grain” to his default setting, but to describe this as his “natural setting” suggests a kind of nature or attunement independent of technology, to which technology affects an alien force.
 
-<p>From McLuhan’s perspective, surely the habits and attunements that Birkerts has are themselves the product of habitual familiarity with a technological medium that have become so pervasive that he experiences them as "natural" rather than the product of a dominant medium.</p>
+From McLuhan’s perspective, surely the habits and attunements that Birkerts has are themselves the product of habitual familiarity with a technological medium that have become so pervasive that he experiences them as "natural" rather than the product of a dominant medium.
 
 </div>
 
@@ -276,17 +278,17 @@ Birkert's oversight of the way the "dominant medium" (with which he grew up) is 
 {:.question}
 Is there something odd about the distinction between "language" on the one hand and "technology" on the other hand?
 
-<div class="answer">
+<div class="answer" markdown="1">
 
-<p>I hope that as we discuss the readings for tomorrow, particularly those by Walter Ong it will be clear how much written language and literature is as much as a technology and medium carrying a message as the bits travelling through circuit boards, and that there is nothing natural about this.</p>
+I hope that as we discuss latter readings, particularly those by Walter Ong it will be clear how much written language and literature is as much as a technology and medium carrying a message as the bits travelling through circuit boards, and that there is nothing natural about this.
 
-<p>The fact that Birkerts thinks this is a natural and even pits language against technology seems to me clear evidence of the strength of McLuhan's thesis.</p>
+The fact that Birkerts thinks this is a natural and even pits language against technology seems to me clear evidence of the strength of McLuhan's thesis.
 
 </div>
 
 # In sum: Two Large Course Questions
 
-In sum: If Marshal McLuhan’s thesis is correct that, the “medium and not just the message affect consciousness, then there are two central questions that I would like to hover over our work this week."
+In sum: If Marshal McLuhan’s thesis is correct that, the “medium and not just the message affect consciousness", then I think we should reiterate two central questions [mentioned in lesson 1](01-introduction.html#two-guiding-course-questions):
 
 * How do technology/media shifts affect consciousness?
 
@@ -308,25 +310,42 @@ One way to do this is to begin thinking of communication "types" and the kinds o
 
 McLuhan certain has something like this in mind when he distinguishes between "hot" and "cold" media. 
 
-> [need quote from McLuhan reading here]
+{:#there-is-a-basic}
+> "There is a basic principle that distinguishes a hot medium like radio from a cool one like the telephone, or a hot medium like the movie from a cool one like TV A hot medium is one that extends one single sense in "high definition." High definition is the state of being well filled with data. A photograph is, visually, "high definition." A cartoon is "low definition," simply because very little visual information is provided. Telephone is a cool medium, or one of low definition, because the ear is given a meager amount of information. And speech is a cool medium of . low definition, because so little is given and so much has to be filled in by the listener."
+<span class="citation" data-reading="QHGGLSI2=>p. 24" data-annotation="https://hyp.is/SR1B_uv0EeqY74MUXzxZ6w/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/McLuhan_2001_Media_Hot_and_Cold.pdf"/>
 
-{:.question}
-What does he mean by "hot" and "cold"? What are some of the characteristics associated with each type? Can you anticipate ways that these characteristics might affect how a message is received. 
+And again
 
-{:.answer}
-[need possible answer here]
+{:#hot-media-are-therefore}
+> Hot media are, therefore, low in participation, and cool media are high in participation or completion by the audience. Naturally, therefore, a hot medium like radio has very different effects on the user from a cool medium like the telephone. <span class="citation" data-reading="QHGGLSI2=>p. 25" data-annotation="https://hyp.is/WF-mXOv0Eeqb2PN44ox9mw/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/McLuhan_2001_Media_Hot_and_Cold.pdf"/>
+
+
+Consider this video which mention McLuhan's idea of print as "hot" medium while television is a "cool" medium.
+
+<div class="video">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h2dHqdvXsys" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- modern McLuhan clip about online video: https://youtu.be/h2dHqdvXsys discusses hot and cold; could be used below -->
+<p class="vda">discuss video anchor</p>
+</div>
+
+{:.rquestion}
+What does McLuhan mean by "hot" and "cold"? What are some of the characteristics (or "modalities") associated with each type? Can you anticipate ways that these characteristics might affect how a message is received by human beings?
 
 As a provisional summary, I have identified a few characteristics that are repeatedly emphasized as having a considerable affect on how a message is received and the overall social impact of that message. 
 
 I hope this is a list we can develop and refine during our semester of reading together. 
 
+**Participation (McLuhan's Hot and Cold)** 
+
+What kind of participation does the medium invite or encourage?
+
 **Speed**
 
-How fast the medium allows the message to be communicated?
+How fast (and at what cost) the medium allows the message to be communicated?
 
 **Scale** 
 
-How many messages the medium can accommodate?
+How many messages (and at what cost) can the medium accommodate?
 
 **Identity**
 
