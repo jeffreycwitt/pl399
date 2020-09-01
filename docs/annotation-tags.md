@@ -27,6 +27,17 @@ If you want to suggest that a tag be added to this list, then just annotate this
   </div>
 </div>
 
+<div id="does-medium-matter" markdown="1">
+**does-medium-matter**: See [discussion thread](02-the-medium-is-the-message.html#does-medium-matter) 
+
+  <div>
+    <a class="view-annotations" data-tag='does-medium-matter'>View 'does-medium-matter' tags</a>
+    <div id="result-does-medium-matter" class="result" data-open='false'>
+    </div>
+  </div>
+</div>
+
+
 <div id="edition-rubric" markdown="1">
 **edition-rubric**: See [discussion thread](10-beyond-the-book.html#edition-rubric) 
 
@@ -76,7 +87,7 @@ A second entry of the same word or phrase may be permissible, but it has to be j
 
   <div>
     <a class="view-annotations" data-tag='nd'>View 'nd' tags</a>
-    <div id="result-nd"  class="result" style="display: none" data-open='false'>
+    <div id="result-nd"  class="result" data-open='false'>
     </div>
   </div>
 </div>
