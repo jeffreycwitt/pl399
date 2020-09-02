@@ -371,11 +371,11 @@ While a speaker on TV is visible, their identity seems significantly revealed. T
 {:.question} 
 What about writing a letter? Is this completely anonymous? How might changing the medium with which a letter is written affect this question? Does writing a letter by hand reveal more than typing a letter? What about the delivery mechanism of a letter? How does this reveal the identity of receiver and sender?
 
-<div class="answer">
+<div class="answer" markdown="1">
 Compared to TV or Radio a message via letter seems to carry more anonymity, especially if it is left unsigned. But a handwritten letter certainly leaves traces of identity. A letter typed on a typewriter might reveal even less. 
 
 Perhaps it is still possible to track identity of a letter written on a type writer by inspecting the ink quality and tracing that back to a particular type of manufacturer. But here we need to see that "market costs" are also relevant factors for considering the modalities of a medium. Perhaps instead of saying "harder" or "easier" to track identity, we might ask, which media make it cheaper or more expensive to track identity. In a world of limited resources, this modulations between cheap and expensive will have dramatic impacts on the practical effects of whether or not a medium will reveal identity. And of course, human actors will be aware of these costs and they will directly affect human behavior, for good or ill, of those using the medium.
-
+</div>
     
 **Connectivity Type**
     
