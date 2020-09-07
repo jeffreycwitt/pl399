@@ -15,18 +15,6 @@ If you want to suggest that a tag be added to this list, then just annotate this
 
 ## List of Known Tags
 
-
-<div id="cdr" markdown="1">
-**cdr** (class discussion report): Each class discussion will have an assigned "secretary" or "class reporter". As class reporter, your job is create a page annotation (as well as text anchored annotations) for each lesson discussed during the discussion and to tag it as 'cdr'. Then anyone can come back to the page for a given lesson, filter for the 'cdr' annotations on that page and get nice summary of our in class discussions.
-
-  <div>
-    <a class="view-annotations" data-tag='cdr'>View 'cdr' tags</a>
-
-    <div id="result-cdr" class="result" data-open='false'>
-    </div>
-  </div>
-</div>
-
 <div id="does-medium-matter" markdown="1">
 **does-medium-matter**: See [discussion thread](02-the-medium-is-the-message.html#does-medium-matter) 
 
@@ -92,6 +80,15 @@ A second entry of the same word or phrase may be permissible, but it has to be j
   </div>
 </div>
 
+<div id="orality-pros-cons" markdown="1">
+**orality-pros-cons**: See [discussion thread](03-from-orality-to-litteracy.html#orality-pros-cons) 
+
+  <div>
+    <a class="view-annotations" data-tag='edition-rubric'>View 'orality-pros-cons' tags</a>
+    <div id="result-orality-pros-cons" class="result" data-open='false'>
+    </div>
+  </div>
+</div>
 
 
 
