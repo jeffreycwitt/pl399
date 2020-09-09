@@ -84,7 +84,7 @@ A second entry of the same word or phrase may be permissible, but it has to be j
 **orality-pros-cons**: See [discussion thread](03-from-orality-to-litteracy.html#orality-pros-cons) 
 
   <div>
-    <a class="view-annotations" data-tag='edition-rubric'>View 'orality-pros-cons' tags</a>
+    <a class="view-annotations" data-tag='orality-pros-cons'>View 'orality-pros-cons' tags</a>
     <div id="result-orality-pros-cons" class="result" data-open='false'>
     </div>
   </div>
