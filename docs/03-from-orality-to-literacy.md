@@ -563,7 +563,8 @@ In particular, I'd like to ask you about our modern understanding of this word "
 {:.rquestion}
 What does it mean for something to be "published" and to what degree does that align or not align with "making something public"?
 
-{:.rquestion} If I post a blog entry on a public website, is it public? is it "published"?
+{:.rquestion} 
+If I post a blog entry on a public website, is it public? is it "published"?
 
 With some reflection, we can recognize that several distinct and separable functions are combined in this word "published", in which the task of making something accessible to the public is only one small part. 
 
