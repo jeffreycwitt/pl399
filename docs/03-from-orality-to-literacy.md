@@ -250,15 +250,19 @@ In contrast, the dead written word has at least three drawbacks:
 <span class="citation" data-reading="78FP4M3A" data-annotation="https://hyp.is/DGXRgvHZEeqjvlv2qHaBOw/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Plato_Phaedrus.pdf"/>
 
 
-<div class="discussion" id="orality-pros-cons">
+<div class="discussion" id="orality-pros-cons" markdown="1">
 
 <p>Question: What do we think about this?</p>
 
-<p><span class="respond"/> Do we think Socrates is correct?</p>
-<p><span class="respond"/> Is there some defect to our reliance on the world of books?</p>
-<p><span class="respond"/> Why does Socrates see "reminiscence" as less valuable than "memory"? How does fit with his ideal of knowledge as "union" of the soul with the forms?</p>
-<p><span class="respond"/> Is there something Socrates is missing?</p>
-<p><span class="respond"/> Do we agree with Socrates' goals or do we think there are purposes for books that he has not recognized?</p>
+<span class="respond"/> Do we think Socrates is correct?
+
+<span class="respond"/> Is there some defect to our reliance on the world of books?
+
+<span class="respond"/> Why does Socrates see "reminiscence" as less valuable than "memory"? How does fit with his ideal of knowledge as "union" of the soul with the forms?
+
+<span class="respond"/> Is there something Socrates is missing?
+
+<span class="respond"/> Do we agree with Socrates' goals or do we think there are purposes for books that he has not recognized?
 
 </div>
 
