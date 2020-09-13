@@ -4,6 +4,7 @@ title: "4: Wires, Codes, and New Ideas"
 reading: ["SN4EQIZ5=>cc. 4-5"]
 date: 2020-09-13
 nav_order: 4
+watchtime: 20
 published: true
 ---
 
