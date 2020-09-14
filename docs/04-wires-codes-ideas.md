@@ -34,13 +34,13 @@ You can see a modern reproduction of the machine here.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/be1EM3gQkAY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Gleick also noted that Babbage was fascinated with the Jacquard Loom, which you can see here
+Gleick also noted that Babbage was fascinated with the Jacquard Loom, which you can see here:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MQzpLLhN0fY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div class="discussion">
 
-<span class="response"/>What do Babbage's "differential machine" and the Jacquard Loom have to contribute to the history Gleick is telling.
+<span class="response"/>What do Babbage's "differential machine" (consider p. 95) and the Jacquard Loom (consider p. 109) have to contribute to the history of information that Gleick is telling?
 
 <span class="response"/> What kind of new thinking do they both require?
 
