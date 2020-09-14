@@ -26,6 +26,27 @@ But our goal here remains similar. We want to observe the way new technological 
 
 More specifically, it is with the invention of the telegraph that we will see new a kind of circular and almost self-referential process: new media pushing us to ask new questions about what a "medium" is and forcing us to  generate a new concept of the true medium of communication.
 
+# Babbage and the Jacquard Loom
+
+Before turning to the telegraph, it's worth pausing and reflecting on why Gleick devotes a chapter to Charles Babbage and his difference machine. 
+
+You can see a modern reproduction of the machine here. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/be1EM3gQkAY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Gleick also noted that Babbage was fascinated with the Jacquard Loom, which you can see here
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MQzpLLhN0fY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="discussion">
+
+<span class="response"/>What do Babbage's "differential machine" and the Jacquard Loom have to contribute to the history Gleick is telling.
+
+<span class="response"/> What kind of new thinking do they both require?
+
+<span class="response"/> How they push us think about information, physical media differently, and messages differently?
+
+</div>
 
 # Telegraph and New Abstractions
 
