@@ -38,7 +38,7 @@ Gleick also noted that Babbage was fascinated with the Jacquard Loom, which you 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MQzpLLhN0fY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<div class="discussion">
+<div class="discussion" markdown="1">
 
 <span class="response"/>What do Babbage's "differential machine" (consider p. 95) and the Jacquard Loom (consider p. 109) have to contribute to the history of information that Gleick is telling?
 
