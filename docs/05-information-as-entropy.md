@@ -39,7 +39,7 @@ Shannon's breakthrough is related to an insight we started to see in our [earlie
 Ong noted that in verbal communications there are hundreds of "communicative redundancies" present in our verbal communication in order to assure the error-free transmission of the message. 
 
 {:#to-make-yourself-clear}
-> "To make yourself clear without gesture, without facial expression, without intonation, without a real hearer, you have to foresee circumspectly all possible meanings of a statement may have for a possible reader in any possible situation, and you have to make your language work so as to come clear all by itself, with no existential context. The need for this exquisite circumspection makes writing the agonizing work it commonly is." <span class="citation" data-reading="MKVLEEA6=>p. 101" data-annotation="https://hyp.is/cpWMJNXQEeqOdIe8DF4few/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Writing_Restructures_Consciousness,_chapter_4.pdf">
+> "To make yourself clear without gesture, without facial expression, without intonation, without a real hearer, you have to foresee circumspectly all possible meanings of a statement may have for a possible reader in any possible situation, and you have to make your language work so as to come clear all by itself, with no existential context. The need for this exquisite circumspection makes writing the agonizing work it commonly is." <span class="citation" data-reading="MKVLEEA6=>p. 101" data-annotation="https://hyp.is/cpWMJNXQEeqOdIe8DF4few/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ong_2002_Writing_Restructures_Consciousness,_chapter_4.pdf"/>
 
 Shannon noticed the same kinds of redundancies in our visual encoding of information. 
 
@@ -170,7 +170,7 @@ Because we know the tie happens 50 percent of the time, we know the second quest
 
 So, we can have something like: 
 
-$$H = -(1/2 log_2 1/2) - (1/4 log_2 1/4) - (1/4 log_2 1/4) = 0.5 + 0. 5 + 0.5 = 1.5 $$
+$$H = -(1/2 log_2 1/2) - (1/4 log_2 1/4) - (1/4 log_2 1/4) = 0.5 + 0. 5 + 0.5 = 1.5$$
 
 Or the probability of three outcomes instead of four will be 1/3 instead of 1/4, so we would have something like: 
 
@@ -223,6 +223,7 @@ Take a look at a printed text near you. Nearly any text will do. With a pencil, 
 Then draw and label lines between boxes to indicate the relationship that exists between data types. ("child" "next", "source", "reference", etc.)
 
 For example:
+
 <div class="image" markdown="1">
 ![text-data-types.png](https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/text-data-types.jpg)
 <p class="vda">discuss image anchor</p>
@@ -230,7 +231,7 @@ For example:
 
 Then ask yourself
 
-<span class="response"/>	How many data-types are communicated?
+<span class="response"/>How many data-types are communicated?
 
 <span class="response"/>	How are these data types "visually encoded"? 
 
@@ -239,6 +240,7 @@ Then ask yourself
 <span class="response"/>	How many context clues are required to ensure that this information is transmitted?
 
 <span class="response"/>	Are there places where data-types are unclear or ambiguous? Where is a guess required? Is the same visual formatting used to mark more than one data type?
+
 </div>
 
 The tendency of the book paradigm is to record the **look**, and then expect the reader to understand the intention (meaning, semantics) behind this "look". That is, the reader is expected understand that the text in visualized in this or that way because the author intends the data, so formatted, to be understood as having this or that purpose/function.
