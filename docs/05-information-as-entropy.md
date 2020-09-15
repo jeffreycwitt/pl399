@@ -143,120 +143,125 @@ Let's say we are watching a coin toss game and we want to communicate who won th
 
 The intuitive thing to do is to communicate the scores. 
 
-Either the Tie (00), Player 1 Wins (10), Player 2 Wins (01)
+Either the Tie (00) or (11), Player 1 Wins (10), Player 2 Wins (01)
 
-In a coin toss, we have a set of 2 (heads or tails) and to communicate the score, we have to communicate the result of each player. 
+Thus in a coin toss, we have a set of possible outcomes (00, 11, 10, 01) each with 1/4 probability
 
-So, we need the entropy of (1) player 1's result and the entropy of (2) player 2's result.
+So we need to compute entropy of this channel, or the amount of information a channel would need to help in order to communicate these scores
 
-$$H_1 = -\sum_{i=1}^{n=2}p_i log_2 p_i = -2(1/2 log_2 1/2) = 1$$
+$$H = -\sum_{i=1}^{n=4}p_i log_2 p_i = -4(1/4 log_2 1/4) = 0.5 + 0.5 + 0.5 + 0.5 = 2$$
 
-$$H_2 = -\sum_{i=1}^{n=2}p_i log_2 p_i = -2(1/2 log_2 1/2) = 1$$
-
-
-In total, it will always take 2 ($$H_1 + H_2$$) bits to communicate the full context of this game and the "look" of the end result.
+In total, it will always take 2 bits (differences) to communicate the full context of this game and the "look" of the end result.
 
 But again, Shannon asks us to consider more precisely what we are trying to communicate when we communicate the "look" of the end result of the game.
 
-The information we want to communicate is the winner, but the way we are communicating is by transmitting the "the full results of the entire context" without thinking about the precise information needed to successfully communicate. Not being precise, creates redundancies that can be helpful when extracting semantics, but can also be distracting noise that makes it hard to communicate without understanding semantics.
+The information we want to communicate is the winner, but the way we are communicating is by transmitting the "the full results of the game" without thinking about the precise information needed to successfully communicate. Not being precise, creates redundancies that can be helpful when extracting semantics, but can also be distracting and confusing noise that makes it hard to communicate without understanding semantics.
 
-If we want to communicate the information precisely and not merely the visual "look" of the game, we can do so more efficiently by being more precise. 
+If we want to communicate the information precisely and not merely by the visual "look" of the game, we can do so more efficiently by being more precise. 
 	
 We can always send player 1's score, and then only send further bits when it was not a tie. 
 
-In this case the probability of sending a second bit is affected by the previous, a **dependent variable**. Its value or presence depends on what came before.
+This will change the available outcomes in our set from four (00 tie, 11 tie, 10 win, 01 lose) to (1 or 0 tie, 11 win, 01 lose). 
+
+It will also change the probabilities of the second bit, as its probability will be affected by the previous outcome. Thus it is a **dependent variable**. Its value or presence depends on what came before.
  <!-- markov chain, dependent variable -->
 
-Because we know the tie happens 50 percent of the time, we know the second question will have to be asked half the time, and therefore the probability of either result is 1/4.
+Because we know the tie happens 50 percent of the time, we know the second question will have to be asked half the time, and therefore the probability of either result is 1/4 (rather than 1/2). 
 
 So, we can have something like: 
 
-Player one's score (computed as above):
+$$H = -(1/2 log_2 1/2) - (1/4 log_2 1/4) - (1/4 log_2 1/4) = 0.5 + 0. 5 + 0.5 = 1.5 $$
 
-$$H_1 = -2(1/2 log_2 1/2) = 1$$
+Or the probability of three outcomes instead of four will be 1/3 instead of 1/4, so we would have something like: 
 
-But since the players "tie" half of the time (and in these cases we do not transmit), we only need half as much information to communicate the rest of the game.
+$$H = -\sum_{i=1}^{n=3}p_i log_2 p_i = -3(1/3 log_2 1/3) = 0.5 + 0.5 + 0.5 = 1.5$$
 
-Or 
+Instead of taking 2 bits to communicate the outcome of the game, it now only takes 1.5. 
 
-$$H_2 / 2 = -2(1/2 log_2 1/2)/2 = 1/2 = .5$$
+Or said differently, it will takes on average 1.5 yes/no questions to figure out who won the game.
 
-So to communicate this difference we have a new calculation: 
-
-Combined the maximum number of bits to communicate the essential information is therefore not 2, but always 1.5 ($$H_1 + H_2 / 2$$)
-
-Here precision about what we want to communicate allows us to be more efficient. Because we interested in the the outcome as win, lose, or tie., not necessarily in "how" a tie was created, we can reduce the amount of information need in order to communicate this.
+Here precision about what we want to communicate allows us to be more efficient. Because we are interested in the the outcome as win, lose, or tie., not necessarily in "how" a tie was created, we can reduce the amount of information needed in order to communicate this.
 
 Further, when we are less efficient, we are also less precise, making semantic-free communication and automatic processing more difficult. 
 
-When we communicate the the tie in both way (heads, heads) (tails, tails) are communicating four possible results instead of the desired three (win, lose, tie). A further step of interpretations is required to understand that (heads, heads) **means** (semantics) the same thing (a tie.)
+When we communicate the tie in both way (heads, heads) (tails, tails), we are communicating four possible results instead of the desired three (win, lose, tie). A further step of interpretation is now required to understand that (heads, heads) **means** (semantics) the same thing (tails, tails).
 
 **In sum** 
 
-What are we trying to communicate? Our instinct was to communicate the "look" of the game. But this gives us four results (win, lose, tie, tie) when we really want to communicate three results (win, lose, tie). The "look" of the outcome is not just more inefficient it creates ambiguities. 
+What are we trying to communicate? Our instinct was to communicate the "look" of the game. But this gives us four results (win, lose, tie, tie) when we really want to communicate three results (win, lose, tie). The "look" of the outcome is not just more inefficient, it creates ambiguities. 
 
-In contrast Shannon's focus on efficiency, also forces us to encode our communication more precisely, in ways that allow for automatic communication and processing with requiring the understanding of semantics.
+In contrast, Shannon's focus on efficiency us to encode our communication more precisely, in ways that allow for automatic communication and processing without requiring the understanding of underlying semantics.
 
 # Application: Beyond visual encoding.
 
-Let's step back a little from these details and consider some downstream effect. 
+Let's step back a little from these details and consider some downstream effects. 
 
-As noted, of considerable importance in the manner in which Shannon's concern for efficiency forces us to be more precise about we want to communicate. 
+As noted, of considerable importance is the manner in which Shannon's concern for efficiency forces us to be more precise about what we want to communicate. 
 
-And this precision is a key part of what allows for the automatic transference of a message across multiple media. 
+And this precision is a key part of what allows for the automatic transference of a message across multiple media types. 
 
 I'd like to think about this with a concrete consideration of how we "visually encode" the "look of a text" and why this has historically tethered our texts to a particular presentation and made automatic transformations difficult.
 
-In contrast, when we think about encoding the features of our texts as elements with a predefined set, we find that this kind of automatic transformation becomes possible at a dramatic scale. 
+In contrast, when we think about encoding the features of our texts as explicit data-types within a predefined set, we find that this kind of automatic transformation becomes possible at a dramatic scale. 
 
-So, here instead of continuing to babble, I'd like to do an exercise. 
+To facilitate this exercise, it will be helpful to introduce a few distinctions or technical terms. 
 
-I'd like to try to thematize the "visual enccoding" of the printed book and identify the amount of different types of information are present in a text and to identify how they are "encoded".
+What we are saying here is that printed books are secretly filled with "data" *about* "data". But this **metadata** is usually so tightly tethered to the presentation of the book medium itself that it often fades into the background and escapes our direct notice. We see it, use it, and interpret it constantly to get access to the message. But in our eagerness to arrive at the message, we rarely thematize it. 
 
-To facilitate this exercise, I think it will be helpful to introduce a few distinctions or technical terms. 
+For example, the text of a heading and the text of paragraph are both data, but we instinctively know that the "heading data" should be read differently than that "paragraph data". 
 
-What we are saying here is that printed books are secretly filled with "data" about "data". But this **metadata** is usually so tightly tethered to presentation of the book medium itself that it often fades into the background and escapes our direct notice. We see it, use it, and interpret it constantly to get access to the message. But in our eagerness to arrive at the message, we rarely thematize it. 
+Our awareness that a particular string functions in special way (as a "heading" or as a "paragraph") shows our awareness that this string of data belongs to a particular class or type of data. We sometimes call these "data-types".
 
-For example, the text of heading and the text of paragraph are both data, but we instinctively know that the "heading data" should be read differently than that "paragraph data". 
-
-Our awareness that a particular string function in special way (as a "heading" or as a "paragraph") shows our awareness that this string of data belongs to a particular class or type of data. We sometimes call these "data-types".
-
-Further, there are "relationships" asserted between the heading and the paragraph or division to which this heading is a heading. The kind of "relationship" is another kind of data type and each specific relationship is the data communicated.
+Further, there are "relationships" asserted between other data types (e.g. paragraphs or divisions to which this heading applies). The types of "relationships" is another kind of data-type and each specific relationship is the data communicated.
 
 How do we recognize this? Where do we get this information? How does the printed text communicate this?
 
 <div class="discussion" markdown="1">
 
-Take a look at a printed text near you. With a pencil, draw boxes around distinct data types, and give that data-type a name. 
+Take a look at a printed text near you. Nearly any text will do. With a pencil, draw boxes around distinct data types that you see and give that data-type a name. 
 
-Then draw lines between boxes to indicate relationships between different data types and classify the different kinds of relationships that are present. 
+Then draw and label lines between boxes to indicate the relationship that exists between data types. ("child" "next", "source", "reference", etc.)
 
-<span class="response"/>	How many datatypes are communicated?
-<span class="response"/>	How are these data types "visually encoded"? 
-<span class="response"/>	What are the context clues that indicate this?
-<span class="response"/>	How many context clues are required to ensure that this information is transmitted?
-<span class="response"/>	Where is the data type unclear ambiguous, where is a guess required? What context information is being used to facilitate this guess?
+For example:
+<div class="image" markdown="1">
+![text-data-types.png](https://s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/text-data-types.jpg)
+<p class="vda">discuss image anchor</p>
 </div>
 
-The tendency of the book paradigm is to record the **look**, and the expect the reader to understand the intention (meaning, semantics) behind this "look", namely that the text in visualized in this or that way because the author intends it to be understood as having this or that purpose.
+Then ask yourself
 
-But Shannon's pursuit of efficiency pushes us to think more precisely. Aren't we really just trying to communicate this data-type, which is a symbol with a finite set of symbols. If so, what if instead of communicating the visual "look" of our text, expecting further interpretation, we could instead directly label the text with one of the data-types within the predefined set of data-types.
+<span class="response"/>	How many data-types are communicated?
+
+<span class="response"/>	How are these data types "visually encoded"? 
+
+<span class="response"/>	What are the visual context clues that indicate tell you the function or role of a text string?
+
+<span class="response"/>	How many context clues are required to ensure that this information is transmitted?
+
+<span class="response"/>	Are there places where data-types are unclear or ambiguous? Where is a guess required? Is the same visual formatting used to mark more than one data type?
+</div>
+
+The tendency of the book paradigm is to record the **look**, and then expect the reader to understand the intention (meaning, semantics) behind this "look". That is, the reader is expected understand that the text in visualized in this or that way because the author intends the data, so formatted, to be understood as having this or that purpose/function.
+
+But Shannon's pursuit of efficiency pushes us to think more precisely. Aren't we really just trying to communicate a data-type, which is a symbol with a finite set of symbols. If so, what if, instead of communicating the visual "look" of our text, expecting further interpretation, we could directly label the text with one of the data-types within the predefined set of data-types.
 
 In such a case, no human interpreter would be required to mediate the transition from one "look" to another "look" or from one media representation to another. It could be automated. 
 
 Consider the example below: 
 
-Here I have encoded a "recipe" and then "displayed". Flip over to the "result" tab to see the display. Here you can see that I encoded things by their look: "blue" or "italic".
+Here I have encoded a "recipe" and then "displayed" it. Flip over to the "result" tab to see the display. Here you can see that I encoded things by their look: "blue" or "italic".
 
 <iframe src="https://jsfiddle.net/tuaes2xn/3/embedded/html,css,result/dark/" width="100%" style="min-height: 500px"></iframe>
 
-In the example below, you can see that I've encoded things differently, but describing not how I want something to look but what type of thing it is. But if you flip over to the result tab, you can see that I've displayed it in the same way.
+In the next example below, you can see that I've encoded things differently, by describing, not how I want something to look, but what type of thing it is. But if you flip over to the result tab, you can see that I've displayed it in the same way.
 
 <iframe src="https://jsfiddle.net/1haj53mr/embedded/html,css,result/dark/" width="100%" style="min-height: 500px"></iframe>
 
-The benefit of the latter approach comes in the ability to automatically transform things. Imagine that I no longer when the "headings" and "measurements" to be blue. Because I have encoded the headings as "heading" and measurement as "measure" rather than as blue. It easy for me to change the styling of headings to "bold" and measurements to "red". But this would be impossible in the first example. 
+The benefit of the latter approach comes in the ability to automatically transform presentations without requiring a re-encoding. Imagine that I no longer when the "headings" and "measurements" to be blue. Because I have encoded the headings as "heading" and measurement as "measure" rather than as "blue". It is easy for me to change the styling of headings to "bold" and measurements to "red". (See the result tab). 
 
-The first example would require RE-ENCODING. I would have to go back through each of the "blue" things and interpret the semantics, figure out which things are blue because they are headings and which things are blue because they are measurements, and only after that act of human interpretation could the transformation be made.
+But this would have been impossible with the first approach. 
+
+The first example would require a RE-ENCODING. I would have to go back through each of the "blue" things and interpret the semantics, figure out which things are "blue" because they are headings and which things are "blue" because they are measurements, and only after that act of human interpretation could the transformation be made.
 
 <iframe src="https://jsfiddle.net/mvt093fr/9/embedded/html,css,result/dark/" width="100%" style="min-height: 500px"></iframe>
 
