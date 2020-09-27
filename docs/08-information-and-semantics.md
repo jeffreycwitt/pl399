@@ -49,15 +49,18 @@ The second question is whether this "naturalization" can be extended to the seco
 Before we consider why Fred Dretske thinks this might be possible, let's look at why some people think it is not possible. A common thought experiment invoked against this idea of "naturalization" is John Searle's thought experiment known as the "Chinese Room".
 
 <div class="video">
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D0MD4sRHj1M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<span class="vda">
+<span class="vda"/>
+
 </div>
 
 <div class="video">
 And here is John Searle himself explaining the "Chinese Room" argument
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/18SXA-G2peY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- <span class="vda">
+ <span class="vda"/>
+
 </div>
 
 You can also read more about his experiment [here in the article, "The Chinese Room Argument", Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/chinese-room/)
@@ -203,7 +206,7 @@ The point is: once these concepts have a emerged, intentional states can follow 
 
 As the reading state: 
 
-> Knowledge of concepts is a form of  type-level  knowledge,  and  that  is  what  is  required  for  symbolic  communication. <span class="citation" data-reading="3JMTBWNW=>p. 50" data-annotation="https://hyp.is/kobCAgDBEeuYPMst64Q7DQ/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ilari_2013_Naturalized_Information,_chapter_3.pdf">
+> "Knowledge of concepts is a form of  type-level  knowledge,  and  that  is  what  is  required  for  symbolic  communication." <span class="citation" data-reading="3JMTBWNW=>p. 50" data-annotation="https://hyp.is/kobCAgDBEeuYPMst64Q7DQ/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Ilari_2013_Naturalized_Information,_chapter_3.pdf">
 
 ## In sum
 
@@ -212,4 +215,4 @@ I recognize this is hard reading. Once again our goal is to get **a sense** of t
 * What is Dretske trying to explain?
 * What view is Dretske opposing? Why does this opposing view think the "naturalization of semantic content" is impossible?
 * What does Dretske think will be a sign that someone or something understands semantics/meaning?
-* How does the invocation of type-level information become a way for Dretske to describe when something has understood a "meaning" (This is the probable the most difficult question for us, but given our goals, the precise details of this move are the least important.)
+* How does the invocation of type-level information become a way for Dretske to describe when something has understood a "meaning" (This is the probably the most difficult question for us, but, given our goals, the precise details of this move are the least important.)
