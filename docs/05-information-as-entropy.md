@@ -2,7 +2,7 @@
 layout: lecture
 title: "5: Information as Entropy"
 reading: ["SN4EQIZ5=>cc. 6-7"]
-data: 2020-09-15
+date: 2020-09-15
 nav_order: 5
 published: true
 ---
