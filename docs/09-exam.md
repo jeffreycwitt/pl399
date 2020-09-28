@@ -8,7 +8,7 @@ published: true
 
 # Exam Format 
 
-The exam format will consist of two parts. (1) A question sections composed primarily of multiple choice questions and (2) then two essay questions asking you to explore and articulate some of the big ideas we've been discussing.
+The exam format will consist of two parts. (1) A question section composed primarily of multiple choice or short answer questions and (2) then two essay questions asking you to explore and articulate some of the big ideas we've been discussing.
 
 # Key Ideas
 
@@ -49,13 +49,13 @@ The exam format will consist of two parts. (1) A question sections composed prim
   * Psychology
   * Physics 
   * Biology
-  * Even Philosophy of Language/Semantics (see our discussion of Dretske)
+  * Even Philosophy of Language/Semantics (see our discussion of Searle and Dretske)
 
 <div class="discussion" markdown="1">
 
-<span class="response"> What else should be added to this list?
+<span class="respond"/> What else should be added to this list?
 
-<span class="response"> Based on our reading of Gleick, everyone please offer one "multiple choice question" that they think would be a good example exam question. Then tell us why this would be a good question.
+<span class="respond"/> Based on our reading of Gleick, everyone please offer one "multiple choice question" that they think would be a good example exam question. Then tell us why this would be a good question.
 
 </div>
 
@@ -65,7 +65,7 @@ The exam format will consist of two parts. (1) A question sections composed prim
 
 Exam essay questions are usually designed to ask to students identify or recognize "big ideas" that are at work throughout the different examples and chapters we've been looking at. The essay is then a chance for students to show that they recognize this trend and can explain how it is at work in specific cases. 
 
-<span class="response"> Thus, what do you think are the "big ideas" that have been resurfacing over the course of our reading?
+<span class="respond"/> Thus, what do you think are the "big ideas" that have been resurfacing over the course of our reading?
 
-<span class="response"> Offer an example of an "essay prompt" that would invite you to explain one of these big ideas in some depth.
+<span class="respond"/> Offer an example of an "essay prompt" that would invite you to explain one of these big ideas across the different examples and chapters we've been discussing.
 </div>
