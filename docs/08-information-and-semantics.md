@@ -48,10 +48,11 @@ The second question is whether this "naturalization" can be extended to the seco
 
 Before we consider why Fred Dretske thinks this might be possible, let's look at why some people think it is not possible. A common thought experiment invoked against this idea of "naturalization" is John Searle's thought experiment known as the "Chinese Room".
 
-<div class="video">
+<div class="video" markdown="1">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D0MD4sRHj1M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<span class="vda"/>
+
+<p class="vda">discuss video anchor</p>
 
 </div>
 
@@ -59,7 +60,8 @@ Before we consider why Fred Dretske thinks this might be possible, let's look at
 And here is John Searle himself explaining the "Chinese Room" argument
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/18SXA-G2peY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- <span class="vda"/>
+ 
+<p class="vda">discuss video anchor</p>
 
 </div>
 
