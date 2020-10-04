@@ -2,7 +2,7 @@
 layout: lecture
 title: "10: Beyond the Book"
 nav_order: 10
-reading: ["JNA89KWB", "PYUMRPFD", "K5L5DYVS", "V2BN56HW", "KUZITWWR"]
+reading: ["JNA89KWB", "PYUMRPFD", "K5L5DYVS", "V2BN56HW", "KUZITWWR=>focus, p. 85"]
 date: 2020-10-04
 published: true
 watchtime: 27
