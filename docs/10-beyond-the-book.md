@@ -25,7 +25,7 @@ Before diving into our reading I want to identify some of the general questions 
 
 Then, as we turn to our first readings for this unit, I want to look at some of the early pioneers of networked communication. Here our goal is to see some of the early criticism of the medium of the book and observe what might possible when information becomes machine actionable and automatically transferable from one lower level medium to another. 
 
-## Reading as a latent ambiguitie
+## Reading as a latent ambiguity
 
 To start let me introduce a concept that will re-occur in our reading later. This idea is the notion of "Latent Ambiguity" as introduce by Lawrence Lessig in his book "Code". For now it is enough to summarize.
 

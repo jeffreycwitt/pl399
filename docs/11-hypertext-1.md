@@ -142,31 +142,30 @@ But as the article relates, Nupedia failed.
 {:rquestion}
 Similarly, why the might the inability to think of the text as a container for a series of smaller text chunks have prevented collaboration and slowed the process?
 
-Wikipedia was then invented "on the side", original intended to be "quick" (Wiki being the Hawaiian word for "quick") entries that could help speed up the progress of Nupedia. But why was it quick? How did the idea of hyperlinks and the "death of the author" contribute to this quickness? 
+Wikipedia was then invented "on the side", original intended to be "quick" (Wiki being the Hawaiian word for "quick") entries that could help speed up the progress of Nupedia. But why was it so quick? How did the idea of "text chunks" connected via hyperlink and the "death of the author" contribute to this quickness? 
 
-Because individual contributions could be linked together anyone could contribute, authorship became collaborative, effectively destroying the associations of power, authority, and prestige that are normally associated with the author. 
+Because individual contributions could be linked together, anyone could contribute any amount. Authorship became collaborative, effectively destroying the associations of power, authority, and prestige that are normally associated with the "author". 
 
-And stripped of these "author function", people felt free to make contributions quickly, in small bursts, and with the unrealizable expectations that society expects of the "author genius".
+And stripped of these "author functions", people felt free to make contributions quickly, in small (connectable) chunks, and without the unrealizable expectations that society expects of the "author genius".
 
-As the author article notes, the speed and scale with which Wikipedia outpassed Nupedia was astonishing. 
+As the article notes, the speed and scale with which Wikipedia outpaced Nupedia was astonishing. 
 
 > The initial purpose was to get the public to add entries that would then be “fed into the Nupedia process” of authorization. Most of Nupedia’s expert volunteers, however, wanted nothing to do with this, so Sanger decided to launch a separate site called “Wikipedia.” Neither Sanger nor Wales looked on Wikipedia as anything more than a lark. This is evident in Sanger’s flip announcement of Wikipedia to the Nupedia discussion list. “Humor me,” he wrote. “Go there and add a little article. It will take all of five or ten minutes.” And, to Sanger’s surprise, go they did. Within a few days, Wikipedia outstripped Nupedia in terms of quantity, if not quality, and a small community developed. In late January, Sanger created a Wikipedia discussion list (Wikipedia-L) to facilitate discussion of the project. At the end of January, Wikipedia had seventeen “real” articles (entries with more than 200 characters). By the end of February, it had 150; March, 572; April, 835; May, 1,300; June, 1,700; July, 2,400; August, 3,700. At the end of the year, the site boasted approximately 15,000 articles and about 350 “Wikipedians.”
 
 ### Example 2
 
-Landow gives his own example to support Foucault's notion that "author" means more than mere "writer" but is laden with social ideas about "power" and "authority" which affects how a society and culture operates.
+Landow gives his own example to support Foucault's notion that "author" means more than mere "writer", but is laden with social ideas about "power" and "authority" which affects how a society and culture operates.
 
 On p. 139 Landow reports that an anecdote about how the University of British Columbia refused to consider co-authored works for promotion. 
 
-Here we might ask, in the manner of Foucault, is the University merely "responding" to some natural idea about the important independent genius of the author? Or conversely, is the institution itself helping to construct the idea of authorship, defining the rules of when someone gets to be counted as an author, and the work ought to count as being an "authored work" (with all the prestige and importance this implies. )
+Here we might ask, in the manner of Foucault, is the university merely "responding" to some natural idea about the important independent genius of the author (Authors = "individuals" who individually write books)? Or conversely, is the institution itself helping to construct the idea of authorship, defining the rules of when someone gets to be counted as an "author" and when a textual work ought to count as being an "authored work" (with all the prestige and importance that this implies)?
 
 
 Landow writes: 
 
-> but now I wish to point out that as scholars from McLuhan and Eisenstein to Ede and Lunsford have long argued, book technology and the attitudes it supports are the institutions most responsible for maintaining **exaggerated** notions of authorial individuality, uniqueness, and ownership that often drastically **falsify** the conception of original contributions in the humanities and convey **distorted** pictures of research. (p. 140)
+> "but now I wish to point out that as scholars from McLuhan and Eisenstein to Ede and Lunsford have long argued, book technology and the attitudes it supports are the institutions most responsible for maintaining **exaggerated** notions of authorial individuality, uniqueness, and ownership that often drastically **falsify** the conception of original contributions in the humanities and convey **distorted** pictures of research." (p. 140)
 
-This quotation introduces evaluative language ("exaggerated", "falsify", "distorted"). The suggestion is that the idea of authorship that our institutions and dominant medium construct are not harmless, but have an effect our ability to accurately see the world. 
-
+This quotation introduces evaluative language ("exaggerated", "falsify", "distorted"). The suggestion is that the idea of authorship that our institutions and dominant media construct are not harmless, but have an effect on our ability to accurately see the world. 
 
 So, here we might ask: 
 
@@ -177,30 +176,34 @@ One answer among many might be...
 
 Book technologies (and supporting institutions) that construct or perpetuate the idea of the isolated author have produced corresponding reward systems. Scholars looking to get jobs, keep jobs, and get promotions then must play into this game. 
 
-The result is a "publishing mill" that generates at best redundancy and more likely a lot of nonsense, while devaluing other kinds of knowledge activities, perhaps more dialogical ones like teaching, dialogue, public lecturing, collaborative projects, translation, editing of primary texts, etc.
+The result is a "publishing mill" that generates, at best, redundancy, and more likely, a lot of nonsense. 
 
-Another example might be the way sole authorship creates an exaggerated idea of property, i.e. intellectual property, which negatively affects future research progress (See Landow p. 14). As "ideas" are transformed into property, laws of property begin to control and exclude how others might absorb and use these, once common, but now privately owned ideas. (See Landow, bottom of pg. 140)
+Considering this [study](https://arxiv.org/ftp/physics/papers/0701/0701012.pdf) which suggests ([not without controversy and disagreement](https://blogs.lse.ac.uk/impactofsocialsciences/2014/04/23/academic-papers-citation-rates-remler/)) that "nearly 90% of papers in academic journals are never cited". While this number may be high, it suggests that much of what "authors" are producing to keep their jobs and get promoted is never read or used.
+
+At the same consider how these same evaluation and promotion standards might be devaluing other kinds of valuable knowledge activities; perhaps more dialogical activities like teaching, dialogue, public lecturing, collaborative projects, translation, editing of primary texts, etc.
+
+Another example might be the way sole authorship creates an exaggerated idea of property, i.e. intellectual property, which negatively affects future research progress. As "ideas" are transformed into property, laws of property begin to control and exclude how others might absorb and use these, once common, but now privately owned ideas. (See Landow, bottom of pg. 140)
 
 Hypertext authorship often challenges or complicates this.
 
-For example: Is it possible to see this complication in the construction of our own class annotations on articles, many of which are technically still in copyright.
+For example: Is it possible to see this conflict in the construction of our own class annotations on articles, many of which are technically still in copyright?
 
-Our annotations are tethered to the anchored text, but at the same time our annotations are not the property of the original author. 
+Our annotations are tethered to the anchoring text, but at the same time our annotations are not the property of the original author. 
 
-However, remove the underlying article and our annotations are less powerful and meaningful. As hypertext writers become co-dependent, do we also become co-owners? Or conversely, do copyright laws end up privileging one kind of writing while diminishing another form. 
+However, if we remove the underlying article, our annotations are less powerful and meaningful. As hypertext writers become co-dependent, do we also become co-owners? Or conversely, do copyright laws end up privileging one kind of writing, while diminishing or threatening another form. 
 
-In general, I would say intellectual property laws do not handle well, precisely they have been invented for a world where one kind of writing was dominant. And now that a new technology has emerged, where a new kind of writing is possible, we find that these laws are not working as well. (We will see this issue of copyright and intellectual property emerge again when we read Lessig later in the Semester.)
+In general, I would say intellectual property laws do not handle these new situations well, precisely they have been invented for a world where one kind of writing was dominant. Now that a new technology has emerged where a new kind of writing is possible, we find that these laws are not adapting well to the new context. (We will see this issue of copyright and intellectual property emerge again when we read Lessig later in the Semester.)
 
 ## Landow and the possibilities of hypertext writing
 
-Finally let end with just a little bit of reflection on what hypertext writing might look like. 
+Finally let's end with just a little bit of reflection on what hypertext writing might look like according to Landow. 
 
 <div class="discussion" markdown="1">
 
 In the section title "How the Print Author Differs from the Hypertext Author" (pp. 131-135)...
 
-<span class="respond"> What are some of things that Landow thinks the "hypertext" writer an do that the tradition writer cannot? Why does he see these as positive?
-Let me end with just a few question about Landow's survey of writing a hypertext
+<span class="respond"> What are some of things that Landow thinks the "hypertext" writers can do that the traditional writer cannot? Why does he see these as positive?
+</div>
 
 <!-- ## In Sum: The Post Structuralists Critique
 
