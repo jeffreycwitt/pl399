@@ -96,9 +96,11 @@ Let's turn now to a consideration of writing in the age of hypertext. First let'
 
 <div class="discussion" markdown="1">
 
-<span class="respond"> Why is Barthes concerned with the idea of an author? What does the author is or should be dead? 
+<span class="respond"> Why is Barthes concerned with the idea of an "author"? What does he think the "author" is (or should) be dead? 
 
 <span class="respond"> If you had to summarize this article in one sentence, how would you describe Barthes' central message or thesis?
+
+(Note that I've added several question annotations to the text itself; please consider these questions as you read.)
 </div>
 
 ## Foucault 
