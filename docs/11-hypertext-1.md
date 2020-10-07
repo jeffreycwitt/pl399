@@ -139,7 +139,8 @@ But as the article relates, Nupedia failed.
 
 > "Then there was the real problem: production. Sanger and the Nupedia board had worked out a multistage editorial system that could have been borrowed from any scholarly journal. In a sense, it worked: assignments were made, articles were submitted and evaluated, and copyediting was done. But, to both Wales and Sanger, it was all much too slow."
 
-{:rquestion} Why do you think it was so slow? How might the ideas of power and authority that we associate with the "author function" be slowing down the work of contributors and the peer-review process? 
+{:rquestion} 
+Why do you think it was so slow? How might the ideas of power and authority that we associate with the "author function" be slowing down the work of contributors and the peer-review process? 
 
 {:rquestion}
 Similarly, why the might the inability to think of the text as a container for a series of smaller text chunks have prevented collaboration and slowed the process?
