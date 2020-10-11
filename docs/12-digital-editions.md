@@ -10,7 +10,7 @@ date: 2020-10-11
 {: .no_toc .text-delta } 
 
 
-# Sample Digital Editions Review
+# Example Reviews of Digital Editions
 
 Consider some of the reviews of digital scholarly editions written by other scholars [https://ride.i-d-e.de/](https://ride.i-d-e.de/). Before our class meeting on Monday, October 12, please try to have looked at and annotated at least one review. 
 
