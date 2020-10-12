@@ -98,7 +98,7 @@ A second entry of the same word or phrase may be permissible, but it has to be j
 
 <style>
   #main-content a {
-    white-space: normal
+    white-space: normal;
   }
   .result{
     display: none; 
