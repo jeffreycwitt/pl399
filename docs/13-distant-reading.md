@@ -1,12 +1,12 @@
 ---
 layout: lecture
 title: "13: Distant Reading and Distant Writing"
-reading: ["YCUSFWXI", "BL386AX3", "Q6K5EM4E", "R29TCBQA", "HZSRCCAL", "4MXHYS44"]
+reading: ["UDFASSFK=>focus 54-58", "YCUSFWXI=>focus pp. 207-219, 225-227", "BL386AX3=>focus, pp. 1-8, 15-16", "R29TCBQA=>focus, 'Introduction'", 'WXUV48X3', "EG5GDCPK", "HZSRCCAL", "4MXHYS44"]
 nav_order: 13
 published: false
 ---
 
-<!-- daily nous on GPT3 R29TCBQA; GPT-3 example 1, HZSRCCAL, GPT-3 example 2 4MXHYS44-->
+<!-- conjectures on world literature, UDFASSFK; daily nous on GPT3 R29TCBQA; zimmerman WXUV48X3; Nguyen EG5GDCPK;  GPT-3 example 1, HZSRCCAL, GPT-3 example 2 4MXHYS44-->
 ## Table of contents
 {: .no_toc .text-delta } 
 1. TOC 
@@ -14,7 +14,7 @@ published: false
 
 # Review 
 
-As we've discussed, three main categories where people have expressed an interest in the digital medium as open up new possibilities or overcoming limitations in the old medim are: 
+As we've discussed, three main categories where people have expressed an interest in the digital medium as open up new possibilities or overcoming limitations in the old medium are: 
 
 * access immediacy (Bush, What is a Text (OHCO))
 * interconnectivity (Bush Nelson)
@@ -67,7 +67,7 @@ a new method.'2 That's the point: world literature is not an object, it's
 a problem, and a problem that asks for a new critical method: and no
 one has ever found a method by just reading more texts. That's not how
 theories come into being; they need a leap, a wager-a hypothesis, to
-get started. (Moretti, 200, p. 55)
+get started. (Moretti, 2000, p. 55)
 
 {:.question}
 And again in the "Slaughterhouse of literature" (2000)
@@ -82,7 +82,7 @@ only about 0.5 percent of all published novels.
 
 # How are canons made?
 
-**Section goal** Here we are interested in how a cannon is formed, how available media and the nature/limits of human attention drives us toward canons, and the degree to which canons are beneficial or harmful.
+**Section goal** Here we are interested in how a canon is formed, how available media and the nature/limits of human attention drives us toward canons, and the degree to which canons are beneficial or harmful.
 
 <div class="discussion" markdown="1">
 
@@ -166,11 +166,8 @@ Let's discuss this.
 
 </div>
 
-## Moretti's Second Experiment (p. 219-223)
 
-(p. 219-223)
-
-## In sum: Moretti's valuation of distant reading
+<!-- ## In sum: Moretti's valuation of distant reading
 
 p. 227, consider Moretti final summary of the value of "trees" as kind of "opening up.
 
@@ -190,7 +187,7 @@ Form analysis
 <span class="respond"/> What kinds of "distortions" imposed by a small, human-sized, canon might be overcome by these kinds of methods?
 
 <span class="respond"/> Might these kinds of methods impose new "distortions"? What examples can you think of?
-</div>
+</div> -->
 
 # Critiques of Distant Reading 
 
@@ -198,30 +195,21 @@ Form analysis
 
 Let's be quick here as our goal is to not to nit pick with one approach over the other, but to generally understand the kinds of concern that can be raised. 
 
-{.question} 
-What are Ascari's main concerns with Moretti's approach? Can we boil it down to 2 or 3 issues?
+<div class="discussion" markdown="1">
+<span class="respond"/> What are Ascari's main concerns with Moretti's approach? Can we boil it down to 2 or 3 issues?
 
-<div class="answer">
+TODO: add one paragraph summarizing Ascari's cconcern
 
-Here are some of the main issues I've identified
-
-1. [one]
-1. [two]
-1. [tree]
-
-</div>
-
-## Marche - "Big data is coming for your books" 
+<!-- ## Marche - "Big data is coming for your books" 
 
 Marche, (https://lareviewofbooks.org/article/literature-is-not-data-against-digital-humanities/) (This would be a good one, its general and accessible. Fun to use the hypothesis to see public comments as well)
 
 Marche makes the sharp claim that "literature is not data". 
 
-[I wonder if this could parallel some of the discussion of Dretske from earlier, about the mysterious process of extracting semantics from information, but perhaps here it is "literature" from data.]
+[I wonder if this could parallel some of the discussion of Dretske from earlier, about the mysterious process of extracting semantics from information, but perhaps here it is "literature" from data.] -->
 
 
-
-# "Distant Writing" ???
+# "Distant Writing"
 
 Finally, let's end with a provocative little foray into the future. 
 
@@ -232,7 +220,7 @@ What might that look like? Here are a few examples.
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I asked GPT-3 to write a response to the philosophical essays written about it by <a href="https://twitter.com/DrZimmermann?ref_src=twsrc%5Etfw">@DrZimmermann</a>, <a href="https://twitter.com/rinireg?ref_src=twsrc%5Etfw">@rinireg</a> <a href="https://twitter.com/ShannonVallor?ref_src=twsrc%5Etfw">@ShannonVallor</a>, <a href="https://twitter.com/add_hawk?ref_src=twsrc%5Etfw">@add_hawk</a>, <a href="https://twitter.com/AmandaAskell?ref_src=twsrc%5Etfw">@AmandaAskell</a>, <a href="https://twitter.com/dioscuri?ref_src=twsrc%5Etfw">@dioscuri</a>, David Chalmers, Carlos Montemayor, and Justin Khoo published yesterday by <a href="https://twitter.com/DailyNousEditor?ref_src=twsrc%5Etfw">@DailyNousEditor</a>. It&#39;s quite remarkable! <a href="https://t.co/W1PVlsHdu4">pic.twitter.com/W1PVlsHdu4</a></p>&mdash; Raphaël Millière (@raphamilliere) <a href="https://twitter.com/raphamilliere/status/1289129723310886912?ref_src=twsrc%5Etfw">July 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 More explanation: https://threadreaderapp.com/thread/1289226960279764992.html
-[i saved two pdf output linked to the tweet]
+<!-- [i saved two pdf output linked to the tweet] -->
 
 Is this an example of computer writing or a new form of human writing? 
 
@@ -240,12 +228,11 @@ Is this an example of computer writing or a new form of human writing?
 
 
 
-GPT-3 examples of writing
-see https://medium.com/jasonwu0731/the-ginormous-language-model-and-its-api-gpt-3-b669928600e0
-see https://transformer.huggingface.co/
-see https://en.wikipedia.org/wiki/Computational_journalism
-
-https://inferkit.com/ (paid service)
+Here some other examples of GPT-3 writing:
+* https://medium.com/jasonwu0731/the-ginormous-language-model-and-its-api-gpt-3-b669928600e0
+* https://transformer.huggingface.co/
+* https://en.wikipedia.org/wiki/Computational_journalism
+* https://inferkit.com/ (paid service)
 
 
 <div class="discussion">
