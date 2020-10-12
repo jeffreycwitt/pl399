@@ -28,9 +28,16 @@ The *RIDE* journal also includes its own criteria for evaluation [https://www.i-
 
 Our assignment for this unit is to write our own digital edition review. For this assignment you will work in pairs.
 
-With your partner you should find an existing digital edition of interest. You can use the
-[catalogue of digital editions](https://dig-ed-cat.acdh.oeaw.ac.at/) or 
-list of [digital scholarly editions](https://digitale-edition.de/exist/apps/editions-browser/$app/index.html) to see a list of several known editions. Many of these editions will be in a various states. Some will be very old, some will be incomplete. Look for an edition that seems fairly current and complete. Consider also looking for an edition of a text or author that you are already familiar with, perhaps a text you are already familiar in some print version.
+With your partner you should find an existing digital edition of interest. 
+Here are few links to many attempts to create online editions: 
+* [catalogue of digital editions](https://dig-ed-cat.acdh.oeaw.ac.at/) 
+* [digital scholarly editions](https://digitale-edition.de/exist/apps/editions-browser/$app/index.html) 
+* [18th century connect](https://18thconnect.org/)
+* [Nines](https://nines.org/)
+* [Modnets](https://modnets.org/)
+* [Mesa](https://mesa-medieval.org/)
+
+Many of these editions will be in a various states. Some will be very old, some will be incomplete. Look for an edition that seems fairly current and complete. Consider also looking for an edition of a text or author that you are already familiar with, perhaps a text you are already familiar in some print version.
 
 <span class="respond"/> With an annotation, let me and the class know which edition you've selected, or which editions you are considering for review. 
 
