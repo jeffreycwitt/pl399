@@ -45,7 +45,7 @@ function tryRefresh(refreshToken){
       success(d, successData);
     }, //3b comes with new credentials as direct data response
     error: function(){
-      window.location = '/pl399/login'; //3c
+      window.location = '/pl339/login'; //3c
     }
   });
 }
