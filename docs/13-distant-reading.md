@@ -136,14 +136,14 @@ While there are many methods of computer assisted analysis, "Topic Modelling" is
 
 Here are a few bog posts that describe the process and its application in the humanities: 
 
-* https://www.matthewjockers.net/2011/09/29/the-lda-buffet-is-now-open-or-latent-dirichlet-allocation-for-english-majors/
-* https://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/
-* https://digitalhumanities.berkeley.edu/blog/16/07/14/topic-modeling-what-humanists-actually-do-it-guest-post-teddy-roland-university
+* [https://www.matthewjockers.net/2011/09/29/the-lda-buffet-is-now-open-or-latent-dirichlet-allocation-for-english-majors/](https://www.matthewjockers.net/2011/09/29/the-lda-buffet-is-now-open-or-latent-dirichlet-allocation-for-english-majors/)
+* [https://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/](https://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/)
+* [https://digitalhumanities.berkeley.edu/blog/16/07/14/topic-modeling-what-humanists-actually-do-it-guest-post-teddy-roland-university](https://digitalhumanities.berkeley.edu/blog/16/07/14/topic-modeling-what-humanists-actually-do-it-guest-post-teddy-roland-university)
 
 Here's one quick description of what it does: 
 
 > "If a computer were shown many academic articles, it might discover that articles containing the word reading frequently include others like interpretation, criticism, discourse. Without foreknowledge of these words' meanings, it could statistically learn that there is a useful relationship between them. In turn, the computer would be able to identify articles in which this cluster of words seems to be prominent, corresponding to humanist methods.
-This process is popularly referred to as topic modeling, since it attempts to capture a list of many topics (that is, statistical word clusters) that would describe a given set of texts." (https://digitalhumanities.berkeley.edu/blog/16/07/14/topic-modeling-what-humanists-actually-do-it-guest-post-teddy-roland-university )
+This process is popularly referred to as topic modeling, since it attempts to capture a list of many topics (that is, statistical word clusters) that would describe a given set of texts." [https://digitalhumanities.berkeley.edu/blog/16/07/14/topic-modeling-what-humanists-actually-do-it-guest-post-teddy-roland-university](https://digitalhumanities.berkeley.edu/blog/16/07/14/topic-modeling-what-humanists-actually-do-it-guest-post-teddy-roland-university )
 
 
 # Ascari's concerns with "Distant Reading"
