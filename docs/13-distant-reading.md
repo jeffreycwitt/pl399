@@ -184,7 +184,7 @@ What might that look like? Here are a few examples.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I asked GPT-3 to write a response to the philosophical essays written about it by <a href="https://twitter.com/DrZimmermann?ref_src=twsrc%5Etfw">@DrZimmermann</a>, <a href="https://twitter.com/rinireg?ref_src=twsrc%5Etfw">@rinireg</a> <a href="https://twitter.com/ShannonVallor?ref_src=twsrc%5Etfw">@ShannonVallor</a>, <a href="https://twitter.com/add_hawk?ref_src=twsrc%5Etfw">@add_hawk</a>, <a href="https://twitter.com/AmandaAskell?ref_src=twsrc%5Etfw">@AmandaAskell</a>, <a href="https://twitter.com/dioscuri?ref_src=twsrc%5Etfw">@dioscuri</a>, David Chalmers, Carlos Montemayor, and Justin Khoo published yesterday by <a href="https://twitter.com/DailyNousEditor?ref_src=twsrc%5Etfw">@DailyNousEditor</a>. It&#39;s quite remarkable! <a href="https://t.co/W1PVlsHdu4">pic.twitter.com/W1PVlsHdu4</a></p>&mdash; Raphaël Millière (@raphamilliere) <a href="https://twitter.com/raphamilliere/status/1289129723310886912?ref_src=twsrc%5Etfw">July 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-More explanation: https://threadreaderapp.com/thread/1289226960279764992.html
+More explanation: [https://threadreaderapp.com/thread/1289226960279764992.html](https://digitalhumanities.berkeley.edu/blog/16/07/14/topic-modeling-what-humanists-actually-do-it-guest-post-teddy-roland-university)
 
 <div class="discussion" markdown="1">
 
@@ -198,19 +198,19 @@ Consider this tweet:
 
 
 Here some other examples of GPT-3 writing:
-* https://medium.com/jasonwu0731/the-ginormous-language-model-and-its-api-gpt-3-b669928600e0
-* https://transformer.huggingface.co/
-* https://en.wikipedia.org/wiki/Computational_journalism
-* https://inferkit.com/ (paid service)
+* [https://medium.com/jasonwu0731/the-ginormous-language-model-and-its-api-gpt-3-b669928600e0](https://medium.com/jasonwu0731/the-ginormous-language-model-and-its-api-gpt-3-b669928600e0)
+* [https://transformer.huggingface.co/](https://transformer.huggingface.co/)
+* [https://en.wikipedia.org/wiki/Computational_journalism](https://en.wikipedia.org/wiki/Computational_journalism)
+* [https://inferkit.com/](https://inferkit.com/) (a paid service)
 
 
 <div class="discussion" markdown="1">
 
 <span class="respond"/> Is the possibility of "distant writing" an example of a "Latent Ambiguity"? 
 
-Why would have never previously had to ask if writing to a communicate is a good or bad thing? 
+Why would we have never previously had to ask if "writing to communicate" is a good or bad thing? 
 
-If it is a latent ambiguity and we must now for the first time deliberate over the value of writing in many genres, when no longer compelled to write by sheer necessity, how should we evaluate this development?
+If it is a latent ambiguity and we must now for the first time deliberate over the value of writing in many genres when no longer compelled to write by sheer necessity, how should we evaluate this development?
 
 <span class="respond"/> If a machine can write legal briefs, sports summaries, and entertainment reports and humans are no longer needed to write such articles, is that a good thing or a bad thing? Are there distinction to be made here? Is it good if humans no longer have to do certain kinds of writing, but bad if all human generated writing stops? What are the distinguishing characteristics?
 
