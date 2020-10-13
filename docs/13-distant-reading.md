@@ -3,6 +3,7 @@ layout: lecture
 title: "13: Distant Reading and Distant Writing"
 reading: ["UDFASSFK=>focus 54-58", "YCUSFWXI=>focus pp. 207-219, 225-227", "BL386AX3=>focus, pp. 1-8, 15-16", "R29TCBQA=>focus, 'Introduction'", 'WXUV48X3', "EG5GDCPK", "HZSRCCAL", "4MXHYS44"]
 nav_order: 13
+date: 2020-10-13
 published: true
 ---
 
