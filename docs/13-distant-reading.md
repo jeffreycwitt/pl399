@@ -146,7 +146,7 @@ Here's one quick description of what it does:
 This process is popularly referred to as topic modeling, since it attempts to capture a list of many topics (that is, statistical word clusters) that would describe a given set of texts." (https://digitalhumanities.berkeley.edu/blog/16/07/14/topic-modeling-what-humanists-actually-do-it-guest-post-teddy-roland-university )
 
 
-# Ascari' concerns with "Distant Reading"
+# Ascari's concerns with "Distant Reading"
 
 As I read Acari critique, the central thrust his specific concern parallels a common general critique of uses of big data (topic modelling included). 
 
