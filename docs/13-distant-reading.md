@@ -50,10 +50,10 @@ grasped as such, as a whole..." (Moretti, 2003, p. 67-68)
 
 How does this concern resurface in his essay, "Conjectures on World Literature"?
 
-<span class="respond"/>: What is world literature?
-<span class="respond"/>: What does it aim to study?
-<span class="respond"/>: What does problems or concerns does it raise about national literature?
-<span class="respond"/>: What does he mean by the "great unread" (Moretti, 2000, 55n1)
+<span class="respond"/> What is world literature?
+<span class="respond"/> What does it aim to study?
+<span class="respond"/> What does problems or concerns does it raise about national literature?
+<span class="respond"/> What does he mean by the "great unread" (Moretti, 2000, 55n1)
 
 </div>
 
