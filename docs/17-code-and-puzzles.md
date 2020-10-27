@@ -119,7 +119,7 @@ Finally, Lessig points to the theme of competing sovereigns.
 
 Here let my provide a few of my own reflections as I read chapter 2.
 
-One part cyber space which Lessig describes that always, at first glance, strikes me as strange is the fact that people spend real **real american dollars** to build virtual "homes", "buildings", "cities", and "poisonous flowers". In short they spend real money and real time to build virtual "property" in "virtual space". Why?
+One part of cyberspace which Lessig describes that always, at first glance, strikes me as strange is the fact that people spend **real american dollars** to build virtual "homes", "buildings", "cities", and "poisonous flowers". In short they spend real money and real time to build virtual "property" in "virtual space". Why?
 
 To many, this might seem like the concern of fringe groups, not relevant to the majority of people. But I think with a little reflection we can begin to understand its relevance. 
 
@@ -175,7 +175,7 @@ The question then is not should cyberspace be regulated or can cyberspace be reg
 
 Consider again the Zoom case linked to above. If Zoom feels that certain content will be a liability for them, it is in their financial interest to shut down their space. This is a kind of regulation. But the regulation reveals certain kind of values; the value of minimizing financial risk. But this value comes at the cost of their public goods, such open discussion and access to multiple view points. Lessig wants to ask: are we prepared to ceded these regulating decisions that finance the information systems we use, or is it important that the public interest also has a voice in how access to "space" gets controlled.
 
-Finally, this brings us back to a question we've raised before. How much do we, as none "coders", need to know about the architecture of the cyberspace? If we neglect to understand the mechanics of this medium -- a medium that is quickly becoming the sole means of our access to information -- will we, the public, be **capable** of having an influence on the system that determines who does and does not get to enter the "house"?
+Finally, this brings us back to a question we've raised before. How much do we, as "non-coders", need to know about the architecture of the cyberspace? If we neglect to understand the mechanics of this medium -- a medium that is quickly becoming the sole means of our access to information -- will we, the public, be **capable** of having an influence on the system that determines who does and does not get to enter the "house"?
 
 
 
