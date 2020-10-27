@@ -15,7 +15,7 @@ published: true
 
 # Lessig Chapter 1
 
-<div class="discussion">
+<div class="discussion" markdown="1">
 
 <span class="respond"/> What is Lessig's thesis for this book? What is the main thing he wants his reader to take away?
 
@@ -93,7 +93,7 @@ So as an opening reflection, in each of these examples I want to look for the fo
 
 # Four themes 
 
-<div class="dicussion" markdown="1">
+<div class="discussion" markdown="1">
 
 Lessig ties his example of Boreal to the theme of "regulation". 
 
