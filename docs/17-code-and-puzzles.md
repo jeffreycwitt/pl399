@@ -97,19 +97,19 @@ So as an opening reflection, in each of these examples I want to look for the fo
 
 Lessig ties his example of Boreal to the theme of "regulation". 
 
-<span class="respond"/> What does he want to about regulation in part of one of his book?
+<span class="respond"/> What does he want to say about regulation in part of one of his book?
 
 Next Lessig ties his example of MMOG to the the theme of "regulation by code". 
 
-<span class="respond"/> Why does it at first seem like cyberspace might be "unregulable" and why does Lessig want us to see that the first impression is wrong? Why is cyberspace still "regulated" if it traditional forms of regulation (see in the Boreal example) no longer seem to work?
+<span class="respond"/> Why does it at first seem like cyberspace might be "un-regulable"? Why does Lessig want us to see that this first impression is wrong? Why is cyberspace still "regulated" even if traditional forms of regulation (see the Boreal example) no longer seem to work?
 
 Next Lessig ties his example of "Worms that sniff" to a "Latent Ambiguity". 
 
-While we've talk about Latent Ambiguities before consider again what Lessig means by a "Latent Ambiguity". 
+While we've talk about "Latent Ambiguities" before, consider again what Lessig means by a "Latent Ambiguity". 
 
-<span class="respond"/> Why does he think this new space, its new logic, and the unintended consequences of traditional regulation lead to numerous "Latent ambiguities". How is this illustrated in the case of the "Worms that Sniff"
+<span class="respond"/> Why does he think this new space, its new logic, and the unintended consequences of traditional regulation lead to numerous "Latent ambiguities"? How is this illustrated in the case of the "Worms that Sniff"
 
-Finally, Lessig points to the theme of competing sovereigns. 
+Finally, Lessig points to the theme of "competing sovereigns". 
 
 <span class="respond"/> What does he mean by "competing sovereigns" and why does this pose a challenge for resolving latent ambiguities with new regulation in the realm of cyber space.
 
