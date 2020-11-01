@@ -183,7 +183,9 @@ This plea for involvement is something that Lessig states at the beginning of ch
 
 <span class="respond"/> If Lessig is correct about the need for the general public to understand how the Internet works, what then is different about cars and the Internet.
 
-<span class="respond"/> In a way Loyola, by including a computer science course in the core has implicitly said that "computer literacy" is important, not just for computer scientist, but for general citizens no matter what there major is? If you've taken your CS course already, do you agree? Why? If not, how might you change the course in light of Lessig's plea and reflections in these chapters?
+In a way, Loyola, by including a computer science course in the core has implicitly said that "computer literacy" is important, not just for computer scientists, but for general citizens no matter what there major is.
+
+<span class="respond"/>  If you've taken your CS course already, do you agree? Why? If not, how might you change the course in light of Lessig's plea and reflections in these chapters?
 
 </div>
 
