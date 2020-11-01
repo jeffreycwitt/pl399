@@ -103,7 +103,7 @@ Let's look at some of the ways control and identity layers are being added to th
 
 <span class="respond"/> How do ISPs create a way to trace a request back to a source or identity?
 
-<span class="respond"/> [Use this link to find your ip address](https://whatismyipaddress.com/). When you send a request your ip address gets transmitted (so that a response can be set back). So how much can website learn about you from your ip address?
+<span class="respond"/> [Use this link to find your ip address](https://whatismyipaddress.com/). [Also try this link](https://www.whatismyip.com/my-ip-information/?iref=homegb). When you send a request your ip address gets transmitted (so that a response can be set back). So how much can website learn about you from your ip address?
 
 <span class="respond"/> In what way it possible to still use the Internet and avoid these revelations of identity.
 
