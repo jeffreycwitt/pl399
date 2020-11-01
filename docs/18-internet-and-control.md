@@ -40,7 +40,7 @@ Our focus here (in chapters 3-5) will be to follow Lessig's tour in order to see
 
 Let's jump straight into chapter 4 and focus on a few key sections.
 
-<div class="discussion">
+<div class="discussion" markdown="1">
 
 To begin we might ask: is anonymity a good thing or bad thing?
 
@@ -58,7 +58,7 @@ Similarly, we might say no one "speaks" without there being an "infrastructure" 
 
 Lessig introduces the categories of "identity, authentication, certification" to help us think about the ways the infrastructure affects identity, access, and control.
 
-<div class="discussion">
+<div class="discussion" markdown="1">
 
 <span class="respond"/> In what way is a "park" a platform that enables communication? 
 
@@ -133,9 +133,9 @@ Here's a great video from Vox on third party cookies.
 
 Now when you visit Facebook (for example), the "same ad network" server will check the third party cookie it set when you were on a another site and report to facebook all the things it knows from your activity elsewhere on the internet.
 
-[You can view the cookies set in Chrome here](chrome://settings/siteData)
+You can view the cookies set in Chrome here by putting "chrome://settings/siteData" in your chrome url address bar.
 
-[And you can control whether you want Chrome to allow 3-party cookies here](chrome://settings/cookies)
+And you can control whether you want Chrome to allow 3-party cookies by putting chrome://settings/cookies in your chrome url address bar.
 
 ### SSO
 
