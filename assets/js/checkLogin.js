@@ -4,7 +4,7 @@ function checkLogin(success, successData){
   let refreshToken = savedInfo ? savedInfo.refresh_token : '';
     
   if (!authorizationToken){
-    window.location = '/pl399/login';
+    window.location = '/pl339/login';
   }
   else{
     isLoggedIn(savedInfo); //1
