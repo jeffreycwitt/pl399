@@ -104,6 +104,7 @@ Let's look at some of the ways control and identity layers are being added to th
 <span class="respond"/> How do ISPs create a way to trace a request back to a source or identity?
 
 <span class="respond"/> In what way it possible to still use the Internet and avoid these revelations of identity.
+
 </div>
 
 ### Cookies
@@ -139,7 +140,7 @@ And you can control whether you want Chrome to allow 3-party cookies by putting 
 
 ### SSO
 
-<div class="discussion">
+<div class="discussion" markdown="1">
 
 <span class="respond"/>How does Single Sign On make your internet life easier. Where and when have you used it?
 
