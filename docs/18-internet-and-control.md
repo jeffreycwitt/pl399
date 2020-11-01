@@ -84,7 +84,7 @@ This is an important question because if it is "necessary" then it can't be chan
 Understanding why the Internet was first experienced as "anonymous" requires some attention to the way the internet works.
 
 <div class="discussion" markdown="1">
-As you read, be able to explain Lessig's basic description about how TCP/IP works and why allows for anonymous speech (both in the identity of the speaker and the content that travels through the medium)
+As you read, be able to explain Lessig's basic description about how TCP/IP works and why it allows for anonymous speech (both in the identity of the speaker and the content that travels through the medium)
 
 <span class="respond"/> Compare TCP/IP to a public park on the issues of "identity, authentication, and certification"? How are the similar how are they different? 
 
