@@ -86,9 +86,9 @@ Understanding why the Internet was first experienced as "anonymous" requires som
 <div class="discussion" markdown="1">
 As you read, be able to explain Lessig's basic description about how TCP/IP works and why allows for anonymous speech (both in the identity of the speaker and the content that travels through the medium)
 
-<span class="respond"> Compare TCP/IP to a public park on the issues of "identity, authentication, and certification"? How are the similar how are they different? 
+<span class="respond"/> Compare TCP/IP to a public park on the issues of "identity, authentication, and certification"? How are the similar how are they different? 
 
-<span class="respond"> What are the design choices of TCP/IP that explain this difference?
+<span class="respond"/> What are the design choices of TCP/IP that explain this difference?
 </div>
 
 ## Increasing control
@@ -101,9 +101,9 @@ Let's look at some of the ways control and identity layers are being added to th
 
 <div class="discussion" markdown="1">
 
-<span class="respond"> How do ISPs create a way to trace a request back to a source or identity?
+<span class="respond"/> How do ISPs create a way to trace a request back to a source or identity?
 
-<span class="respond"> In what way it possible to still use the Internet and avoid these revelations of identity.
+<span class="respond"/> In what way it possible to still use the Internet and avoid these revelations of identity.
 </div>
 
 ### Cookies
@@ -141,9 +141,9 @@ And you can control whether you want Chrome to allow 3-party cookies by putting 
 
 <div class="discussion">
 
-<span class="respond">How does Single Sign On make your internet life easier. Where and when have you used it?
+<span class="respond"/>How does Single Sign On make your internet life easier. Where and when have you used it?
 
-<span class="respond">How does this reveal your identity as you travel around the web and make requests?
+<span class="respond"/>How does this reveal your identity as you travel around the web and make requests?
 
 </div>
 
@@ -176,13 +176,13 @@ This plea for involvement is something that Lessig states at the beginning of ch
 
 <div class="discussion" markdown="1">
 
-<span class="respond">  Do you this is a reasonable demand? Given all the things you have to learn to pursue whatever expertise you are pursuing, Lessig is also asking you to learn about the tools you use to accomplish your main task.
+<span class="respond"/>  Do you this is a reasonable demand? Given all the things you have to learn to pursue whatever expertise you are pursuing, Lessig is also asking you to learn about the tools you use to accomplish your main task.
 
-<span class="respond">  People sometimes say, "a technology is successful when we no longer are aware of it." Cars migh be a good example. Many of us regularly use a car as tool to get our main tasks done, but how many of us really know anything about how a car works? Does the general public really need to know anything about how cars work? 
+<span class="respond"/>  People sometimes say, "a technology is successful when we no longer are aware of it." Cars migh be a good example. Many of us regularly use a car as tool to get our main tasks done, but how many of us really know anything about how a car works? Does the general public really need to know anything about how cars work? 
 
-<span class="respond"> If Lessig is correct about the need for the general public to understand how the Internet works, what then is different about cars and the Internet.
+<span class="respond"/> If Lessig is correct about the need for the general public to understand how the Internet works, what then is different about cars and the Internet.
 
-<span class="respond"> In a way Loyola, by including a computer science course in the core has implicitly said that "computer literacy" is important, not just for computer scientist, but for general citizens no matter what there major is? If you've taken your CS course already, do you agree? Why? If not, how might you change the course in light of Lessig's plea and reflections in these chapters?
+<span class="respond"/> In a way Loyola, by including a computer science course in the core has implicitly said that "computer literacy" is important, not just for computer scientist, but for general citizens no matter what there major is? If you've taken your CS course already, do you agree? Why? If not, how might you change the course in light of Lessig's plea and reflections in these chapters?
 
 </div>
 
