@@ -3,7 +3,8 @@ layout: lecture
 title: "18: internet and control"
 reading: ["PIHI9TSZ=>cc. 3-5"]
 nav_order: 18
-published: false
+date: 2020-11-01
+published: true
 ---
 
 ## Table of contents
@@ -17,29 +18,27 @@ Near the opening of our class we considered different modalities that accompany 
 
 One of those modalities was identity or anonymity. 
 
-As our reading today suggests, the internet at its birth seemed to carry with it all kinds of new potentials (both positive and negative) because of the way it seemed to enable anonymous communication in ways never before thought possible. 
+As our reading today suggests, the internet at its birth seemed to carry with it all kinds of new potentials (both positive and negative) because of the way it enabled anonymous communication in ways never before thought possible. 
 
-One conclusion drawn from this is that the 'internet' and communication via the internet is "unregulable". 
+One conclusion drawn from this is that the "internet" and communication via the internet is "un-regulable". 
 
-Lessig burden in these early chapters is to show us that this assumption of "unregulability" or "uncontrollability" is false. Soon, the Internet will, far from being "uncontrollable" it will become the most controllable communications space ever imaginable. 
+Lessig's burden in these early chapters is to show us that this assumption of "un-regulability" or "uncontrollability" is false. An "un-regulability" due to anonymity was due to design decisions made by humans pursuing certain goals. Accordingly, if new goals (or values) are raised to a higher priority, new design choices can be made. Thus Lessig predicts: if control becomes a dominating value, then the Internet -- far from being "uncontrollable" -- can and will become one of the most controllable communications spaces ever imagined. 
 
-The belief that the Internet is unregulable and leads to a kind of public complacency. 
+But despite the fact that the Internet can be regulated, the belief that the Internet is "un-regulable" leads to a kind of public complacency.  
 
-Lessig wants to show us here that whether the public/government becomes involved in this regulation or not through legislation, the internet will nevertheless be regulated, namely by contrast. 
+Lessig wants to show us here that whether or not the public/government becomes involved in this regulation, the Internet will nevertheless be regulated, namely by commerce. 
 
-But how so, if private interests do not have the power to legislate.
+But how can commerce regulate, if private interests do not have the power to create laws.
 
-Lessig wants to show us that control is being implemented through private interest, not via laws, but through the code being written which makes the internet run.
+Lessig wants to show us that control is being implemented through private interest, not via laws, but via the code which makes the internet run.
 
-Thus (as we will see more clearly in chapters 6-8), if the public is going to have a say in the Internet we get, regular citizens, like you and me, are going to have to take an interest in how the Internet "currently works", separate that from any idea of how the internet must "necessarily work", and be willing to imagine how the Internet could "work differently" and be used to support values other than those of profit and private interest.
+Thus (as we will see more clearly in chapters 6-8), if the public is going to have a say in the Internet we get (and the access to information we have), regular citizens, like you and me, are going to have to 1) take an interest in how the Internet "currently works", 2) separate that from any idea of how the internet must "necessarily work", and 3) be willing to imagine how the Internet could "work differently".
 
-Our focus here (in chapters 3-4) will be to follow Lessig tour in order to see clear **how** the Internet is already being controlled by the through the participation of commercial interest. 
-
-# Lessig Chapter 3 
-
-(skip, go directly to chapter 4??)
+Our focus here (in chapters 3-5) will be to follow Lessig's tour in order to see clearly **how** the Internet is already being controlled the through the participation of commercial interest. 
 
 # Internet: Uncontrollable or the Platform of Total Control?
+
+Let's jump straight into chapter 4 and focus on a few key sections.
 
 <div class="discussion">
 
@@ -51,110 +50,143 @@ To begin we might ask: is anonymity a good thing or bad thing?
 
 </div>
 
-Given the importance: it seems useful think about the ways non-digital communications media do and do not reveal identity, and the degree to which anonymity (or lack there of) affects the control of speech?
+Given the importance of identity, it seems useful think about the ways non-digital communications media do and do not reveal identity, and the degree to which anonymity (or lack there of) affects the control of speech.
 
 We might remember Judith Butler's claim that "No one 'goes for a walk' without there being something that supports a walk.
 
 Similarly, we might say no one "speaks" without there being an "infrastructure" or "platform" to make that speech possible.
 
-Lessig introduces the categories of "identity, authentication, authorization/certification" (p. ? ) to help us think about the ways the infrastructure affects identity, access, and control.
+Lessig introduces the categories of "identity, authentication, certification" to help us think about the ways the infrastructure affects identity, access, and control.
 
 <div class="discussion">
 
-<span class="respond"/> In what was is a "park" a platform that enables communication? What are the structures of "identity, authentication, authorization/certification" at work in the "Park" platform?
+<span class="respond"/> In what way is a "park" a platform that enables communication? 
 
-<span class="respond"/> What are some other examples of places that function as a communications platform? How do these platforms employ structures of "identity, authentication, authorization/certification" similarly or differently than a public park
+<span class="respond"/> How are the structures of "identity, authentication, certification" at work in the "Park" platform?
+
+<span class="respond"/> What are some other examples of physical places that function as a communications platform? How do these platforms employ structures of "identity, authentication, certification" similarly or differently than a public park?
 
 </div>
 
 With this in the background let's turn to the Internet.
 
+We need to consider first why the Internet seems quite different from a park, especially with respect to issues of 
+"identity, authentication, certification".
 
-{:.question}
-Why might the Internet at first seem different from a park, especially with respect issues of identity, authentication, authorization/certification? What does this make it seem "unregulable"?
+At first glance, it seems like the Internet (in its core design) makes "identity, authentication, certification" difficult, making it possible to speak anonymously. 
 
-{:.question}
-An important question here is whether this initial "anonymity" is somehow part of the "nature" of digital medium, such that that the Internet is of necessity anonymous. 
+But an important question here is whether this initial "anonymity" is somehow part of the "nature" of digital medium, such that that the Internet is "of necessity" anonymous. 
 
-This is an important question because if it "necessary" then it can't be changed. But if is not "necessary" than it can be changed as the "code" changes. This really raises the stakes for who is writing the code: private interest or public interest.
+This is an important question because if it is "necessary" then it can't be changed. Thus its logic does not reflect anyone's values; it just is the way it is by nature. But if is not "necessary", then the way it works now is a product of someone's choices that support their values. And if it is chosen, then it is possible to "choose" to change it to support a different set of values. This really raises the stakes for who is writing the code: private interest or public interest.
  
 ## Anonymous Design: TCP/IP. Overview of Packets
 
-Understanding why the Internet was first experienced as "anonymous" requeires some attention to the way the internet works
+Understanding why the Internet was first experienced as "anonymous" requires some attention to the way the internet works.
+
+<div class="discussion" markdown="1">
+As you read, be able to explain Lessig's basic description about how TCP/IP works and why allows for anonymous speech (both in the identity of the speaker and the content that travels through the medium)
+
+<span class="respond"> Compare TCP/IP to a public park on the issues of "identity, authentication, and certification"? How are the similar how are they different? 
+
+<span class="respond"> What are the design choices of TCP/IP that explain this difference?
+</div>
 
 ## Increasing control
 
-But understanding that there is no natural law that says the Internet must be anonymous means that new coding decisions can change this feature of the Internet.
+But understanding that TCP/IP is the result of design choices makes it clear that there is no "natural law" that says the Internet must be anonymous. This means that new coding decisions can change this feature of the Internet.
 
 Let's look at some of the ways control and identity layers are being added to the Internet (and the possible pros and cons) that might occur as consequences.
 
+### ISP
+
+<div class="discussion" markdown="1">
+
+<span class="respond"> How do ISPs create a way to trace a request back to a source or identity?
+
+<span class="respond"> In what way it possible to still use the Internet and avoid these revelations of identity.
+</div>
+
 ### Cookies
 
-concrete cookie How do advertisers know you across platforms.
+In addition to Lessig's description of cookies as means of "identification", I offer a few further ideas and explanations here.
 
-Each site creates cookie, so that the same domain knows you on different pages within that domain.
+Concretely, how do advertisers know you across platforms?
 
-But what about across domains?
+Each site creates cookie (e.g. a unique id that lives on your computer and corresponds to a database id with corresponding information). But access to cookies is normally restricted to the website (domain) that planted the cookie. And thus as you move around within the domain of a website, it continues to know who you are.
 
-Websites can join advertising networks.
+But what about cross domains? Why is it that when I am on Facebook, it knows that I've been looking at Lamps on Amazon.
 
-Two website can join the same network.
+Websites can join advertising networks and two website can join the same "Ad Network".
 
-Each site sets a cookie to remember "you" and passes that information (your email etc, the products you've looked at etc.) and passes that on to the advertising server.
+Thus website A and website B, as a member of the ad network, both embed a little bit of another website (website C, the ad server) into their website allowing them to set their own cookie and harvest user data from the initial request to website C. Website C (the ad server) logs this request along with information about where the request originated (what site you were on, what you were looking at, etc) and stores this information in association with unique id of the cookie.
 
-The other website creates its own cookie and remembers. It passes its information about you to the same advertising network, meanwhile it "retrieves information about you stored by that same advertising network".
+This is called a third party cookie. 
 
-See for example: https://security.stackexchange.com/questions/49636/can-a-webpage-read-another-pages-cookies)
+Now when you go to a website B, it also embeds part of website C. When the request to website C is made, the existing third party cookie (set by the visit to website A) is sent along with the new browsing behavior of the user on website B.
 
-Push back with the addition of SameSite attribute (lax, strict)
-https://web.dev/samesite-cookies-explained/
+Here's a great video from Vox on third party cookies.
 
-https://tools.ietf.org/html/draft-ietf-httpbis-cookie-same-site-00
+<div class="video">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HFyaW50GFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p class="vda">Video Discuss Anchor</p>
+</div>
 
-Perhaps more important than the details here is how this possibility emerges. 
+Now when you visit Facebook (for example), the "same ad network" server will check the third party cookie it set when you were on a another site and report to facebook all the things it knows from your activity elsewhere on the internet.
 
-Advertisers have little interest in allow user control in cookie validity. 
+[You can view the cookies set in Chrome here](chrome://settings/siteData)
 
-Thus, if this kind of control is going to be opposed or balanced, it takes people who understand that "tracking identity" is not a natural feature of the internet but the product of people with particular interest. 
-
-If these interest do not align with the public good, then they need to be opposed. Standards groups with a pubic interest exist to influence code decisions based on a public mission. 
-
-Here's the group that has established the SameSite cookie attribute. https://ietf.org/about/mission/? What are there values and mission? Is this standards group accountable to the public, government, private interest?
-
-Lots of other standard groups exists (https://www.w3.org/)
+[And you can control whether you want Chrome to allow 3-party cookies here](chrome://settings/cookies)
 
 ### SSO
-[brief mention or cut]
 
-### Identity Layer/Microsoft PassPort
+<div class="discussion">
 
-[brief mention or cut]
- 
+<span class="respond">How does Single Sign On make your internet life easier. Where and when have you used it?
+
+<span class="respond">How does this reveal your identity as you travel around the web and make requests?
+
+</div>
+
 # In Sum 
 
-<!-- perhaps some concluding notes from chapter 5 -->
-
-The central point in all of part 1 (chapter 3-5 (?)) is simply to prove that the Internet can be regulated by both commerce and government.
+The central point in all of part 1 (chapter 3-5) is simply to prove that the Internet can be regulated by both commerce and government.
 
 Further, commerce is already implementing this kind of regulation with urgency, but it is often hidden because it does not occur though publicly debated laws, but through the coding decisions of private actors. 
 
-Lessig then asks the central question (whcih I think captures the point of the whole section):
+Lessig then asks the central question (which I think captures the point of the whole section):
 
-> 77: "If commerce is going to define the emerging architectures of cyber space, isn't the role of government to ensure that those public values that are non in commerce's interest are also built into the architecture."
+> "If commerce is going to define the emerging architectures of cyberspace, isn't the role of government to ensure that those public values that are non in commerce's interest are also built into the architecture." (Lessig, p. 77)
 
-Why is that government and the general public have not felt as much urgency to be involved at this level? One answer stems from another central point of these chapters. 
+{:.rquestion}
+Why is it that government and the general public have not felt as much urgency to be involved at this level? 
 
-To the uninitiated, the Internet can appear as kind of "black box" whose operations, limits, and possibilities, are not the product of human decisions or private interest but of nature.
+One answer stems from another central point of these chapters. 
 
-Governments and public don't usually fight nature or necessity because we consider this to be simply the way the world works and then we navigate our lives around these fixed and immoveable laws. 
+To the uninitiated, the Internet can appear as kind of "black box" whose operations, limits, and possibilities are not the product of human decisions or private interest but of nature.
 
-But Lessig has tried to show us that the "fixed" or "necessary" nature of Internet is is an illusion. 
+Governments and the general public don't usually fight nature or necessity because we consider this to be simply the way the world works and then we navigate our lives around these fixed and immoveable laws. 
+
+But Lessig has tried to show us that the "fixed" or "necessary" nature of Internet is an illusion. 
 
 The Internet could in fact work many different ways. Thus the ways in which it does and does not work are the result of value decisions made by people. Our experience of it is therefore "political", and if we want the Internet to work for the public and not against, then the public, elected officials, political activists, not just coders working for private companies, need to be involved in shaping its development.
 
-Lessig here quotes Roberto Unger, "It's all politics" on p. 78. In short: The way the "internet" works is not an expression of nature, but an expression of our values.
+This plea for involvement is something that Lessig states at the beginning of chapter 3: 
 
-The scary propositions is that if we don't get involved, then, because the "medium affects" consciousness, increasingly the way the Internet works now will begin to determine our values, rather than our values shaping the Internet.
+> "But underlying everything in this book is a single normative plea: that all of us must learn at least enough to see that technology is plastic. It can be remade to do things differently. And that if there is a mistake that we who know too little about technology should make, it is the mistake of imagining technology to be too plastic, rather than not plastic enought. We should expect -- and demand -- that it can be made to reflect any set of values that we think important. The burden should be on the technologists to show us why that demand can't be met."
+
+<div class="discussion" markdown="1">
+
+<span class="respond">  Do you this is a reasonable demand? Given all the things you have to learn to pursue whatever expertise you are pursuing, Lessig is also asking you to learn about the tools you use to accomplish your main task.
+
+<span class="respond">  People sometimes say, "a technology is successful when we no longer are aware of it." Cars migh be a good example. Many of us regularly use a car as tool to get our main tasks done, but how many of us really know anything about how a car works? Does the general public really need to know anything about how cars work? 
+
+<span class="respond"> If Lessig is correct about the need for the general public to understand how the Internet works, what then is different about cars and the Internet.
+
+<span class="respond"> In a way Loyola, by including a computer science course in the core has implicitly said that "computer literacy" is important, not just for computer scientist, but for general citizens no matter what there major is? If you've taken your CS course already, do you agree? Why? If not, how might you change the course in light of Lessig's plea and reflections in these chapters?
+
+</div>
+
+One final note: In my view, the scary proposition is that if we don't get involved (become sufficiently knowledge to influence how the Internet gets built), then, because the "medium affects consciousness" as McLuhan claimed, increasingly the way the Internet works "now" will begin to determine our values, rather than our values shaping the Internet.
 
 
 
