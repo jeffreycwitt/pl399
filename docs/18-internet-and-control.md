@@ -18,23 +18,23 @@ Near the opening of our class we considered different modalities that accompany 
 
 One of those modalities was identity or anonymity. 
 
-As our reading today suggests, the internet at its birth seemed to carry with it all kinds of new potentials (both positive and negative) because of the way it enabled anonymous communication in ways never before thought possible. 
+As our reading today suggests, the Internet at its birth seemed to carry with it all kinds of new potentials (both positive and negative) because of the way it enabled anonymous communication in ways never before thought possible. 
 
-One conclusion drawn from this is that the "internet" and communication via the internet is "un-regulable". 
+One conclusion drawn from this is that the Internet and communication via the Internet is "un-regulable". 
 
 Lessig's burden in these early chapters is to show us that this assumption of "un-regulability" or "uncontrollability" is false. An "un-regulability" due to anonymity was due to design decisions made by humans pursuing certain goals. Accordingly, if new goals (or values) are raised to a higher priority, new design choices can be made. Thus Lessig predicts: if control becomes a dominating value, then the Internet -- far from being "uncontrollable" -- can and will become one of the most controllable communications spaces ever imagined. 
 
 But despite the fact that the Internet can be regulated, the belief that the Internet is "un-regulable" leads to a kind of public complacency.  
 
-Lessig wants to show us here that whether or not the public/government becomes involved in this regulation, the Internet will nevertheless be regulated, namely by commerce. 
+Lessig wants to show us here that, whether or not the public/government becomes involved in this regulation, the Internet will nevertheless be regulated, namely by commerce. 
 
 But how can commerce regulate, if private interests do not have the power to create laws.
 
-Lessig wants to show us that control is being implemented through private interest, not via laws, but via the code which makes the internet run.
+Lessig show us that control is being implemented through private interest, not via laws, but via the code which makes the Internet run.
 
 Thus (as we will see more clearly in chapters 6-8), if the public is going to have a say in the Internet we get (and the access to information we have), regular citizens, like you and me, are going to have to 1) take an interest in how the Internet "currently works", 2) separate that from any idea of how the internet must "necessarily work", and 3) be willing to imagine how the Internet could "work differently".
 
-Our focus here (in chapters 3-5) will be to follow Lessig's tour in order to see clearly **how** the Internet is already being controlled the through the participation of commercial interest. 
+Our focus here (in chapters 3-5) will be to follow Lessig's tour in order to see clearly **how** the Internet is already being controlled through the participation of commercial interest and government influence over commercial enterprise.
 
 # Internet: Uncontrollable or the Platform of Total Control?
 
@@ -56,37 +56,37 @@ We might remember Judith Butler's claim that "No one 'goes for a walk' without t
 
 Similarly, we might say no one "speaks" without there being an "infrastructure" or "platform" to make that speech possible.
 
-Lessig introduces the categories of "identity, authentication, certification" to help us think about the ways the infrastructure affects identity, access, and control.
+Lessig introduces the categories of "identity, authentication, credential" to help us think about the ways the infrastructure affects identity, access, and control.
 
 <div class="discussion" markdown="1">
 
 <span class="respond"/> In what way is a "park" a platform that enables communication? 
 
-<span class="respond"/> How are the structures of "identity, authentication, certification" at work in the "Park" platform?
+<span class="respond"/> How are the structures of "identity, authentication, credential" at work in the "Park" platform?
 
-<span class="respond"/> What are some other examples of physical places that function as a communications platform? How do these platforms employ structures of "identity, authentication, certification" similarly or differently than a public park?
+<span class="respond"/> What are some other examples of physical places that function as a communications platform? How do these platforms employ structures of "identity, authentication, credential" similarly or differently than a public park?
 
 </div>
 
 With this in the background let's turn to the Internet.
 
-We need to consider first why the Internet seems quite different from a park, especially with respect to issues of 
-"identity, authentication, certification".
+We need to consider first why the Internet seems quite different from a park, especially with respect to issues of "identity, authentication, credential".
 
-At first glance, it seems like the Internet (in its core design) makes "identity, authentication, certification" difficult, making it possible to speak anonymously. 
+At first glance, it seems like the Internet (in its core design) makes "identity, authentication, credential" difficult, making it possible to speak anonymously. 
 
 But an important question here is whether this initial "anonymity" is somehow part of the "nature" of digital medium, such that that the Internet is "of necessity" anonymous. 
 
-This is an important question because if it is "necessary" then it can't be changed. Thus its logic does not reflect anyone's values; it just is the way it is by nature. But if is not "necessary", then the way it works now is a product of someone's choices that support their values. And if it is chosen, then it is possible to "choose" to change it to support a different set of values. This really raises the stakes for who is writing the code: private interest or public interest.
+This is an important question because, if it is "necessary", then it can't be changed. Thus its logic does not reflect anyone's values; it just is the way it is by nature. But if is not "necessary", then the way it works now is a product of someone's choices that support their values. And if it is chosen, then it is possible to "choose" to change it to support a different set of values. This really raises the stakes for who is writing the code: private interest or public interest.
  
 ## Anonymous Design: TCP/IP. Overview of Packets
 
-Understanding why the Internet was first experienced as "anonymous" requires some attention to the way the internet works.
+Understanding why the Internet was first experienced as "anonymous" requires some attention to the way the Internet works.
 
 <div class="discussion" markdown="1">
+
 As you read, be able to explain Lessig's basic description about how TCP/IP works and why it allows for anonymous speech (both in the identity of the speaker and the content that travels through the medium)
 
-<span class="respond"/> Compare TCP/IP to a public park on the issues of "identity, authentication, and certification"? How are the similar how are they different? 
+<span class="respond"/> Compare TCP/IP to a public park on the issues of "identity, authentication, and credential"? How are they similar? How are they different? 
 
 <span class="respond"/> What are the design choices of TCP/IP that explain this difference?
 </div>
@@ -103,7 +103,7 @@ Let's look at some of the ways control and identity layers are being added to th
 
 <span class="respond"/> How do ISPs create a way to trace a request back to a source or identity?
 
-<span class="respond"/> [Use this link to find your ip address](https://whatismyipaddress.com/). [Also try this link](https://www.whatismyip.com/my-ip-information/?iref=homegb). When you send a request your ip address gets transmitted (so that a response can be set back). So how much can website learn about you from your ip address?
+<span class="respond"/> [Use this link to find your ip address](https://whatismyipaddress.com/). [Also try this link](https://www.whatismyip.com/my-ip-information/?iref=homegb). When you send a request, your ip address gets transmitted (so that a response can be set back). So how much can a website learn about you from your ip address?
 
 <span class="respond"/> In what way it possible to still use the Internet and avoid these revelations of identity.
 
@@ -118,7 +118,7 @@ Concretely, how do advertisers know you across platforms?
 
 Each site creates cookie (e.g. a unique id that lives on your computer and corresponds to a database id with corresponding information). But access to cookies is normally restricted to the website (domain) that planted the cookie. And thus as you move around within the domain of a website, it continues to know who you are.
 
-But what about cross domains? Why is it that when I am on Facebook, it knows that I've been looking at Lamps on Amazon.
+But what about cross domains? Why is it that when I am on Facebook, it knows that I've been looking at lamps on Amazon.
 
 Websites can join advertising networks and two website can join the same "Ad Network".
 
@@ -126,7 +126,7 @@ Thus website A and website B, as a member of the ad network, both embed a little
 
 This is called a third party cookie. 
 
-Now when you go to a website B, it also embeds part of website C. When the request to website C is made, the existing third party cookie (set by the visit to website A) is sent along with the new browsing behavior of the user on website B.
+Now when you go to a website B, it also embeds part of website C. When the request to website C is made, the existing third party cookie (set by the visit to website A) is sent along with the new browsing behavior of the user on website B. Thus your behavior on site A and site B is associated with the same identifier.
 
 Here's a great video from Vox on third party cookies.
 
@@ -134,8 +134,6 @@ Here's a great video from Vox on third party cookies.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HFyaW50GFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p class="vda">Video Discuss Anchor</p>
 </div>
-
-Now when you visit Facebook (for example), the "same ad network" server will check the third party cookie it set when you were on a another site and report to facebook all the things it knows from your activity elsewhere on the internet.
 
 You can view the cookies set in Chrome here by putting "chrome://settings/siteData" in your chrome url address bar.
 
