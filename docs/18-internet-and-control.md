@@ -151,9 +151,9 @@ And you can control whether you want Chrome to allow 3-party cookies by putting 
 
 # From code that regulates to regulating code.
 
-As the theme of chapter 5 will become more pronounced in part 2, titled "regulation by code" (cc. 6-8), let me try to quickly capture the central message. 
+As the theme of chapter 5 will become more pronounced in part 2, titled "regulation by code" (cc. 6-8), let me try to quickly capture the central message of chapter 5. 
 
-If chapter four has shown us that "code" can regulate behavior, then chapter attempts to show that those who seek to regulate behavior (e.g. government) will soon realize something important. 
+If chapter 4 has shown us that "code" can regulate behavior, then chapter 5 attempts to show that those who seek to regulate behavior (e.g. government) will soon realize something important. 
 
 They will quickly see that an effective way to regulate human behavior is to regulate **indirectly** by regulating the code that regulates behavior. 
 
@@ -161,7 +161,7 @@ They will quickly see that an effective way to regulate human behavior is to reg
 What are some examples Lessig offers for why this "indirect regulation" might be more effective or cost efficient than "direct regulation"?
 
 * Consider his discussion of the regulation of criminal behavior vs. regulating phone networks so that criminal behavior can be detected.
-* Consider his discussion of encryption and how the government (through its influence over commerce) controls the use of encryption
+* Consider his discussion of encryption and how the government (through its influence over commerce) controls the use of encryption.
 
 Let's connect this back to the main theme. If code that regulates imposes values, the indirect regulation through the regulation of code will equally impose values. **But because the imposition of value (via government control over code) is indirect, it will be harder to see.** Accordingly, it will be harder for "the people" to be a check on power of governments. How will the public be able to influence this kind of government regulation without the ability to see that it is happening?
 
@@ -169,44 +169,44 @@ On p. 79, Lessig concludes chapter 5 with a similar question:
 
 > "If code is law, then, as William Mitchell writes, "control of code is power"...How the code regulates, who the code writers are, and who controls the code writers--these are the question which the practice of justice must focus in the age of cyberspace."
 
-Lessig will have much more to say on this is the next chapter, so let's mark this as something to keep our eye out for in the next section. 
+Lessig will have much more to say on this is the next chapters, so let's mark this as something to keep an eye out for in the next section. 
 
 # In Sum 
 
 The central point in all of part 1 (chapter 3-5) is simply to prove that the Internet can be regulated by both commerce and government.
 
-Further, commerce is already implementing this kind of regulation with urgency, but it is often hidden because it does not occur though publicly debated laws, but through the coding decisions of private actors. 
+Further, commerce is already implementing this kind of regulation with urgency, but it is often hidden because it does not occur though publicly debated laws, but through the coding decisions of private actors. Likewise, when government does act, its actions are hidden to most people because does not directly regulate Internet behavior, but indirectly regulates the code that regulates Internet behavior.
 
 Lessig then asks the central question (which I think captures the point of the whole section):
 
-> "If commerce is going to define the emerging architectures of cyberspace, isn't the role of government to ensure that those public values that are non in commerce's interest are also built into the architecture." (Lessig, p. 77)
+> "If commerce is going to define the emerging architectures of cyberspace, isn't the role of government to ensure that those public values that are not in commerce's interest are also built into the architecture." (Lessig, p. 77)
 
 {:.rquestion}
-Why is it that government and the general public have not felt as much urgency to be involved at this level? 
+Why is it that the general public has not felt as much urgency to be involved at this level? 
 
 One answer stems from another central point of these chapters. 
 
 To the uninitiated, the Internet can appear as kind of "black box" whose operations, limits, and possibilities are not the product of human decisions or private interest but of nature.
 
-Governments and the general public don't usually fight nature or necessity because we consider this to be simply the way the world works and then we navigate our lives around these fixed and immoveable laws. 
+The general public don't usually fight nature or necessity because we consider this to be simply the way the world works and then we navigate our lives around these fixed and immoveable laws. 
 
-But Lessig has tried to show us that the "fixed" or "necessary" nature of Internet is an illusion. 
+But Lessig has tried to show us that the "fixed" or "necessary" nature of the Internet is an illusion. 
 
-The Internet could in fact work many different ways. Thus the ways in which it does and does not work are the result of value decisions made by people. Our experience of it is therefore "political", and if we want the Internet to work for the public and not against, then the public, elected officials, political activists, not just coders working for private companies, need to be involved in shaping its development.
+The Internet could in fact work many different ways. Thus the ways in which it does and does not work are the result of value decisions made by people. Our experience of it is therefore "political", and if we want the Internet to work for the public and not against it, then the public(elected officials, political activists, not just coders working for private companies) needs to be involved in shaping its development.
 
 This plea for involvement is something that Lessig states at the beginning of chapter 3: 
 
-> "But underlying everything in this book is a single normative plea: that all of us must learn at least enough to see that technology is plastic. It can be remade to do things differently. And that if there is a mistake that we who know too little about technology should make, it is the mistake of imagining technology to be too plastic, rather than not plastic enought. We should expect -- and demand -- that it can be made to reflect any set of values that we think important. The burden should be on the technologists to show us why that demand can't be met."
+> "But underlying everything in this book is a single normative plea: that all of us must learn at least enough to see that technology is plastic. It can be remade to do things differently. And that if there is a mistake that we who know too little about technology should make, it is the mistake of imagining technology to be too plastic, rather than not plastic enough. We should expect -- and demand -- that it can be made to reflect any set of values that we think important. The burden should be on the technologists to show us why that demand can't be met."
 
 <div class="discussion" markdown="1">
 
-<span class="respond"/>  Do you this is a reasonable demand? Given all the things you have to learn to pursue whatever expertise you are pursuing, Lessig is also asking you to learn about the tools you use to accomplish your main task.
+<span class="respond"/>  Do you think this is a reasonable demand? Given all the others things you have to learn in your life, Lessig is also asking you to learn about the tools you use to accomplish your main task.
 
-<span class="respond"/>  People sometimes say, "a technology is successful when we no longer are aware of it." Cars migh be a good example. Many of us regularly use a car as tool to get our main tasks done, but how many of us really know anything about how a car works? Does the general public really need to know anything about how cars work? 
+<span class="respond"/>  People sometimes say: "a technology is successful when we no longer are aware of it." Cars might be a good example. Many of us regularly use a car as tool to get our main tasks done, but how many of us really know anything about how a car works? Does the general public really need to know anything about how cars work? 
 
-<span class="respond"/> If Lessig is correct about the need for the general public to understand how the Internet works, what then is different about cars and the Internet.
+<span class="respond"/> If Lessig is correct about the need for the general public to understand how the Internet works, what then is different about cars and the Internet?
 
-In a way, Loyola, by including a computer science course in the core has implicitly said that "computer literacy" is important, not just for computer scientists, but for general citizens no matter what there major is.
+In a way, Loyola, by including a computer science course in the core has implicitly said that "computer literacy" is important, not just for computer scientists, but for general citizens no matter what theirs major is.
 
 <span class="respond"/>  If you've taken your CS course already, do you agree? Why? If not, how might you change the course in light of Lessig's plea and reflections in these chapters?
 
