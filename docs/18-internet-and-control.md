@@ -151,6 +151,28 @@ And you can control whether you want Chrome to allow 3-party cookies by putting 
 
 </div>
 
+# From code that regulates to regulating code.
+
+As the theme of chapter 5 will become more pronounced in part 2, titled "regulation by code" (cc. 6-8), let me try to quickly capture the central message. 
+
+If chapter four has shown us that "code" can regulate behavior, then chapter attempts to show that those who seek to regulate behavior (e.g. government) will soon realize something important. 
+
+They will quickly see that an effective way to regulate human behavior is to regulate **indirectly** by regulating the code that regulates behavior. 
+
+{:.rquestion}
+What are some examples Lessig offers for why this "indirect regulation" might be more effective or cost efficient than "direct regulation"?
+
+* Consider his discussion of the regulation of criminal behavior vs. regulating phone networks so that criminal behavior can be detected.
+* Consider his discussion of encryption and how the government (through its influence over commerce) controls the use of encryption
+
+Let's connect this back to the main theme. If code that regulates imposes values, the indirect regulation through the regulation of code will equally impose values. **But because the imposition of value (via government control over code) is indirect, it will be harder to see.** Accordingly, it will be harder for "the people" to be a check on power of governments. How will the public be able to influence this kind of government regulation without the ability to see that it is happening?
+
+On p. 79, Lessig concludes chapter 5 with a similar question: 
+
+> "If code is law, then, as William Mitchell writes, "control of code is power"...How the code regulates, who the code writers are, and who controls the code writers--these are the question which the practice of justice must focus in the age of cyberspace."
+
+Lessig will have much more to say on this is the next chapter, so let's mark this as something to keep our eye out for in the next section. 
+
 # In Sum 
 
 The central point in all of part 1 (chapter 3-5) is simply to prove that the Internet can be regulated by both commerce and government.
