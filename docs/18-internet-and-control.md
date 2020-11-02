@@ -143,7 +143,7 @@ And you can control whether you want Chrome to allow 3-party cookies by putting 
 
 <div class="discussion" markdown="1">
 
-<span class="respond"/> How does Single Sign On make your internet life easier. Where and when have you used it?
+<span class="respond"/> How does Single Sign On make your Internet life easier. Where and when have you used it?
 
 <span class="respond"/> How does this reveal your identity as you travel around the web and make requests?
 
