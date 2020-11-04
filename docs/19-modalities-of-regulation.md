@@ -17,13 +17,13 @@ published: true
 
 Thus far Lessig believes he has shown us that, while the Internet was originally conceived as an "unregulable" space, the growing interest of commerce is making it obvious that the Internet will increasingly become a place of control and regulation.
 
-When regulation becomes inevitable it is important for the public to take an interest in that regulation because regulation is a form of imposing values. The Internet will be regulated whether the public takes an interest or not, whether the government makes laws or not. 
+When regulation becomes inevitable, it is important for the public to take an interest in that regulation because regulation is a form of imposing values. 
 
-The real question then is, if it is not the public doing the regulating, who is it, what values are they promoting, and is this the kind of Internet we want to accept?
+In short, the Internet will be regulated whether the public takes an interest or not, whether the government makes laws or not. The real question then is, if it is not the public doing the regulating, who is it, what values are they promoting, and is this the kind of Internet we want to accept?
 
-The next step in his argument, which is the focus of Part 2 (chapters 6-8), is that, if regulation is inevitable and the public wants to be involved, **then we be clear about both the visible and hidden ways that regulation works.**
+The next step in Lessig's argument, which is the focus of Part 2 (chapters 6-8), is that, if regulation is inevitable and the public wants to be involved, **then we be clear about both the visible and hidden ways that regulation works.**
 
-The lesson in these chapters, especially chapter 7, is that if we think of regulation as something that merely occurs through direct laws, we will be blind to power regulatory force. Further, if we do not understand the indirect ways behavior is regulated, then we (the public) will be unable to have a say in the nature of the resulting hidden (but powerful) regulation and the values it promote protects. 
+The lesson in these chapters, especially chapter 7, is that if we think of regulation as something that merely occurs through direct laws, we will be blind to the full power of regulatory force. Further, if we do not understand the indirect ways behavior is regulated, then we (the public) will be unable to have a say in the nature of the resulting hidden (but powerful) regulation and the values it promote protects. 
 
 # Lessig Chapter 6
 
@@ -32,41 +32,43 @@ In this chapter Lessig describes a number of communities in Cyberspace.
 {:.question}
 First how does he distinguish Cyberspace from the Internet? 
 
-In personally I wonder how well this distinction holds up today. Previously Cyberspace was place you "logged into" and remained to have an experience. 
+Personally I wonder how well this distinction holds up today. Previously Cyberspace was place you "logged into" and remained to have an experience. 
 
-But increasingly the notion of "logging" on to cyberspace makes less and less sense. Today we are more or less always "logged on" and we enter different virtual spaces that not longer have a clear divide from our real lives. 
+But increasingly the notion of "logging on" to cyberspace makes less and less sense. Today we are more or less always "logged on" and we enter different virtual spaces that no longer have a clear divide from our real lives. 
 
 <div class="discussion" markdown="1">
 
-In describing what was special about the communities of cyberspace, Lessig makes a number of observations about why these spaces are attractive and why this spaces are available (see especially the section titled "The values of a space", pp. 85-88) Compare this to our [previous discussion of value in cyberspace](17-code-and-puzzles.html#making-sense-of-value-in-cyberspace)
+In describing what was special about the communities of cyberspace, Lessig makes a number of observations about why these spaces are attractive and why these spaces are available (see especially the section titled "The values of a space", pp. 85-88). Compare this to our [previous discussion of value in cyberspace](17-code-and-puzzles.html#making-sense-of-value-in-cyberspace).
 
 <span class="respond"> According to Lessig, why are these spaces valuable?
 
-<span class="respond"> Does this confirm some of the reasons we've already identified? Does it add new considerations? how so?
+<span class="respond"> Does this confirm some of the reasons we've already identified? Does it add new considerations? How so?
 
 </div>
 
-After recognizing that spaces have value largely because of the behavior that occurs in these spaces (behavior either enabled or behavior denied), Lessig goes on to claim that this behavior is regulated most powerfully NOT by written laws and coercive enforcement. But rather it is regulated more subtly by the virtual "laws of physics" what fix what a person and can and cannot do without the need for community policing and enforcement.
+After recognizing that spaces have value largely because of the behavior that occurs in these spaces (behavior either enabled or behavior denied), Lessig goes on to claim that this behavior is regulated most powerfully NOT by written laws and coercive enforcement. But rather it is regulated more subtly by the virtual "laws of physics" which determine what a person can and cannot do without the need for community policing and enforcement.
 
 The point of this chapter is to offer some example of how different coding decisions translates to different kinds of behavior that help create a unique place. 
 
-By why of illustration let's consider a view examples and consider explicitly the connection between coding decisions, behavior, and the resulting kind of space.
+By why of illustration, let's consider a few examples and consider explicitly the connection between coding decisions, behavior, and the resulting kind of space.
 
 <div class="discussion" markdown="1">
 
-<span class="respond"> What kinds of things does the AOL code "allow" or "not" allow?
+<span class="respond"/> What kinds of things does the AOL code "allow" or "not" allow?
 
-<span class="respond"> What kind of space is created a result of these design decisions?
+<span class="respond"/> What kind of space is created as a result of these design decisions?
 
 (Lessig provides at least four examples, see page 89-92)
+
 </div>
 
 <div class="discussion" markdown="1">
 
-Contrast this with Counsel Connect 
-<span class="respond"> What kinds of things does the CC code "allow" or "not" allow?
+Contrast this with Counsel Connect.
 
-<span class="respond"> How do these kinds of coding decisions create a space that is decidedly different from AOL?
+<span class="respond"/> What kinds of things does the CC code "allow" or "not" allow?
+
+<span class="respond"/> How do these kinds of coding decisions create a space that is decidedly different from AOL?
 
 </div>
 
@@ -76,43 +78,44 @@ Lessig examples are drawn from the past.
 
 Think of a "cyberspace" you are very familiar with today.
 
-<span class="respond">What kind of coding decisions determine the kind of behavior that takes place there? 
+<span class="respond"/> What kind of coding decisions determine the kind of behavior that takes place there? 
 
-<span class="respond"> What kind of space is created through these decisions? What kind of behaviors does this space enable or prevent? Do you personally act different in this space or the same? How are code architecture decisions determining how you choose to behave in this space?
+<span class="respond"/> What kind of space is created through these decisions? What kind of behaviors does this space enable or prevent? Do you personally act different in this space or the same? How are code architecture decisions determining how you choose to behave in this space?
 
 </div>
 
 # Lessig Chapter 7
 
-Chapter 7 focus on the ways "things" can be regulated, and takes a general view, considering regulation of all manner of things, not just cyberspace.
+Chapter 7 focuses on the ways "things" can be regulated, and takes a general view, considering regulation of all manner of things, not just cyberspace.
 
-A key point made here is the insistence against (perhaps) the common or naive view that regulation is simply through positive or written law.
+A key point made here is the insistence against (perhaps) the common or naive view that regulation is simply achieved through positive or written law.
 
-To the uninformed eye, it appears that law takes into account a number of natural givens, and then makes adjustments through direct legal regulations.
+To the uninformed eye, it appears that law takes into account a number of natural givens, and then makes adjustments through direct laws and threats of punishment (an "ex post sanction" (p. 124)).
 
-But Lessig is at pains to point out the illusion of "natural givens" and the way this illusion hides from us the power of regulation at work. There many other ways things are regulated (by private or public institutions) and there are thus many ways that governments can "indirectly" regulate besides "directly" regulating through law.
+But Lessig is at pains to point out the illusion of "natural givens" and the way this illusion hides from us the power of regulation at work. There many other ways things are regulated (by private or public institutions) and there are thus many ways that governments or private enterprise can "indirectly" regulate besides "directly" regulating through law.
 
 
 <div class="discussion" markdown="1">
 
 On p. 123 he identifies four means of regulation.
+
 Law, market, norms, and code/architecture.
 
 <span class="respond"> Where do see examples of **Market** being used as a form of regulation? Can you think of specific example you encounter in your own life?
 
 <span class="respond"> Where do see examples of **Norms** being used as a form of regulation? Can you think of specific example you encounter in your own life?
 
-<span class="respond"> Where do see examples of **Code/Architecture** being used as a form of regulation? In this case, since we "code" doesn't just me computer code, but architecture/design of systems or environments, can you think of a none-cyberspace example?
+<span class="respond"> Where do see examples of **Code/Architecture** being used as a form of regulation? In this case, since "code" doesn't just mean computer code, but architecture/design of systems or environments, can you think of a non-cyberspace example?
 
 </div>
 
 # Lessig 8, Indirect Regulation and Open Code
 
-By the end of the chapter (c. 7) Lessig raises a concern with "indirect regulation. He notes that indirect regulation has the ability of **masking responsibility**, of making regulation less transparent. This has the effect of making regulation easier to enact. 
+By the end of the chapter (c. 7) Lessig raises a concern with "indirect" regulation. He notes that indirect regulation has the ability of **masking responsibility**, of making regulation less transparent. This has the effect of making regulation easier to enact. 
 
 Thus (**and I think this is the critical takeaway from this chapter**) if we are not aware that "markets, norms, and architecture" can be used as tools of regulation, we're not going to be able to recognize forces behind this regulation. Accordingly, if we're not able to recognize these modalities of regulation, we will not be ready and able to deliberate as a community about the pros and cons of the various directions these regulations push us. We will be lead by these hidden regulations, rather than being in a position to use them as tools toward where we (as a community) really want to go.
 
-In chapter 8, Lessig offers one possible to address the "hiddeness" of regulation by code, namely open code.
+In chapter 8, Lessig offers one possible way to address the "hidden-ness" of regulation by code, namely through "open code".
 
 <div class="discussion" markdown="1">
 
