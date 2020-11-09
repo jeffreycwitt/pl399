@@ -30,7 +30,7 @@ Rather than re-narrate Lessig's account, let me provide some "reading questions"
 {:.rquestion}
 What are the "facts" of Olmstead vs. United States case? 
 
-{.question}
+{:.question}
 What is the constitutional issue at stake in this case?
 
 {:.answer}
