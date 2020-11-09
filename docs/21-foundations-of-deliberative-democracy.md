@@ -63,7 +63,7 @@ In chapter 2, what are the two concepts of sovereignty that support freedom of s
 
 What I want to keep in our mind as begin today and move forward is that, while Sunstein, see Brandeis has holding the better or more accurate view, at the time the Justices wrote these opinion, the difference mattered very little. Perhaps it was very perceptible. 
 
-What we need to see here is that that for most of the history of "deliberative democracy", the pursuit of the conditions necessary for "delberation" of harmoniously aligned with the expansion of speech, consumer choice with respect to speech? 
+What we need to see here is that that for most of the history of "deliberative democracy", the pursuit of the conditions necessary for "deliberation" of harmoniously aligned with the expansion of speech, consumer choice with respect to speech? 
 
 This is where I want to begin. Namely, with the question, why? Why does the expansion of speech seem so clearly to align with the expansion of deliberation and deliberative discourse. 
 
@@ -99,7 +99,7 @@ The resulting agreement characterized by Rousseau as the "General Will".
 
 But Rousseau cannot be so naive as to think that people who make such an agreement will actually behave like angels or need a coercive with the executive power to enforce rules. 
 
-How then can he consistenly say that such people remain autonomous self law givers? 
+How then can he consistently say that such people remain autonomous self law givers? 
 
 Rousseau makes an important distinction between your private will (what Kant will a later identify as your animal inclination) and your real will what you want as a "rational being". 
 

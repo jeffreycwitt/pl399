@@ -74,7 +74,7 @@ This seems like a decisive definition of translation. And critical here is the f
 
 Critical for us in this definition of "translation" is how this kind of change differs from what we see in a "Latent Ambiguity"
 
-<div class="discussion">
+<div class="discussion" markdown="1">
 
 Consider Lessig's final example of the "Confrontation Clause". Here the question is whether the constitution requires that a defendant confront his accuser in a one-directional or bi-directional way.
 
