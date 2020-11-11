@@ -13,7 +13,7 @@ published: true
 
 1. TOC
 {:toc}
-s
+
 
 <!-- Readings Kant, What is Enlightenment, Mill, On Liberty, chapter 2, Sunstein Chapters 1 and 2 -->
 
