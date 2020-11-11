@@ -142,7 +142,7 @@ The use of cultural material did not generally involve "copying", thus copyright
 
 But today as cultural material becomes digital, its "use" is intertwined with making "copies".
 
-{.:rquestion} 
+{:.rquestion} 
 Why? How how has technology shifted to change what "use" means?
 
 Even calling up a file from a hard drive to RAM means making a copy. Showing someone an image (via the internet) is actually the task of making a copy. (Think of Shannon's description of the fundamental problem of electronic communication: creating a signal that allows the end user to reconstruct an identical copy on the other end of the line.)
