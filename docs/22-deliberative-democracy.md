@@ -162,7 +162,9 @@ What counts as temperate? -->
 
 # Habermas and Fröbel
 
-Let's focus on just a few key moments through some "Guided Reading Questions".
+(Note: I'm still working on developing my notes for this section :))
+
+<!-- Let's focus on just a few key moments through some "Guided Reading Questions".
 
 {:.rquestion}
 What tension exists between liberty and equality? 
@@ -239,4 +241,4 @@ Habermas writes:
 
 Habermas here seems to rely on or trust that there must be sufficient rationality or civic virtue within the people themselves (prior to deliberation) to recognize the "rationality" of enforcing these conditions prior to deliberation itself.
 
-In this way, he would expect individuals to recognize that goverment intervention is justified *a priori*, in anticipation of the will of the people. Conditions would then be imposed that, while not yet chosen by the people, theoretically *would be chosen* if the condition were in place for healthy will formation to develop.
+In this way, he would expect individuals to recognize that goverment intervention is justified *a priori*, in anticipation of the will of the people. Conditions would then be imposed that, while not yet chosen by the people, theoretically *would be chosen* if the condition were in place for healthy will formation to develop. -->
