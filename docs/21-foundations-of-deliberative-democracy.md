@@ -139,6 +139,8 @@ With this challenge in mind, let's introduce Kant, specifically Kant's very impo
 
 <span class="respond"/> Given our focus on "code" as platform that makes speech possible? What kind of code (media) would be used for the expression of "public reason" during Kant's time? How would this code effect the "characteristics" of this speech? By "characteristics" I mean: Would literally everyone be able to say anything? Would everyone be able to hear? How would "public reason" be broadcast? Would public speech be communicated quickly or slowly? At what scale? How fast would "public reason" respond to current events? Why? How is this determined by the code of 18th century media? 
 
+</div>
+
 ## Kant and the Power of Dialectic
 
 A critical connection here is that Kant thinks the "free use of public reason" would lead to a process of social "Deliberation" through which the perspective of the General Will, Rationality Itself, would slowly emerge. 
@@ -147,9 +149,9 @@ We need to consider this more closely. It doesn't seem obvious.
 
 <div class="discussion" markdown="1">
 
-<span class="respond"> Why would allowing anyone to say anything help the truth emerge? 
+<span class="respond"/> Why would allowing anyone to say anything help the truth emerge? 
 
-<span class="respond"> What if someone used their public reason to say something false or clearly wrong? Wouldn't that lead us further away from the truth?
+<span class="respond"/> What if someone used their public reason to say something false or clearly wrong? Wouldn't that lead us further away from the truth?
 
 </div>
 
@@ -179,9 +181,9 @@ But as Sunstein notes, they do so for different reasons
 
 <div class="discussion" markdown="1">
 
-<span class="respond"> Why does Brandeis argue for protection of free speech? How does this reflect to the connection between free speech (free public reason) and the goals of deliberative democracy seen in Kant?
+<span class="respond"/> Why does Brandeis argue for protection of free speech? How does this reflect to the connection between free speech (free public reason) and the goals of deliberative democracy seen in Kant?
 
-<span class="respond"> Why does Holmes argue for protection of free speech? How is this different than the reason given by Brandeis?
+<span class="respond"/> Why does Holmes argue for protection of free speech? How is this different than the reason given by Brandeis?
 </div>
 
 At the present, critical for us is not the disagreement, but rather that at the time the Justices wrote these opinions, **the difference mattered very little**. Perhaps the difference was almost imperceptible.
@@ -194,7 +196,7 @@ The question for us is why? What is the about the traditional code or platform t
 
 Let's just consider one example here that Sunstein gives, namely reading newspapers. 
 
-<span class="respond"> How does the "code" of newspapers always place speech in a kind of context that promotes the goals of deliberation, such that allowing more newspapers (improving consumer choice) will always mean that people are exposed to a diversity of views, both wanted and unwanted (which would in turn improve the conditions for deliberation)?
+<span class="respond"/> How does the "code" of newspapers always place speech in a kind of context that promotes the goals of deliberation, such that allowing more newspapers (improving consumer choice) will always mean that people are exposed to a diversity of views, both wanted and unwanted (which would in turn improve the conditions for deliberation)?
 
 </div>
 
