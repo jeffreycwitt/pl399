@@ -25,7 +25,7 @@ As always, we want to think about how the desired effects of free speech (identi
 
 Sunstein (as we will see) does not always think these effects will remain when the platform has changed, and thus the equation, "more speech equal better deliberation" does not always remain true in the media landscape. This is of course getting a head of things. But it is important to keep in mind, as this is where we are headed.
 
-## Mill, On liberty, c. 2
+# Mill, On liberty, c. 2
 
 The argument of chapter 2 has tight structure, but Mill 19th century writing and the lack of visual cues sometimes makes it difficult to follow. 
 
