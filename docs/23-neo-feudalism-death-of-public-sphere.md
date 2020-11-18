@@ -130,7 +130,7 @@ But we might want to keep in mind that the Internet of the 1990s is much differe
 
 <span class="respond"/> First, why does it seem like the Internet of the 1990s might at first escape the three concerns (raised above) against the promise of niche media markets to restore the Public Sphere. (e.g. expansive cable programming etc.)
 
-<span class="respond"/> Second, to what extend is the Internet of today growing increasingly susceptible to these concerns?
+<span class="respond"/> Second, to what extent is the Internet of today growing increasingly susceptible to these concerns?
 
 </div>
 
