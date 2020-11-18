@@ -62,7 +62,7 @@ This commercialization or privatization has the effect of preventing "dialectic"
 
 {:.rquestion} 
 
-Why does Habermas call neo-feudalism?
+Why does Habermas call this neo-feudalism?
 
 It seems important that we call this "neo-feudalism" and not just "feudalism" because there is an important difference. The new feudalists are not the same as the old feudalists. The feudalists must now wield influence and control in a different way than the land owning aristocrats. Notably, their decisions must still **appear** to be justified by the "will of the people". 
 
