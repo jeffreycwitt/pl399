@@ -124,7 +124,7 @@ Here the suggestion is that as global international conglomerates build the Inte
 
 (This is a great transition to next class, where will look at Shapiro and the political excitement caused by the emerging digital media.)
 
-<div class="discussion">
+<div class="discussion" markdown="1">
 
 But we might want to keep in mind that the Internet of the 1990s is much different from the Internet today. 
 
