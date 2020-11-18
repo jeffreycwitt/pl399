@@ -76,7 +76,7 @@ Habermas writes on the final page of our reading:
 
 > At one time the process of making proceedings public (Publizitat) was intended to subject persons or affairs to public reason, and to make political decisions subject to appeal before the court of public opinion. But often enough today the process of making public simply serves the arcane policies of special interests; in the form of "publicity" it wins public prestige for people or affairs, thus making them worthy of acclamation in a climate of non-public opinion. The very words "public relations work" (Oeffentlichkeitsarbeit) betray the fact that a public sphere must first be arduously constructed case by case, a public sphere which earlier grew out of the social structure. Even the central relationship of the public, the parties and the parliament is affected by this change in function. <span class="citation" data-reading="6L3H3YVN=>p. 55" data-annotation="https://hyp.is/AkzaFij2Eeu2tk9QFmI4oQ/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Habermas_et_al._1974_The_Public_Sphere_An_Encyclopedia_Article_(1964).pdf">
 
-
+See also my notes on the Habermas article, especially [here](https://hyp.is/VwAeuimqEeuJ_HtBN6qFNw/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Habermas_et_al._1974_The_Public_Sphere_An_Encyclopedia_Article_(1964).pdf) and [here](https://hyp.is/s30KzCmqEeuUz5_NSNGZMg/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Habermas_et_al._1974_The_Public_Sphere_An_Encyclopedia_Article_(1964).pdf)
 
 And Louw echoes this on p. 94:
 
