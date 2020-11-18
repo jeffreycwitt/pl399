@@ -208,6 +208,11 @@ Here's an example of what a healthy process might look like.
 
 ![picture](https://s3.amazonaws.com/lum-faculty-jcwitt-public//pl399/MassCultureAndDeliberation/Folie2.png)
 
+And here's an example of what an unhealthy process might look like.
+
+![picture](https://s3.amazonaws.com/lum-faculty-jcwitt-public//pl399/MassCultureAndDeliberation/Folie3.png)
+
+Habermas worries that either administrative power or powerful private commercial interest, through control of the channels of communication, can unduly influence the private opinions of others. This effectively reduces the amount of raw material needed for dialectic to work. With a growing monoculture, there is less diversity of opinion, and thus less potential dialectical conflict that can lead toward a synthesis that better represents the truth, rationality, and the "public will". 
 
 
 
