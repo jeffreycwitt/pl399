@@ -199,7 +199,14 @@ In any case, it is fitting, in the end, if we hear from Gary Webb himself.
 </div>
 
 
+# Addendum: How Commercialization and Mass Culture Corrupts the Deliberation Process
 
+Here a few images that might help illustrate the way mass culture can subtly influence and weaken the deliberation process that Habermas looks for in the Public Sphere. 
+
+Here's an example of what a healthy process might look like. 
+
+
+![picture](https://s3.amazonaws.com/lum-faculty-jcwitt-public//pl399/MassCultureAndDeliberation/Folie2.png)
 
 
 
