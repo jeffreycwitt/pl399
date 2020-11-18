@@ -89,7 +89,7 @@ Let's spend sometime reflecting on this claim:
 
 <span class="response"/> Can we think of some of examples in which subtle/hidden pressure is placed on public discussion, in order to produce a particular outcome, albeit cloaked in the legitimizing cloak of "public opinion"?
 
-One might consider the tremendous role "public relations" firms have in determing what "news programs" and "newspapers" present to us as "news". Consider [one example here of Amazon pitching positive "news" stories to local news outlets](https://www.huffpost.com/entry/amazon-coronavirus-news-script_n_5ecd74afc5b6e90d24b2cab3)
+One might consider the tremendous role "public relations" firms have in determining what "news programs" and "newspapers" present to us as "news". Consider [one example here of Amazon pitching positive "news" stories to local news outlets](https://www.huffpost.com/entry/amazon-coronavirus-news-script_n_5ecd74afc5b6e90d24b2cab3)
 
 <span class="response"/> Louw, p. 94, refers to two-party systems as another example. How so? How does a two-party system determine the outcome of deliberation in certain ways, while suggesting that the outcome is simply the "will of the people? Why might this not actually represent what the "people" really want. 
 
