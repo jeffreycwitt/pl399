@@ -67,7 +67,7 @@ Today we want to consider the arguments and reason for this optimism. Knowing th
 
 Barlow's essay is a primary source article that captures the spirit of a age. Written in 1996, Barlow's essay illustrates the both the optimism of a new culture and the desire to defend that culture against encroaches from the old guard. 
 
-<div class="discussion">
+<div class="discussion" markdown="1">
 
 With this in mind, let's just consider one simple question:
 
