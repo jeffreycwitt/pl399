@@ -105,6 +105,8 @@ The central message of chapter appear to connect well with the trajectory we've 
 
 At the heart of the chapter is typical "positive" story about the power of internet based deliberation to challenge the narratives of mass media. 
 
+(Here are a few reading questions and then a discussion question.)
+
 {:.rquestion}
 How is this illustrated in the case of Elmer-DeWitt and Time magazine and the internet community? 
 
@@ -114,7 +116,7 @@ Why does Shapiro think this kind of correction would not have happened (or happe
 {:.rquestion}
 What is about the Internet that made this possible? 
 
-<div class="discussion">
+<div class="discussion" markdown="1">
 
 <span class="respond"/> Does this resonate with the example of Gary Webb, the power of mass media to control a story, and the power of the internet to a disseminate a story unliked by mass media? 
 
