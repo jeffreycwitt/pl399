@@ -140,9 +140,9 @@ Inasmuch as any individual person can create a website that can reach anyone els
 
 <div class="discussion" markdown="1">
 
-<span class="response"> Do you think this is true? Does every individual now have an equal ability to broadcast? 
+<span class="respond"> Do you think this is true? Does every individual now have an equal ability to broadcast? 
 
-<span class="response"> If so, but we still feel like the public sphere is "slanted" in favor of certain private interests over others, what other dimensions of the means of communication might Leibold have overlooked? What else might be needed for each voice to have an equal standing in the public sphere. (Shapiro, very subtly, offers a suggestion in the very last paragraph of this chapter.)
+<span class="respond"> If so, but we still feel like the public sphere is "slanted" in favor of certain private interests over others, what other dimensions of the means of communication might Leibold have overlooked? What else might be needed for each voice to have an equal standing in the public sphere. (Shapiro, very subtly, offers a suggestion in the very last paragraph of this chapter.)
 
 </div>
 
