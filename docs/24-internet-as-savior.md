@@ -30,6 +30,7 @@ Your paper should include the following features.
 2. Identify a challenge that modern communications media present to the achievement of this goal.
 3. Suggest an adjustment to public policy that shows an appreciation and understanding of Lessig's four modalities of regulation.
 4. Show how this policy proposal might help address the challenge identified above (no. 2).
+5. Make use of at least one secondary source that we did not consider in class.
 
 Due via Moodle by Mon Dec 14th (Due by 11:59pm)
 
