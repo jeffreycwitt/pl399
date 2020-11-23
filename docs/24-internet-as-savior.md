@@ -57,7 +57,7 @@ It is with this in mind that I want to turn (again moving historically) to why p
 
 As Shapiro notes, the 20th saw the mass the consolidation of ownership of communication channels to a handful of powerful players. 
 
-> In recent years, as global conglomerates have consolidated their ownership of media out-lets, Liebling's wry observation has seemed more apt then ever. In 1983, a few dozen corporations owned at least 80 percent of the market for television and radio programming, film, books, and magazines. In 1996, less than ten firms controlled around the same share of the mar-ket, and most of these firms were engaged in ventures together. (p. 40 https://hyp.is/8NCM4izTEeu8yIdtQqb0Pw/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Shapiro_1999_Lieblings_Revenge_ch4.pdf)
+> In recent years, as global conglomerates have consolidated their ownership of media out-lets, Liebling's wry observation has seemed more apt then ever. In 1983, a few dozen corporations owned at least 80 percent of the market for television and radio programming, film, books, and magazines. In 1996, less than ten firms controlled around the same share of the mar-ket, and most of these firms were engaged in ventures together. <span class="citation" data-reading="3Q53BL69=>p. 40" data-annotation="https://hyp.is/8NCM4izTEeu8yIdtQqb0Pw/s3.amazonaws.com/lum-faculty-jcwitt-public/pl399/Shapiro_1999_Lieblings_Revenge_ch4.pdf"/>
 
 In light of this shift, and Habermas' critique, Internet enthusiasts (such as Barlow and Shapiro) see the next media shift (the shift to the Internet) as a possible savior of deliberative democracy.
 
@@ -71,9 +71,8 @@ Barlow's essay is a primary source article that captures the spirit of a age. Wr
 
 With this in mind, let's just consider one simple question:
 
-<span class="response"> Why is Barlow excited about the possibilities of cyberspace? What does he see offered there that could be regarded as genuine improvement over the status quo?
+<span class="response"/> Why is Barlow excited about the possibilities of cyberspace? What does he see offered there that could be regarded as genuine improvement over the status quo?
 
-</span>
 
 </div>
 
