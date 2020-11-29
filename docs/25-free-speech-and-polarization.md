@@ -3,7 +3,8 @@ layout: lecture
 title: "25: Freedom of speech and Polarization"
 nav_order: 25
 reading: [5RCLA4K6, MZSRQI53]
-published: false
+date: 2020-11-29
+published: true
 ---
 
 ## Table of contents
@@ -14,8 +15,185 @@ published: false
 
 # Introduction
 
+## Is Group Formation Good or Bad for Deliberation?
 
-# Problem
+Before diving into today's reading, let's start by noting an emerging problem. 
+
+It seems clear that the Internet is providing new avenues for group formation. 
+
+As noted by both Lessig and Shapiro, this group formation is a important tool that enables individual to speak, who would not have done so without being a part of such a group. 
+
+{:.rquestion} 
+As review, can you think of some examples? Can you think of some examples in your life and experience?
+
+From a Habermasian perspective this would seem to be a good thing. The public sphere is distorted when individuals are equally "free" (here we might think of freedom as "enabled" or "empowered") to express their own opinion. In the langauge of Susnstein, such expression expands the "pool of arguments and opinions in the public sphere", and such expansion improves the results of deliberation.
+
+At the same time, Sunstein is now giving considerable attention to the ways group formation can have the reverse effect. Group membership can also produce "group think" which in turn has a constraining effect an individuals speech. While consumers remain able to choose, there choices are influenced by the group and increasingly uniform. This effect of group membership reduces the "pool of arguments and opinions in the public sphere" which would seem to worsen the conditions for deliberation.
+
+In the latter case, there are two valences to the idea of "more speech". There might be more speech "quantitatively" (i.e. more voices speaking) but there is less speech "qualitatively" (fewer perspective represented). 
+
+This relationship between the quantity of speech and quality (not quality in terms of good or bad, but quality as in "qualis" for "what kind" or "what sort") appears to be at the heart of the tension Sunstein is exploring in today's reading and at the heart of the question we've been asking as to "whether 'more speech' always equals better deliberation"? 
+
+Answering this question requires reflection on what do we mean by "more"? In these chapter Sunstein seems particularly attentive to the way Internet (and digital media in general) is rapidly expanding the "quantitative" possibilities of speech. And while sometimes this can also correlate with an increase in types of speech (quality), Sunstein is at pains to identify was that the speed, scale, and subsequent filtering of that speech is reducing the amount of qualitative speech within the public sphere.
+
+A critical task for us as potential policy makers is to be attentive the communication conditions that are enabling group formation that is improving the deliberation of the public sphere and equally aware of the conditions are creating groups which are harmful to the public sphere.
+
+With this in mind, we as policy makers we can use the tools at our disposal (law, market, norms, code) to try to encourage those conditions that have a positive effect and suppress those conditions that have a negative effect.
+
+## Ideal Speech Conditions
+
+This attempt to identify conditions is what Habermas sometimes refers to as "Ideal Speech Conditions". And such conditions seem to be part of what Sunstein attempts to identify when he distinguishes between "deliberative enclaves" and "polarized" groups. (See Sunstein, c3, pp. 85-88)
+
+To help us appreciate Sunstein's reflections on the forces of polarization vis-a-vis enclave formation, let's first review what Habermas thinks is needed for good deliberation and then turn to Sunstein description of some of the new modalities of the Internet that threaten the conditions necessary for good deliberation.
+
+There seem to be two things necessary:
+
+1. Everyone freely speaks 
+2. Speech is spoken is such a way that its "deliberative reverberation" (my phrase) can be felt and incorporated into subsequent speech. 
+
+**1. Speaking Freely**
+
+As we've discussed the conditions necessary to allow everyone to freely speak are not so easy to attain. The ability of private citizens to freely express themselves on public matters is threatened by both the direct interference of administrative power and indirectly through the manipulation of will formation (by either administrative power or disproportionately empowered private interest)
+
+The formation of small groups with a common interest is an important way of combatting these pressures. If people fear being ostracized from a community or from their means of employment, they are not likely to speak. 
+
+Likewise, when people are only allowed access to certain pieces of information, they are likely to make speech choices from an artificial limited set of options. (These are issues often considered in philosophy under the title "epistemic injustice")
+
+Small groups or enclaves help combat these pressures. Thus, Habermas referred to the public sphere as being composed of "small voluntary associations that form nodes in a network." These associations were formed voluntarily, and thus relieved of pressure that might come from compulsory participation or market constraints (e.g. I'll loose my job if I don't join or if I say the wrong thing and get kicked out of the group).
+
+**2. Feeling the effects of deliberation**
+
+In addition to speaking freely, we have also seen that the platform (code) on which free speech acts occur is important. 
+
+In fact, if group formation is not "porous" to the "reverberating effects of deliberation"; that is, if a group makes its members immune to results of dialectic (to the result of two opposing views coming into conflict), then condition number one is threatened. Increasingly, an individual's choice to be speak will be constrained because their "opinion formation" as been distorted by lack of access to the results of public deliberation. 
+
+For free speech to result in positive deliberation/dialectic it has to come into open conflict.
+
+I like to think of that conflict producing a kind of reverberation that takes time to be received.
+
+Thus, if the speech platform (the technology of communication) hinders the reception of that "reverberation" (it clogs the pores of a deliberative enclave) then speech will actual homogenize. And thus, though there may be quantitatively more speech, there will be qualitatively "less speech". 
+
+It is in this light that I approach Sunstein's chapters. In these two chapters, I see Sunstein describing several different ways (along with many examples/studies) about the new modalities (e.g. the speed, scale, cost, discoverability, etc.) of digital media are "clogging pores" of a deliberative enclaves, making its members increasingly unable to hear the results of public deliberation, and consequently, constraining the speech of its own members.
+
+With this mind I would like to focus our discussion around what Sunstein thinks joining a group looks like in the modern world and the ways the combination of human behavior and internet technology prevents reception of the "reverberations" of public deliberation.
+
+# Sunstein, Chapter 3: Polarization
+
+Below I list just three ideas that struck me as I ready chapter 3.
+
+<div class="discussion" markdown="1">
+
+Consider pp. 63-68: As technology improves the ability of people to speak it create the problem of information overload. Given this problem, filtering becomes necessary. 
+
+But as Sunstein notes on p. 64, this is not necessarily a new problem. Filtering was needed and has existed long before the Internet. In fact, as we read, Shapiro identifies a number of defects in the way filtering was previously was conducted, and wa excited about the new filitering possibilities of the Internet which gave individuals more control over the filtering and selection process. 
+
+<span class="respond"/> Why aspects of the pre-internet filtering process left "open pores" in the deliberative enclave wherein unwanted, unselected content could be received?
+
+<span class="respond"/> According to Sunstein, how is filtering within the Internet closing those "pores"? How is individual "opinion formation" being affected as a result.
+
+</div> 
+
+<div class="discussion" markdown="1">
+
+Sunstein talks a lot about the unique ability of the Internet to enable repetition, and thereby "amplify" a message.
+
+<span class="respond"> What are some examples of this repetition and amplification?
+
+<span class="respond"> How does this amplification distort "public deliberation"? For example, to what extent do you consider the reaction of the crowd or the majority of people when you engage in will formation? When might it be reasonable or rational to do this? To what extent is the "amplification" effect of the internet giving people a "distorted" view of the crowd? (Among many pages, consider p. 77, p. 83, p. 85, p. 88)
+
+</div>
+
+<div class="discussion" markdown="1">
+
+On p. 75, Sunstein consider the impact of group identity. While group identity can be important (sometimes enabling speech), Sunstein here seems to attentive to the way group identity leads to a peculiar way of "holding an opinion". Here the issues seems to be not exactly what the opinion is, but why a person holds that opinion and how fiercely a person holds it. 
+
+This seems to have direct effects on how able someone is to "hear and absorb" criticism and receive the results of "deliberative reverberations"
+
+<span class="respond"> In what is the Internet changing "why" we hold an opinion or how "enthusiastically" we hold that opinion?
+
+<span class="respond"> What are some examples of ways that this kind of "opinion formation" is preventing further deliberation and growth? (Consider especially the sections on pp. 92 and 93)
+
+
+# Sunstein, Chapter 4: Cybercascades
+
+Let's continue with the same kind of reflection with respect to chapter four and the idea of Cybercascades. 
+
+First a few reading questions:
+
+Sunstein notes that research have observed that when you have enough people estimating (say the number of jelly beans in the jelly bean jar), the results are usually surprisingly good. (See p. 113)
+
+But this depends on one condition? That members of the crowd were not allowed to consult with one another. When members of the crowd are allowed to consult with one another ahead of time, the results of this crowd estimation are considerably worse. 
+
+{:.rquestion}
+How does Sunstein's notion of a cascade help us explain this?
+
+The non-colluding crowd seems like a good example of Habermas's Ideal Speech Conditions. Here each person gives their opinion "freely" (without restraint and free of manipulation). The cumulative average of this "crowd" is surprisingly good. But when people are allowed to hear the guesses of others, their own "opinion formation" is distorted and the results our worse. 
+
+{:.rquestion}
+What are the two kinds of cascades Sunstein identifies at the opening of this chapter? How do the explain why individual's opinion formation might irrationally affected when aware of the guesses of others?
+
+<div class="discussion" markdown="1">
+
+As Sunstein notes, to some extent these cascades have always existed. But he suggests that today, the Interet makes them more frequent and more dangerous. 
+
+Let's focus our attention on the example of political petitions (pp. 104-108) Petitions have always existed, but now they exist on line.
+
+<span class="respond"/> How is the new "platform" of the petition, affecting its success or failure? 
+
+<span class="respond"/> In this form, does a successful petition represent a "rational opinion" formation or is it somehow distorted? If distorted what prevented it from being the result of "deliberation" or "dialectic"? 
+
+<span class="respond"/> Why might petition with the same number signature achieved through physical mail or door to door canvassing more closely represent the results of dialectical synthesis (i.e. synthesized opinions refined through the opposition of antithesis)? Why might online petitions represent merely the un-refined thesis (still unrefined by the dialectical process)?
+
+</div>
+
+<div class="discussion" markdown="1">
+
+The same dynamic seems to be at work in polling? 
+
+<span class="respond"/> How does the "speed" of polling, enabled by digital communication affect its results and affect on law-givers? 
+
+<span class="respond"/> Why might this speed prevent people's response to a poll from reflecting a "deliberatively informed opinion"
+
+<span class="respond"/> What is a Fishkin Poll (pp. 133-135) and how does it attempt to address this problem?
+
+</div>
+
+# Note: Does deliberation just mean the "middle"?
+
+Mill, I think, has already shown us that emphasizing the value of deliberation doesn't just mean the rational result is merely the middle. 
+
+Certainly, since we are not infallible, the middle might often be closer to the truth. The example about the astounding accuracy of non-colluding group estimation might be a good example of this. 
+
+But as Mill notes, even if someone is 98% correct, deliberation that exposes someone to another belief that is 98% wrong is still helpful because it may also expose us to the 2% of truth that we are missing. 
+
+And further, if we are 100% correct, the 100% false antithesis still helps us understand the reasons behind our belief and the essential meaning of it.
+
+
+But sometime the notion of a middle doesn't really make much sense, especially when we move away from probabilities and move toward normative questions, "should" or "should not" statements. Here, the idea that the right thing to do is just halfway between two opposing beliefs doesn't make a lot of sense.
+
+Take for example, opposing position on immigration. 
+
+Bob says, borders should be open; Sally says, borders should be closed. Is the rational policy merely: borders half open? I think not.
+
+Another way we might understand the importance of deliberation and hearing many voices without attempting to "normalize" or "rationalize" manifestly false or even hateful opinions might be found by looking back to Rousseau. 
+
+Recall, Rousseau's idea of the "General Will" was a "rational will" that each individual possessed but was often hidden by the their biased desire for preferential treatment: what he calls, the "Private Will" 
+
+Similarly, for Kant, the categorical imperative represents what I would choose *if I were being rational* and not being swayed by my instinctual desire for self-preferential treatment. 
+
+We all struggle with this bias. But it is at the same time possible to identify the rational view as that which *would be chosen* if I see the world from a "disinterested point of view". This "disinterested point of view" could be considered a kind of middle between completely absorption with my private interest and complete denial of myself and my equal inclusion within society. 
+
+Strictly speaking there is no right answer to open borders closed borders question. This is a value question and the answer depends on what we value.
+
+It is likely then that the person who wants open borders recognizes some benefits of this policy toward their private interest. Similarly the person who argues for closed borders likely sees benefits to their private interest from this position. 
+
+The goal of dialectic/deliberation then might not be to find a middle between two stated policy positions. Rather, through the clashing of the interests that motivate these policy positions, each party might be more capable of seeing the competing interests of the other. Through this clash, we are encouraged to consider the situation again from a more neutral perspective.In this way, deliberation would help us acquire the perspective of the General Will. And then finally, the policy position that results from this perspective would be considered the rational proposal.
+
+**But I think there is one caveat here**. The Internet's ability to repeat or amplifying an individual voice could still have a distorting effect. An amplified voice creates the impression of more competing interests than there actually are. In an attempt to arrive at the perspective of the General Will (which takes into account all competing interest), this perspective will be distorted by the artificial impression of voices and interests that do not actually exist.
+
+
+
+<!-- # Problem
 
 One problem we face here is -- seen especially in the examples where the internet seems to advance extremism (see the podcast on youtube and radicalization) -- is to simultaneously recognize the importance of protecting freedom of speech for the benefits of preserving the possibility of discourse and debate and the same time justifying the restraint on freedom of speech in a certain cases. 
 
@@ -148,4 +326,4 @@ The attempt to criticize it only when it leads to conclusions you don't like is 
 
 Oddly, it seems that critiquing the medium here as the vehicle that leads to a problematic belief would force us to also the critique that led him away from it. And conversely, praising the medium that led to a better belief would force us to praise the very same medium that led him to the problematic belief. 
 
-The VE solution to the Gettier problem might help us here. We might be able to approve of Caleb's new belief without yet calling it knowledge, because it is not yet believed on the grounds of intellectual virtue, but still on the grounds of the majority/mob or rhetorical points, or as he sometimes says "owning" an opponent in argument. In this regard, I would consider Caleb's new belief very fragile, unstable, and vulnerable to the next persuasion.
+The VE solution to the Gettier problem might help us here. We might be able to approve of Caleb's new belief without yet calling it knowledge, because it is not yet believed on the grounds of intellectual virtue, but still on the grounds of the majority/mob or rhetorical points, or as he sometimes says "owning" an opponent in argument. In this regard, I would consider Caleb's new belief very fragile, unstable, and vulnerable to the next persuasion. -->
