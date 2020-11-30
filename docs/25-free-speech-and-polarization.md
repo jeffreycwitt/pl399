@@ -170,19 +170,19 @@ And further, if we are 100% correct, the 100% false antithesis still helps us un
 
 But sometime the notion of a middle doesn't really make much sense, especially when we move away from probabilities and move toward normative questions, "should" or "should not" statements. Here, the idea that the right thing to do is just halfway between two opposing beliefs doesn't make a lot of sense.
 
-Take for example, opposing position on immigration. 
+Take for example, opposing positions on immigration. 
 
-Bob says, borders should be open; Sally says, borders should be closed. Is the rational policy merely: borders half open? I think not.
+Bob says, borders should be open; Sally says, borders should be closed. Is the rational policy merely: borders half open? I think not. What if the issue were civil rights and the opposing positions were, grant civil rights to marginalized communities or do not grant them? Is the rational answers, grant minority communities "half of the civil rights" to marginalized communities? I think not.
 
 Another way we might understand the importance of deliberation and the hearing of many voices (without attempting to "normalize" or "rationalize" manifestly false or even hateful opinions) can be found by looking back to Rousseau. 
 
-Recall, Rousseau's idea of the "General Will" was a "rational will" that each individual possessed but was often hidden by the their biased desire for preferential treatment: what he calls, the "Private Will" 
+Recall, Rousseau's idea of the "General Will" was a "rational will" that each individual possessed but was often hidden by their biased desire for preferential treatment: what he calls, the "Private Will" 
 
 Similarly, for Kant, the categorical imperative represents what I would choose *if I were being rational* and *if I were not being swayed by my instinctual desire for self-preferential treatment*. 
 
-We all struggle with this bias. But it is at the same time possible to identify the rational view as that which *would be chosen* if I could see the world from a "disinterested point of view". This "disinterested point of view" could be considered a kind of middle between complete absorption with my private interest and complete denial of myself and my equal inclusion within society. 
+We all struggle with this bias. But it is at the same time possible to identify the rational view as that which *would be chosen* if I could see the world from a "disinterested point of view" (John Rawls calls this the position "behind the veil of ignorance"). This "disinterested point of view" could be considered a kind of middle between complete absorption with my private interest and complete denial of myself and my equal inclusion within society. 
 
-Strictly speaking there is no right answer to open borders closed borders question. This is a value question and the answer depends on what we value. But our perspective on what is valuable will change as we move from the perspective of the Private Will to the perspective of the General Will.
+Without context, there is no right answer to open borders closed borders question. This is a value question and the right/rational answer depends on what we value. But our perspective on what is valuable will change as we move from the perspective of the Private Will toward the perspective of the General Will.
 
 It is likely then that the person who wants open borders recognizes some benefits of this policy toward their private interest. Similarly the person who argues for closed borders likely sees benefits to their private interest from this position. 
 
