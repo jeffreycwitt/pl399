@@ -28,13 +28,13 @@ As review, can you think of some examples that support this aspect of group form
 
 From a Habermasian perspective, this kind of group formation would seem to be a good thing. The public sphere is distorted when individuals are NOT equally "free" (here we might think of freedom as "enabled" or "empowered") to express their own opinion. In the language of Sunstein, such expression expands the "pool of arguments and opinions in the public sphere", and such expansion improves the results of deliberation.
 
-At the same time, Sunstein is now giving considerable attention to the ways group formation can have the reverse effect. Group membership can also produce "group think" which in turn has a constraining effect an individual speech. While consumers may remain able to choose, their choices are influenced by the group and what they choose to say becomes increasingly determined by what others in the group say. This effect of group membership reduces the "pool of arguments and opinions in the public sphere" which would seem to worsen the conditions for deliberation.
+At the same time, Sunstein is now giving considerable attention to the ways group formation can have the reverse effect. Group membership can also produce "group think" which in turn has a constraining effect on individual speech. While consumers may remain able to choose, their choices are influenced by the group and what they choose to say becomes increasingly determined by what others in the group say. This effect of group membership reduces the "pool of arguments and opinions in the public sphere" which would seem to worsen the conditions for deliberation.
 
 In the latter case, there are two valences to the idea of "more speech". There might be more speech "quantitatively" (i.e. more voices speaking) but there is less speech "qualitatively" (fewer perspectives represented). 
 
 This relationship between the quantity of speech and quality (not quality in terms of good or bad, but quality as in "qualis" for "what kind" or "what sort") appears to be at the heart of the tension Sunstein is exploring in today's reading. It also is at the heart of the question we've been asking for a while now, namely, "whether 'more speech' always equals better deliberation"? 
 
-Answering this question requires reflection on what we mean by "more"? In these chapters Sunstein seems particularly attentive to the way Internet is rapidly expanding the "quantitative" possibilities of speech. And while this can sometimes correlate with an increase in types of speech (quality), Sunstein is at pains to identify ways that the speed, scale, and subsequent filtering of that speech is reducing the amount of qualitative speech within the public sphere.
+Answering this question requires reflection on what we mean by "more". In these chapters Sunstein seems particularly attentive to the way the Internet is rapidly expanding the "quantitative" possibilities of speech. And while this can sometimes correlate with an increase in types of speech (quality), Sunstein is at pains to identify ways that the speed, scale, and subsequent filtering of that speech is reducing the amount of qualitative speech within the public sphere.
 
 A critical task for us as potential policy makers is to be attentive the communication conditions that are enabling group formation beneficial to deliberation and at the same time aware of the conditions that are creating groups which are harmful to deliberation.
 
@@ -42,7 +42,7 @@ With this in mind, we as policy makers can then use the tools at our disposal (l
 
 ## Ideal Speech Conditions
 
-This attempt to identify conditions is what Habermas sometimes refers to as "Ideal Speech Conditions". And such conditions seem to be part of what Sunstein attempts to identify when he distinguishes between "deliberative enclaves" and "polarized" groups. (See Sunstein, c3, pp. 85-88)
+This attempt to identify conditions is what Habermas sometimes refers to as ["Ideal Speech Situation"](https://en.wikipedia.org/wiki/Ideal_speech_situation). Defining such a situation seems to be part of what Sunstein attempts to identify when he distinguishes between "deliberative enclaves" and "polarized" groups. (See Sunstein, c3, pp. 85-88)
 
 To help us appreciate Sunstein's reflections on the forces of polarization vis-a-vis enclave formation, let's first review what Habermas thinks is needed for good deliberation and then turn to Sunstein's description of some of the new modalities of the Internet that threaten these conditions.
 
@@ -59,21 +59,21 @@ The formation of small groups with a common interest is an important way of comb
 
 Likewise, when people are only allowed access to certain pieces of information, they are likely to make speech choices from an artificially limited set of options. (These are issues often considered in philosophy under the title "epistemic injustice"). 
 
-Small groups or enclaves help combat these pressures. Thus, Habermas referred to the public sphere as being composed of "small voluntary associations that form nodes in a network." These associations are formed voluntarily, and thus relieved of pressure that might come from compulsory participation or market constraints (e.g. I'll loose my job if I don't join or if I say the wrong thing and get kicked out of the group).
+Small groups or enclaves help combat these pressures. Thus, Habermas referred to the public sphere as being composed of "small voluntary associations that form nodes in a network." These associations are formed voluntarily, and thus relieved of pressure that might come from compulsory participation or market constraints (e.g. I'll loose my job if I don't join or if I say the wrong thing and get kicked out of the group). But they are also sufficiently small such that no group can significantly pressure the voices of other groups. 
 
 **2. Feeling the effects of deliberation**
 
 In addition to speaking freely, we have also seen that the platform (code) on which free speech acts occur is important. 
 
-In fact, if group formation is not "porous" to the "reverberating effects of deliberation"; that is, if a group makes its members immune to results of dialectic (to the result of two opposing views coming into conflict), then condition number one is threatened. Increasingly, an individual's choice to be speak will be constrained because their "opinion formation" has been distorted by lack of access to the results of public deliberation. 
+In fact, if group formation is not "porous" to the "reverberating effects of deliberation"; that is, if a group makes its members immune to results of dialectic (to the result of two opposing views coming into conflict), then condition number one is threatened. Increasingly, an individual's choice to speak will be constrained because their "opinion formation" has been distorted by lack of access to the results of public deliberation. 
 
 For free speech to result in positive deliberation/dialectic it has to come into open conflict.
 
-I like to think of that conflict producing a kind of reverberation that takes time to be received. Thus, if the speech platform (the technology of communication) hinders the reception of that "reverberation" (if it "clogs the pores" of a deliberative enclave) then speech will actual homogenize. And thus, though there may be quantitatively more speech, there will be qualitatively "less speech". 
+I like to think of that conflict producing a kind of reverberation that takes time to be received. Thus, if the speech platform (the technology of communication) hinders the reception of that "reverberation" (if it "clogs the pores" of a deliberative enclave) then speech will actual homogenize. And thus, though there may be quantitatively more speech, there will be qualitatively "less speech". In fact, this combination (high quantity, low quality) may create a distorting amplification of an individual voice (see our discussion "amplification" below.)
 
 It is in this light that I read Sunstein's chapters. In these two chapters, I see Sunstein describing several different ways (along with many examples/studies) that the new modalities (e.g. the speed, scale, cost, discoverability, etc.) of digital media are "clogging pores" of deliberative enclaves, making its members increasingly unable to hear the results of public deliberation, and consequently, constraining the speech of its own members.
 
-With this mind I would like to focus our discussion around what Sunstein thinks joining a group looks like in the Internet Age and the ways the combination of human behavior and technological possibility prevents reception of the "reverberations" of public deliberation.
+With this in mind I would like to focus our discussion around what Sunstein thinks joining a group looks like in the Internet Age and the ways the combination of human behavior and technological possibility prevents reception of the "reverberations" of public deliberation.
 
 # Sunstein, Chapter 3: Polarization
 
@@ -83,7 +83,7 @@ Below I list three ideas that struck me as I ready chapter 3.
 
 Consider pp. 63-68: As technology improves the ability of people to speak, it create the problem of information overload. Given this problem, filtering becomes necessary. 
 
-But as Sunstein notes on p. 64, this is not necessarily a new problem. Filtering was needed and has existed long before the Internet. In fact, as we read, Shapiro identifies a number of defects in the way filtering was previously conducted. Shapiro was excited about the new filtering possibilities of the Internet which gave individuals more control over the selection process. 
+But as Sunstein notes on p. 64, this is not necessarily a new problem. Filtering was needed and has existed long before the Internet. In fact, as we read, Shapiro identifies a number of defects in the way filtering was previously conducted. Shapiro was excited about the new filtering possibilities of the Internet because it gave individuals more control over the selection process. 
 
 <span class="respond"/> What aspects of the pre-internet filtering process left "open pores" in the deliberative enclave wherein unwanted, unselected content could be received?
 
@@ -109,7 +109,7 @@ This seems to have direct effects on how able someone is to "hear and absorb" cr
 
 <span class="respond"> In what way is the Internet changing "why" we hold an opinion or how "enthusiastically" we hold that opinion?
 
-<span class="respond"> What are some examples of ways that this kind of "opinion formation" is preventing further deliberation and growth? (Consider especially the sections on pp. 92 and 93)
+<span class="respond"> What are some examples of ways that this kind of "opinion formation" is preventing further deliberation and growth? (Consider especially the sections on pp. 92 and 93.)
 </div>
 
 
@@ -126,7 +126,7 @@ But this depends on one condition: that members of the crowd are not allowed to 
 {:.rquestion}
 How does Sunstein's notion of a cascade help us explain this?
 
-The non-colluding crowd seems like a good example of Habermas's Ideal Speech Conditions. Here each person gives their opinion "freely" (without restraint and free of manipulation). The cumulative average (when the extremes have been cancelled out through conflict) of this "crowd" is surprisingly good. But when people are allowed to hear the guesses of others, their own "opinion formation" is distorted and the results our worse. 
+The non-colluding crowd seems like a good example of Habermas's Ideal Speech Situation. Here each person gives their opinion "freely" (without restraint and free of manipulation). The cumulative average (when the extremes have been cancelled out through conflict) of this "crowd" is surprisingly good. But when people are allowed to hear the guesses of others, their own "opinion formation" is distorted and the results our worse. 
 
 {:.rquestion}
 What are the two kinds of cascades Sunstein identifies at the opening of this chapter? How do they explain why an individual's opinion formation might irrationally be affected when aware of the guesses of others?
