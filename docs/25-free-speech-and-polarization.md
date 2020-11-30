@@ -110,6 +110,7 @@ This seems to have direct effects on how able someone is to "hear and absorb" cr
 <span class="respond"> In what way is the Internet changing "why" we hold an opinion or how "enthusiastically" we hold that opinion?
 
 <span class="respond"> What are some examples of ways that this kind of "opinion formation" is preventing further deliberation and growth? (Consider especially the sections on pp. 92 and 93)
+</div>
 
 
 # Sunstein, Chapter 4: Cybercascades
