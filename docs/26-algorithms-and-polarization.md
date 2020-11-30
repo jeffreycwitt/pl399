@@ -3,7 +3,8 @@ layout: lecture
 title: "26: Alogorithms and Polarization"
 nav_order: 26
 reading: ["7VCGRZBW", "GW2KF9I9", "A5HNSCY4", "NLMJGHJZ", "4DJ3P6KV"]
-published: false
+date: 2020-11-30
+published: true
 ---
 
 ## Table of contents
@@ -13,16 +14,30 @@ published: false
 
 [Rabit Hole Podcast landing page](https://www.nytimes.com/2020/04/22/podcasts/rabbit-hole-prologue.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
 
-
+<div class="video">
 <iframe src="https://open.spotify.com/embed-podcast/episode/5ez13KFqFlXeaFve1XHuJV" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<p class="vda">Discussion Anchor</p>
+</div>
 
+<div class="video">
 <iframe src="https://open.spotify.com/embed-podcast/episode/7GP4kaqyGbPz3CrvkTcBRx" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<p class="vda">Discussion Anchor</p>
+</div>
 
+<div class="video">
 <iframe src="https://open.spotify.com/embed-podcast/episode/4PiFGKG3KUirXgmuQZs73T" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<p class="vda">Discussion Anchor</p>
+</div>
 
+<div class="video">
 <iframe src="https://open.spotify.com/embed-podcast/episode/1wlZzEe7nbe6AYUKJVogOg" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<p class="vda">Discussion Anchor</p>
+</div>
 
+<div class="video">
 <iframe src="https://open.spotify.com/embed-podcast/episode/17vSyBYKUihUXBJYsJpGdR" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<p class="vda">Discussion Anchor</p>
+</div>
 
 
 <!-- 
