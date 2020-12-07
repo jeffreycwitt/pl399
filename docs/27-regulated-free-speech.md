@@ -101,7 +101,6 @@ After all, if someone is wealthy enough to buy a megaphone that would allow then
 Government regulation that attempts to use code, market, norms, or law to give everyone, rich or poor, an equal opportunity to speak should strictly speaking **not** be seen as a **constraint** -- though it can often feel like one (e.g. "You are NOT allowed to use your megaphone"). On the contrary, such a government imposition is meant to be a protection of the maximal amount of freedom that all individuals can be possess in social context.
 
 
-</div>
 
 # Sunstein: Advice for cautious regulators
 
