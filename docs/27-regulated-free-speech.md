@@ -23,15 +23,15 @@ First, a general tip. As you begin generating ideas, especially for rubric numbe
 
 The more detailed you are, the more precise you can be as a policy maker in your proposed regulation and in your argument for why this regulation would be successful. 
 
-For example if your interested in the topic of "amplification", don't talk about amplification generally identify a particular example of amplification to focus in on. Perhaps the "retweet" button. Even before the Internet and digital technology we have "re-shared" things. For example by making copies or re-sending things by mail. How does the "retweet" button continue that but in a new way. How have costs, speed, scale change in ways that threaten values that we're protected by the old code. 
+For example if your interested in the topic of "amplification", don't talk about amplification generally identify a particular example of amplification to focus in on. Perhaps the "retweet" button. Even before the Internet and digital technology we have "re-shared" things. For example by making copies or re-sending things by mail? How does the "retweet" button continue that but in a new way. How have costs, speed, scale change in ways that threaten values that we're protected by the old code?
 
-If you're interested in "information overload", don't talk about "information overload" generally, think of specific place where overload is encountered. (For example your email inbox or google search results). Then consider the effects that might result from this particular example.
+If you're interested in "information overload", don't talk about "information overload" generally; think of a specific place where overload is encountered. (For example your email inbox or google search results). Then consider the effects that might result from this particular example.
 
 We've already discussed many emerging issues, concerns, or problems, and our reading today offers us some more examples. 
 
 <div class="discussion" markdown="1">
 
-We'll spend some time brainstorming in class as well, but can asynchronously brainstorm here as well? 
+We'll spend some time brainstorming in class as well, but we can asynchronously brainstorm here as well? 
 
 <span class="respond"/> What concrete cases come to mind (from today's reading, previous readings, or your own experience) where changes in communications technology are posing specific problems to deliberative democracy that could potentially benefit from regulation?
 
@@ -52,7 +52,7 @@ time which nature ordinarily alloweth men to live." (Hobbes, Leviathan, Book 1, 
 
 In their own ways, both Sunstein and Lessig begin by challenging a common assumption that the first amendment protects speech from regulation, **absolutely**. 
 
-Both identify this view as "incoherent" or "naive", nd though Hobbes goes unmentioned, they do so for Hobbesian reasons. Hobbes's great insight was that the pursuit of absolute freedom always leads to less freedom than would be possible if parties agreed to allow some restrictions to freedom. 
+Both identify this view as "incoherent" or "naive", and though Hobbes goes unmentioned, they do so for Hobbesian reasons. Hobbes's great insight was that the pursuit of absolute freedom always leads to less freedom than would be possible if parties agreed to allow some restrictions to freedom. 
 
 For Hobbes the war that results from pursuing absolute freedom keeps us in perpetual anxiety and risk of attack. This risk from others attempting to pursue their own freedom destroys any possibility of productive or meaningful enterprise or cultural activity. 
 
@@ -67,13 +67,13 @@ fear, and danger of violent death; and the life of man, solitary, poor, nasty, b
 
 In the context of free speech this can be seen simply through the image of a group of people yelling at each other, each person trying to outshout the other person in order to be heard. In such a case, while in theory everyone is free to speak and shout as loud as possible, in practice no one is actually free to speak and be heard. 
 
-As Hobbes noted, it is only when we are willing to give our hopes for the **theoretically best** option ("the right to speak at any and all times") and accept the second best option ("take turns speaking") that we are able to get the **best actually realizable option**.
+As Hobbes noted, it is only when we are willing to give up our hopes for the **theoretically best** option ("the right to speak at any and all times") and accept the second best option ("take turns speaking") that we are able to get the **best actually realizable option**.
 
-In this regard, Sunstein and Lessig point out that government regulation has always been at work in order to make free speech possible. As Sunstein says: those that complain against regulation, are really just complaining about changes to the advantageous status quo that existing regulation has created. (Just a car drivers might complain that the imposition of a bike lane as undo government interference, while ignoring the fact that their entitlement to use an automobile on public streets is already the result of government "interference" &#x1F609;)
+In this regard, Sunstein and Lessig point out that government regulation has always been at work in order to make free speech possible. As Sunstein says: those that complain against regulation, are really just complaining about changes to the advantageous status quo that existing regulation has created. (Just a car drivers might complain that the imposition of a bike lane is undo government interference, while ignoring the fact that their entitlement to use an automobile on public streets is already the result of government "interference" &#x1F609;)
 
-Sunstein also connects the appeal for de-regulation to an incoherent valuation of consumer sovereignty. This connection offers us one further chance to review. In this case, regulation is seen as a threat to consumer sovereignty. 
+Sunstein also connects the appeal for de-regulation to an incoherent valuation of consumer sovereignty. This connection offers us one further chance to review. 
 
-But again Sunstein sees this as incoherent. If everyone is shouting at the same time, then we really don't have any choices.
+In this case, regulation is seen as a threat to consumer sovereignty. But again Sunstein sees this as incoherent. If everyone is shouting at the same time, then we really don't have any choices.
 
 Habermas also gave us a way to think about this incoherence in an even more subtle form. 
 
@@ -96,13 +96,17 @@ But in the second place, as Lessig is continually at pains to stress, the laws m
 
 Thus in addition to thinking about regulation as a constraint, the constraint itself can be used as a form of protection against competing forms of regulation that threaten something that a society holds valuable. 
 
-After all, if someone is wealthy enough to buy a megaphone that would allow then to shout over others, this is a form of private regulation through market and code. 
+After all, if someone is wealthy enough to buy a megaphone that would allow them to shout over others, this is a form of private regulation through market and code. 
 
 Government regulation that attempts to use code, market, norms, or law to give everyone, rich or poor, an equal opportunity to speak should strictly speaking **not** be seen as a **constraint** -- though it can often feel like one (e.g. "You are NOT allowed to use your megaphone"). On the contrary, such a government imposition is meant to be a protection of the maximal amount of freedom that all individuals can be possess in social context.
 
 
 
+
+
 # Sunstein: Advice for cautious regulators
+
+This idea of maintaining the **maximal** amount of freedom is a good transition. The regulator's solutions should not be heavy handed. They should attempt to "toe the line", that is find a solution that gives everyone as much freedom as possible without over privileging anyone. A heavy handed approach, may be easier and more efficient, but it creates new problems.
 
 In making the overall argument that we should be open to the idea that society is justified in regulating speech to promote the ends of deliberative democracy, Sunstein offers us some reminders of why it is important to be cautions regulators. 
 
