@@ -11,7 +11,7 @@ published: true
 
 In this chapter, Sunstein offers some examples of regulations that he thinks would help to improve the conditions for deliberative democracy in the digital age.
 
-<div class="discussion">
+<div class="discussion" markdown="1">
 
 Please consider these proposals with your own paper and regulation proposal in mind.
 
