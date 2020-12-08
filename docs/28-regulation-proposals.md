@@ -3,39 +3,111 @@ layout: lecture
 title: "28: Regulation Proposals"
 nav_order: 28
 reading: [LPNNPZZI]
-published: false
+date: 2020-12-08
+published: true
 ---
 
-# Review 
+# Sunstein: Regulation Ideas
 
-Let's begin with some review. 
+In this chapter, Sunstein offers some examples of regulations that he thinks would help to improve the conditions for deliberative democracy in the digital age.
 
-The argument that Sunstein has building up to this point seems to aim at erecting a foundation upon which he can justify public influence in what to many people might appear private speech acts protected by the constitution.
+<div class="discussion">
 
-Let's consider the steps of this argument.
+Please consider these proposals with your own paper and regulation proposal in mind.
 
-1. As the initial and popular belief is that speech is protected absolutely, he has worked hard to show us that speech has never enjoyed absolute protection. (See chapters 7 and 8).
+<span class="respond"/> Did any of these proposals strike you as particularly promising or useful for the proposal paper you're writing? How so? How might it apply to the case you are considering?
+
+<span class="respond"/> Did any of these proposals seem particularly un-promising, problematic, or ineffective? How so? Why?
+
+</div>
+
+# Course/Exam Review
+
+# Exam Format 
+
+The exam format will consist of two parts. (1) A question section composed primarily of multiple choice or short answer questions and (2) then two essay questions asking you to explore and articulate some of the big ideas we've been discussing.
+
+In preparation for class and our review session, consider the following bullet points. Please annotate any ideas you would like to discuss, review, or clarify during our class review session.
+
+## Big Course Ideas 
+
+* How do the big ideas of our previous units connect/relate to our discussion of media and deliberative democracy?
+* For example, ideas like:
+  * The Medium is the Message
+  * The Living (oral culture) vs. the Dead (literary culture) 
+    * McLuhan sometimes refers to the electronic age as the second age of orality. Why?
+    * How does the dynamism of oral culture re-emerge in the digital age?
+  * Shannon's theory of information.
+    * How does Shannon's theory of information make possible the kind of communication dynamism, speed, and scale that creates new "Latent Ambiguities" for us in the digital age?
+  * Hyperlinks, Interconnectivity, Multi-sequence
+    * To what extent are these features of the text in digital age contributing to the "Latent Ambiguities" we face in the digital public sphere?
+
+## Deliberative Democracy in the Digital Age
+
+* Rousseau's unique political aspiration.
+* The difficulty Rousseau has in achieving this aspiration.
+* Kant's ideas about the conditions necessary for the "will of the people" to emerge.
+* Mill's argument for why "more speech generally means better deliberation".
+  * There at least four distinct arguments here.
+* Why Brandeis's protection of "free speech" shows agreement with the previous arguments of Kant and Mill.
+* Why Holmes argument for the same protection of speech is based on a different principle.
+* What is a Latent Ambiguity and why is the Brandeis/Holmes decision a good example of such an ambiguity.
+* Habermas's idea of the "Public Forum" and the "Ideal Speech Situation"
+  * Why does democracy need the public forum?
+  * Why does the speech situation of the late 18th and early 19th century come close to resembling this speech situation?
+  * What is Neo-Feudalism and why does it threaten the public forum and simultaneously hide the fact that this threat exists?
+  * Why did the Internet initially look like a chance to restore the "Ideal Speech Situation" and recapture the public forum?
+  * In what ways might the Internet of the 21st century be said to be at risk of returning to "Neo-Feudalism"?
+* The nature of regulation
+  * Why does the Internet seem "less" regulable according to Lessig?
+  * WHy is the Internet actually (or potentially) quite regulable, and perhaps the most regulable communication system ever invented?
+  * What are the four modalities of regulation identified by Lessig?
+  * How does regulation (in these different forms) function both as a constraint and as protection? 
+    * Consider here why Habermas would say the pursuit of consumer sovereignty alone is self-defeating. Why is consumer freedom/choice lost if it is not also regulated? 
+    * How does Hobbes express this idea?
+* The Daily Me: Filtering as a threat to deliberative democracy
+  * What does Sunstein mean when he refers to the "Daily Me"?
+  * Why is filtering information necessary and important?
+    * (In fact, why does Shapiro think the Internet offers democracy better ways of filtering?) 
+  * How did old code constrain "filtering" in ways that were seemingly good for deliberative democracy?
+  * Why might these constraints seem like "bugs", when they could actually be "features"?
+    * What are som examples?
+  * How have changes in the code removed the "bugs" or "friction" in the old code and thereby created potentially new problems for democracy. 
+  * What is the difference between polarization and a deliberative enclave?
+    * Why can the Interent's ability to foster group formation be seen as both a good and bad thing for deliberative democracy? 
+    * What other factors determine when group formation is a benefit for deliberative democracy and when it is a threat?
+  * How can regulation be used to protect these features that were previously protected by the "imperfections" of the old code? 
+    * Why must a regulator be extra careful when regulating political speech? How would Habermas explain this concern?
+    * What are the different forms of neutrality that regulation can take with respect to speech? What are the pros and cons of these different approaches?
+  
+
+
+<!-- ## Lessig, Sunstein, and Deliberative Democracy
+        
+The argument that Sunstein has been building up to this point seems to aim at erecting a foundation upon which he can justify public influence on what many people believe are private speech acts protected by the constitution.
+
+As part of course review and exam prep, let's consider the steps of this argument.
+
+1. As it is a popular belief that speech is protected by the constitution absolutely, Susntein (and Lessig) has worked hard to show us that speech has never enjoyed absolute protection. (See Sunstein, chapters 7 and 8).
 1. If speech is not absolutely protected, then there must be reasons/principles that determines when it is and is not protected.
-    1. It has been suggested by Lessig and Sunstein that a couple of different principle could have precedent in the legal tradition, seen in the opinions of Holmes and Brandeis (See Sunstein c. 2) 
+    1. It has been suggested by Lessig and Sunstein that a couple of different principle could have precedent in the legal tradition, as seen in the opinions of Holmes and Brandeis (See Sunstein c. 2) 
     1. Review questions: 
-        1. why might this be an example of a Latent Ambiguity?
-        1. what is it about the nature of previous media forms that might not have forced us to clarify principles, such that principles of Holmes and Brandeis led to the same conclusions/laws, and thus the principle question did not need to be decided. 
-        1. what is it about the nature of digital media and the internet now may force us to decide the question of value?
+        1. Why might this be an example of a Latent Ambiguity?
+        1. What is it about the nature of previous media forms that might not have forced us to clarify which principle was being used to justify the protection of speech.Why was it that Holmes and Brandeis could adopt different principles but be led to the same conclusions. Why was it about the code of existing media that did not require this quesiton of principle to be explicitly declared?
+        1. What is it about the nature of digital media and the internet now that may force us to decide the question of value?
             1. One possibility is that the limits of speed and scale inherent with print and broadcast media created "natural-like" restrictions on scale. Thus in the pursuit of a public forum that would support the principle of deliberative democracy (Brandeis), the danger was rarely too many voices, but too few. The sense that greater number and diversity should be promoted on behalf of the public interest aligned nicely with the principle of consumer choice and consumer sovereignty. The more diversity, the more voices, the more choice consumers had. 
-            2. But as "media" changes the limitations of print and broadcast media no longer see operative. Costs of publication have become so low and speed has become so fast that the danger of not having enough outlets for expression is less of a threat, and it is possible that too many unregulated voices are present, now actually making the goal of deliberative democracy more difficult rather than easier.
-    1. Even when the principle of consumer choice is privileged, there is still a case for restricting speech and being worried about the extreme of too much choice? Why
-        1. Review Question: Why? 
-        1. Because the uncontrolled use of speech does not create more choice, but less. 
-        1. How so?
-          1. It is possible that there might be too much speech, if is expressed all at once in the same place. If I have the right to speak or the right to choose to hear someone else speak, I obviously cannot hear or be heard if we are all shouting at the same time. Thus, in order that I might enjoy might to hear and be heard, I must be willing to allow might own right to speech to be regulated and curtailed (Classic Hobbes Political Philosophy)
-          1. Regulation of radio bandwidths (the FCC) is excellent example. If we all broadcast on the same frequencies, no one will be heard. Thus, in order for anyone to be heard, our collective right to speak on the radio is regulated. 
+            2. But as "media" changes the old limitations of print and broadcast media no longer seem operative. Costs of publication have become so low and speed has become so fast that the danger of not having enough outlets for expression is less of a threat, and it is possible that too many unregulated voices are present, now actually making the goal of deliberative democracy more difficult rather than easier.
+      1. Even when the principle of consumer choice is privileged, there is still a case for restricting speech and being worried about the extreme of too much choice? Why?
+        1. How would Habermas, The Frankfurt School, or Leow explain this? 
+        1. How might Hobbes explain this?
+          1. It is possible that there might be too much speech, if is expressed all at once in the same place. If I have the right to speak or the right to choose to hear someone else speak, I obviously cannot hear or be heard if we are all shouting at the same time. Thus, in order that I might enjoy might to hear and be heard, I must be willing to allow might own right to speech to be regulated and curtailed 
     1. When privileging the value of deliberative democracy the calculation is similar, except there are more/different factors at play determining. The a particular kind of free exercise of speech is of critical importance to deliberative democracy, thus at times the curtailment of this freedom may be necessary so that this particular kind of freedom may be exercised. 
         1. This is again classically Hobbesian: the freedom to do everything is actually the power to do nothing. 
-        1. And here we see an important but subtle valence in the different ways we use the word freedom. Freedom as lack of restraint (negative freedom) and freedom as ability (positive freedom). Two sense that easily confused and lead to fallacious and confused reasoning.
+        1. And here we see an important but subtle valence in the different ways we use the word freedom. Freedom as lack of restraint (negative freedom) and freedom as ability (positive freedom). These, two senses are easily confused and lead to fallacious and confused reasoning.
 1. Sunstein take the position that speech is protected in order to make us free (as in able) to participate in deliberative democracy. Thus free expression (free as in unrestrained) works against this ideal, then it should be restrained.
-1. Next he says (first line of p. 213), a communications system that is fragmented (creates fragmentation or deliberation) is a threat to the democratic ideal. Thus (based on premise 3), un-restrained freedom of expression is justified in being restrained to the degree necessary to prevent this fragmentation.
+1. Next he says (first line of p. 213), a communications system that is fragmented (creates fragmentation or prevents deliberation) is a threat to the democratic ideal. Thus (based on the premise above), un-restrained freedom of expression is justified in being restrained to the degree necessary to prevent this fragmentation.
 
-With this in mind, I think we can look at the proposals put forward in chapter 9, as an answer to the question, what kinds of regulation (restrictions/public involvement) are justified in combatting a "fragmented system of communications"
+
 
 # Goals to be achieved in a communication system.
 
@@ -57,17 +129,6 @@ Again, what seems unique is that for most of our history, the pursuit of these g
 4. "economic subsidies"
 5. "must-carry" policies..."
 6. "the creative use of links..."
-7. "opposing viewpoint..."
+7. "opposing viewpoint..." -->
 
-**Assignment** In preparation for class discussion, I'd like 7 different different pairs/threesomes to select a proposal and evaluate. 
-
-1. What is the proposal?
-2. Which of the modalities identified by Lessig does it employ (may be more than one, if so how are they combined and balanced)?
-3. Some of your own examples of how it might be applied
-4. Thoughts or arguments in support of the proposal (reading charitably, why might this be a good proposal?)
-5. Thoughts or arguments against the proposal (what are some concerns you have, or reasons why this proposal might not be particularly successful)
-
-[Reports to be submitted on Moodle for all to read, prior to class discussion)
-
-During class discussion, I would like to discuss your evalutations.
 
